@@ -1,0 +1,4066 @@
+{
+ "meta": {
+  "ten": "Văn 7 cùng em",
+  "sach": "Ngữ văn 7, tập một — Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam)",
+  "phamvi": "Học kì I (Bài 1–5)",
+  "nguon": "Tên bài, văn bản, tác giả, kiến thức Tri thức ngữ văn, nội dung Thực hành tiếng Việt, yêu cầu và quy trình phần Viết, Nói và nghe: đối chiếu với SGK Ngữ văn 7 tập một do cô Phương nạp (bản PDF, đọc bằng OCR). Câu hỏi \"Đối chiếu sách\" chỉ dẫn số trang và trích rất ngắn; em đọc văn bản trong sách. Các đoạn \"luyện kĩ năng\" là đoạn trợ lý tự viết, không trích từ SGK. Số trang tính theo bản PDF; nếu lệch, báo để sửa."
+ },
+ "tags": {
+  "tg": "Tác giả – tác phẩm",
+  "doc": "Đọc hiểu & thể loại",
+  "tv": "Tiếng Việt",
+  "viet": "Viết",
+  "noi": "Nói và nghe"
+ },
+ "bai": [
+  {
+   "n": 1,
+   "ten": "Bầu trời tuổi thơ",
+   "the": "Truyện, thơ",
+   "tv": "Mở rộng thành phần chính và trạng ngữ bằng cụm từ; từ láy",
+   "viet": "Tóm tắt văn bản theo những yêu cầu khác nhau về độ dài",
+   "noi": "Trao đổi về một vấn đề mà em quan tâm",
+   "vb": [
+    "Bầy chim chìa vôi",
+    "Đi lấy mật",
+    "Ngàn sao làm việc",
+    "Ngôi nhà trên cây"
+   ],
+   "vbtr": [
+    "tr.11",
+    "tr.18",
+    "tr.25",
+    "tr.33"
+   ],
+   "trviet": "tr.27"
+  },
+  {
+   "n": 2,
+   "ten": "Khúc nhạc tâm hồn",
+   "the": "Thơ bốn chữ, thơ năm chữ",
+   "tv": "Nói giảm nói tránh; nghĩa của từ ngữ; điệp ngữ, so sánh, nhân hoá",
+   "viet": "Tập làm thơ bốn chữ hoặc năm chữ; viết đoạn văn ghi lại cảm xúc sau khi đọc một bài thơ",
+   "noi": "Trình bày suy nghĩ về một vấn đề đời sống (gợi ra từ tác phẩm văn học đã đọc)",
+   "vb": [
+    "Đồng dao mùa xuân",
+    "Gặp lá cơm nếp",
+    "Trở gió",
+    "Chiều sông Thương"
+   ],
+   "vbtr": [
+    "tr.40",
+    "tr.43",
+    "tr.44",
+    "tr.56"
+   ],
+   "trviet": "tr.48"
+  },
+  {
+   "n": 3,
+   "ten": "Cội nguồn yêu thương",
+   "the": "Truyện, thơ",
+   "tv": "Số từ; phó từ",
+   "viet": "Viết bài văn phân tích đặc điểm nhân vật trong một tác phẩm văn học",
+   "noi": "Trình bày ý kiến về một vấn đề đời sống (gợi ra từ một nhân vật văn học)",
+   "vb": [
+    "Vừa nhắm mắt vừa mở cửa sổ",
+    "Người thầy đầu tiên",
+    "Quê hương",
+    "Trong lòng mẹ"
+   ],
+   "vbtr": [
+    "tr.59",
+    "tr.65",
+    "tr.73",
+    "Thực hành đọc"
+   ],
+   "trviet": "tr.74"
+  },
+  {
+   "n": 4,
+   "ten": "Giai điệu đất nước",
+   "the": "Thơ",
+   "tv": "Ngữ cảnh và nghĩa của từ ngữ trong ngữ cảnh; từ láy; dấu ngoặc đơn, ngoặc kép; biện pháp tu từ",
+   "viet": "Viết bài văn biểu cảm về con người hoặc sự việc",
+   "noi": "Trình bày ý kiến về những hoạt động thiện nguyện vì cộng đồng",
+   "vb": [
+    "Mùa xuân nho nhỏ",
+    "Gò Me",
+    "Đường núi",
+    "Chiều biên giới"
+   ],
+   "vbtr": [
+    "tr.90",
+    "tr.94",
+    "tr.96",
+    "tr.104"
+   ],
+   "trviet": "tr.98"
+  },
+  {
+   "n": 5,
+   "ten": "Màu sắc trăm miền",
+   "the": "Tuỳ bút, tản văn",
+   "tv": "Dấu gạch ngang; biện pháp tu từ; từ ngữ địa phương",
+   "viet": "Viết văn bản tường trình",
+   "noi": "Trình bày ý kiến về việc gìn giữ văn hoá truyền thống",
+   "vb": [
+    "Tháng Giêng, mơ về trăng non rét ngọt",
+    "Chuyện cơm hến",
+    "Hội lồng tồng",
+    "Những khuôn cửa dấu yêu"
+   ],
+   "vbtr": [
+    "tr.107",
+    "khoảng tr.112",
+    "tr.117",
+    "Thực hành đọc"
+   ],
+   "trviet": "tr.120"
+  }
+ ],
+ "doan": [
+  {
+   "id": "d1",
+   "bai": 1,
+   "tieude": "Luyện: Cơn mưa đầu mùa",
+   "s": [
+    "Cơn mưa đầu mùa kéo đến khi chiều chưa tắt nắng.",
+    "Bé Na đứng ở hiên, lo lắng nhìn mấy cái tổ chim trên cây ổi.",
+    "Nó thì thầm: “Mong sao mưa đừng to quá!”",
+    "Nhưng gió nổi lên, cành ổi rung bần bật.",
+    "Na vụt chạy ra sân, lấy chiếc nón lá che cho tổ chim nhỏ."
+   ],
+   "tho": false
+  },
+  {
+   "id": "d2",
+   "bai": 2,
+   "tieude": "Luyện: Đêm quê (thơ bốn chữ)",
+   "s": [
+    "Trăng lên đầu ngõ",
+    "Gió ru vườn cau",
+    "Ve ngừng tiếng nhỏ",
+    "Đêm xuống rất mau"
+   ],
+   "tho": true
+  },
+  {
+   "id": "d3",
+   "bai": 3,
+   "tieude": "Luyện: Trông em",
+   "s": [
+    "Mẹ dặn tôi ở nhà trông em.",
+    "Tôi vừa bế em vừa nhìn ra ngõ, lòng nôn nao muốn chạy đi chơi.",
+    "Nhưng nghe em khẽ ọ ẹ, tôi lại ngồi xuống, vỗ về em ngủ.",
+    "Mãi đến khi mẹ về, tôi mới dám thở phào."
+   ],
+   "tho": false
+  },
+  {
+   "id": "d4",
+   "bai": 4,
+   "tieude": "Luyện: Đôi bàn tay của bà",
+   "s": [
+    "Mỗi lần nhìn đôi bàn tay chai sạn của bà, em lại thấy lòng mình thắt lại.",
+    "Đôi bàn tay ấy đã nuôi em lớn, đã vá cho em bao chiếc áo rách.",
+    "Em yêu bà biết bao!",
+    "Mai này lớn lên, em nhất định sẽ trở thành người bà tự hào."
+   ],
+   "tho": false
+  },
+  {
+   "id": "d5",
+   "bai": 5,
+   "tieude": "Luyện: Chợ hoa chiều cuối năm",
+   "s": [
+    "Chiều cuối năm, chợ hoa nhộn nhịp sắc màu.",
+    "Tôi đi giữa những chậu đào hồng, cành mai vàng, bỗng thấy lòng nao nao nhớ cái Tết ngày bé, khi bà ngồi gói bánh bên bếp lửa.",
+    "Hương nếp mới ngày ấy, đến giờ vẫn thơm trong kí ức tôi."
+   ],
+   "tho": false
+  },
+  {
+   "id": "s1a",
+   "bai": 1,
+   "tieude": "Bầy chim chìa vôi (Nguyễn Quang Thiều)",
+   "sgk": true,
+   "tr": "tr.11–17",
+   "s": [],
+   "tho": false
+  },
+  {
+   "id": "s1b",
+   "bai": 1,
+   "tieude": "Đi lấy mật (trích Đất rừng phương Nam, Đoàn Giỏi)",
+   "sgk": true,
+   "tr": "tr.18–24",
+   "s": [],
+   "tho": false
+  },
+  {
+   "id": "s1c",
+   "bai": 1,
+   "tieude": "Ngàn sao làm việc (Võ Quảng)",
+   "sgk": true,
+   "tr": "tr.25–26",
+   "s": [],
+   "tho": false
+  },
+  {
+   "id": "s2a",
+   "bai": 2,
+   "tieude": "Đồng dao mùa xuân (Nguyễn Khoa Điềm)",
+   "sgk": true,
+   "tr": "tr.40–41",
+   "s": [],
+   "tho": false
+  },
+  {
+   "id": "s2b",
+   "bai": 2,
+   "tieude": "Gặp lá cơm nếp (Thanh Thảo)",
+   "sgk": true,
+   "tr": "tr.43–44",
+   "s": [],
+   "tho": false
+  },
+  {
+   "id": "s2c",
+   "bai": 2,
+   "tieude": "Trở gió (Nguyễn Ngọc Tư)",
+   "sgk": true,
+   "tr": "tr.44–46",
+   "s": [],
+   "tho": false
+  },
+  {
+   "id": "s3a",
+   "bai": 3,
+   "tieude": "Vừa nhắm mắt vừa mở cửa sổ (Nguyễn Ngọc Thuần)",
+   "sgk": true,
+   "tr": "tr.59–63",
+   "s": [],
+   "tho": false
+  },
+  {
+   "id": "s3b",
+   "bai": 3,
+   "tieude": "Người thầy đầu tiên (Ai-tơ-ma-tốp)",
+   "sgk": true,
+   "tr": "tr.65–71",
+   "s": [],
+   "tho": false
+  },
+  {
+   "id": "s3c",
+   "bai": 3,
+   "tieude": "Quê hương (Tế Hanh)",
+   "sgk": true,
+   "tr": "tr.73",
+   "s": [],
+   "tho": false
+  },
+  {
+   "id": "s4a",
+   "bai": 4,
+   "tieude": "Mùa xuân nho nhỏ (Thanh Hải)",
+   "sgk": true,
+   "tr": "tr.90–93",
+   "s": [],
+   "tho": false
+  },
+  {
+   "id": "s4b",
+   "bai": 4,
+   "tieude": "Gò Me (Hoàng Tố Nguyên)",
+   "sgk": true,
+   "tr": "tr.94–95",
+   "s": [],
+   "tho": false
+  },
+  {
+   "id": "s4c",
+   "bai": 4,
+   "tieude": "Bài thơ “Đường núi” của Nguyễn Đình Thi (Vũ Quần Phương)",
+   "sgk": true,
+   "tr": "tr.96–98",
+   "s": [],
+   "tho": false
+  },
+  {
+   "id": "s5a",
+   "bai": 5,
+   "tieude": "Tháng Giêng, mơ về trăng non rét ngọt (Vũ Bằng)",
+   "sgk": true,
+   "tr": "tr.107–111",
+   "s": [],
+   "tho": false
+  },
+  {
+   "id": "s5b",
+   "bai": 5,
+   "tieude": "Chuyện cơm hến (Hoàng Phủ Ngọc Tường)",
+   "sgk": true,
+   "tr": "khoảng tr.112–116",
+   "s": [],
+   "tho": false
+  },
+  {
+   "id": "s5c",
+   "bai": 5,
+   "tieude": "Hội lồng tồng (Trần Quốc Vượng – Lê Văn Hảo – Dương Tất Từ)",
+   "sgk": true,
+   "tr": "tr.117–119",
+   "s": [],
+   "tho": false
+  }
+ ],
+ "cau": [
+  {
+   "id": "1a",
+   "bai": 1,
+   "tag": "tg",
+   "type": "match",
+   "q": "Ghép văn bản với tác giả.",
+   "pairs": [
+    [
+     "Bầy chim chìa vôi",
+     "Nguyễn Quang Thiều"
+    ],
+    [
+     "Đi lấy mật (trích Đất rừng phương Nam)",
+     "Đoàn Giỏi"
+    ],
+    [
+     "Ngàn sao làm việc",
+     "Võ Quảng"
+    ],
+    [
+     "Ngôi nhà trên cây (trích Tốt-tô-chan bên cửa sổ)",
+     "Cư-rô-ya-na-gi Tê-su-cô"
+    ]
+   ],
+   "why": "Đây là các văn bản đọc và văn bản Thực hành đọc của Bài 1 – Bầu trời tuổi thơ (SGK tr.11, 18, 25, 33)."
+  },
+  {
+   "id": "1b",
+   "bai": 1,
+   "tag": "tg",
+   "type": "mc",
+   "q": "Văn bản “Đi lấy mật” được trích từ tác phẩm nào?",
+   "opts": [
+    "Đất rừng phương Nam",
+    "Tốt-tô-chan bên cửa sổ",
+    "Những ngày thơ ấu",
+    "Hai vạn dặm dưới biển"
+   ],
+   "a": 0,
+   "why": "“Đi lấy mật” trích từ truyện Đất rừng phương Nam của Đoàn Giỏi.",
+   "wrong": [
+    null,
+    "Đây là tác phẩm có đoạn trích “Ngôi nhà trên cây”.",
+    "Đây là tập hồi kí của Nguyên Hồng, học ở Bài 3.",
+    "Đây là tác phẩm của Giuyn Véc-nơ, học ở Bài 7."
+   ]
+  },
+  {
+   "id": "1c",
+   "bai": 1,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Trong Bài 1, văn bản nào là bài THƠ?",
+   "opts": [
+    "Ngàn sao làm việc",
+    "Bầy chim chìa vôi",
+    "Đi lấy mật",
+    "Ngôi nhà trên cây"
+   ],
+   "a": 0,
+   "why": "Bầy chim chìa vôi, Đi lấy mật, Ngôi nhà trên cây là truyện (hoặc đoạn trích truyện). Ngàn sao làm việc của Võ Quảng là bài thơ kết nối chủ đề.",
+   "wrong": [
+    null,
+    "Đây là truyện của Nguyễn Quang Thiều.",
+    "Đây là đoạn trích tiểu thuyết Đất rừng phương Nam.",
+    "Đây là đoạn trích tự truyện Tốt-tô-chan bên cửa sổ."
+   ]
+  },
+  {
+   "id": "1d",
+   "bai": 1,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Theo SGK, trạng ngữ của câu có thể là:",
+   "opts": [
+    "Một từ hoặc một cụm từ",
+    "Chỉ có thể là một từ",
+    "Chỉ có thể là một câu",
+    "Chỉ có thể là một tiếng"
+   ],
+   "a": 0,
+   "why": "Trạng ngữ có thể là một từ (Đêm, trời mưa…) hoặc một cụm từ (Đêm hôm đó, trời mưa…). Trạng ngữ là cụm từ cho thông tin cụ thể hơn.",
+   "wrong": [
+    null,
+    "Trạng ngữ không bị giới hạn ở một từ.",
+    "Trạng ngữ chỉ là một thành phần của câu, không phải là cả câu.",
+    "Tiếng là đơn vị nhỏ hơn từ; trạng ngữ có thể dài hơn thế."
+   ]
+  },
+  {
+   "id": "1e",
+   "bai": 1,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Câu: “Sáng sớm tinh mơ, bọn trẻ rủ nhau ra bờ sông.” Trạng ngữ của câu là gì?",
+   "opts": [
+    "Sáng sớm tinh mơ (chỉ thời gian)",
+    "Bọn trẻ (chỉ người)",
+    "Ra bờ sông (chỉ nơi chốn)",
+    "Rủ nhau ra bờ sông"
+   ],
+   "a": 0,
+   "why": "“Sáng sớm tinh mơ” đứng đầu câu, ngăn cách bằng dấu phẩy, chỉ thời gian.",
+   "wrong": [
+    null,
+    "“Bọn trẻ” là chủ ngữ.",
+    "“Ra bờ sông” nằm trong vị ngữ (rủ nhau đi đâu?), không đứng đầu câu làm thông tin phụ.",
+    "Đây là cả vị ngữ."
+   ]
+  },
+  {
+   "id": "1f",
+   "bai": 1,
+   "tag": "tv",
+   "type": "sort",
+   "q": "Xếp mỗi trạng ngữ vào đúng nhóm ý nghĩa.",
+   "bins": [
+    "Thời gian",
+    "Nơi chốn",
+    "Nguyên nhân",
+    "Mục đích"
+   ],
+   "items": [
+    [
+     "Trên cánh đồng lúa chín vàng",
+     1
+    ],
+    [
+     "Khi mặt trời vừa ló dạng",
+     0
+    ],
+    [
+     "Vì trời mưa to",
+     2
+    ],
+    [
+     "Để kịp chuyến đò cuối",
+     3
+    ],
+    [
+     "Sau cơn mưa rào",
+     0
+    ]
+   ],
+   "why": "Trạng ngữ có thể là cụm từ dài: cụm danh từ (Sau cơn mưa rào) hoặc cụm chủ – vị (Khi mặt trời vừa ló dạng)."
+  },
+  {
+   "id": "1g",
+   "bai": 1,
+   "tag": "tv",
+   "type": "sort",
+   "q": "Phân loại các từ láy sau.",
+   "bins": [
+    "Láy toàn bộ",
+    "Láy phụ âm đầu",
+    "Láy vần"
+   ],
+   "items": [
+    [
+     "xanh xanh",
+     0
+    ],
+    [
+     "ào ào",
+     0
+    ],
+    [
+     "lung linh",
+     1
+    ],
+    [
+     "mênh mông",
+     1
+    ],
+    [
+     "lao xao",
+     2
+    ],
+    [
+     "loắt choắt",
+     2
+    ]
+   ],
+   "why": "Láy toàn bộ: lặp lại cả tiếng. Láy bộ phận: lặp lại phụ âm đầu (lung linh) hoặc phần vần (lao xao)."
+  },
+  {
+   "id": "1h",
+   "bai": 1,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Từ nào dưới đây KHÔNG phải từ láy?",
+   "opts": [
+    "Róc rách",
+    "Lấp lánh",
+    "Học hành",
+    "Thăm thẳm"
+   ],
+   "a": 2,
+   "why": "“Học hành” gồm hai tiếng đều có nghĩa (học, hành) ghép lại: từ ghép. Ba từ còn lại có quan hệ láy âm giữa các tiếng.",
+   "wrong": [
+    "“Róc rách” láy phụ âm đầu r.",
+    "“Lấp lánh” láy phụ âm đầu l.",
+    null,
+    "“Thăm thẳm” láy phụ âm đầu th."
+   ]
+  },
+  {
+   "id": "1i",
+   "bai": 1,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Câu: “Những chú chim chìa vôi non run rẩy trong tổ.” Chủ ngữ của câu là cụm từ nào?",
+   "opts": [
+    "Những chú chim chìa vôi non",
+    "Chim chìa vôi non run rẩy",
+    "Trong tổ",
+    "Run rẩy trong tổ"
+   ],
+   "a": 0,
+   "why": "Chủ ngữ là cụm danh từ “Những chú chim chìa vôi non”. Vị ngữ là cụm động từ “run rẩy trong tổ”.",
+   "wrong": [
+    null,
+    "Cụm này lấy cả một phần vị ngữ (run rẩy).",
+    "“Trong tổ” chỉ nơi chốn, nằm trong vị ngữ.",
+    "Đây là vị ngữ."
+   ]
+  },
+  {
+   "id": "1j",
+   "bai": 1,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Câu: “Bé Na đang chăm chú nhìn tổ chim.” Vị ngữ của câu là:",
+   "opts": [
+    "Đang chăm chú nhìn tổ chim",
+    "Bé Na",
+    "Chăm chú nhìn",
+    "Tổ chim"
+   ],
+   "a": 0,
+   "why": "Vị ngữ là cụm động từ “đang chăm chú nhìn tổ chim”: có phó từ “đang” đứng trước và bổ ngữ “tổ chim” đứng sau.",
+   "wrong": [
+    null,
+    "“Bé Na” là chủ ngữ.",
+    "Thiếu phó từ “đang” và bổ ngữ “tổ chim”.",
+    "“Tổ chim” chỉ là bổ ngữ trong vị ngữ."
+   ]
+  },
+  {
+   "id": "1k",
+   "bai": 1,
+   "tag": "viet",
+   "type": "mc",
+   "q": "Khi tóm tắt một văn bản, em cần làm gì?",
+   "opts": [
+    "Nêu nhân vật và sự việc chính theo đúng trình tự, bằng lời của mình, ngắn hơn bản gốc",
+    "Chép lại tất cả chi tiết cho đầy đủ",
+    "Chỉ chép câu đầu mỗi đoạn",
+    "Thêm ý kiến riêng thật nhiều vào bài tóm tắt"
+   ],
+   "a": 0,
+   "why": "Tóm tắt giữ lại cái chính, bỏ chi tiết phụ, đúng trình tự và dùng lời của em.",
+   "wrong": [
+    null,
+    "Chép đầy đủ chi tiết thì không còn là tóm tắt.",
+    "Câu đầu mỗi đoạn chưa chắc nêu sự việc chính.",
+    "Tóm tắt không đưa ý kiến riêng làm thay đổi nội dung."
+   ]
+  },
+  {
+   "id": "1l",
+   "bai": 1,
+   "tag": "viet",
+   "type": "order",
+   "q": "Sắp xếp các bước tóm tắt văn bản theo đúng thứ tự.",
+   "items": [
+    "Đọc kĩ, xác định nhân vật và các sự việc chính",
+    "Chọn sự việc quan trọng, bỏ chi tiết phụ",
+    "Viết lại bằng lời của em, đúng trình tự",
+    "Đối chiếu với bản gốc, chỉnh sửa"
+   ],
+   "why": "Quy trình viết: chuẩn bị – chọn ý – viết – xem lại, chỉnh sửa."
+  },
+  {
+   "id": "1m",
+   "bai": 1,
+   "tag": "viet",
+   "type": "mc",
+   "q": "Muốn bài tóm tắt NGẮN hơn (ví dụ 3 câu), em nên làm gì?",
+   "opts": [
+    "Chỉ giữ lại các sự việc then chốt",
+    "Giữ nguyên mọi sự việc nhưng viết chữ nhỏ lại",
+    "Bỏ phần kết thúc",
+    "Chỉ nêu tên nhân vật"
+   ],
+   "a": 0,
+   "why": "Độ dài càng ngắn thì càng phải chọn lọc: chỉ giữ sự việc then chốt, vẫn đủ mở đầu – diễn biến – kết thúc.",
+   "wrong": [
+    null,
+    "Chữ nhỏ không làm bài ngắn đi về nội dung.",
+    "Bỏ kết thúc thì bài tóm tắt thiếu ý.",
+    "Chỉ tên nhân vật thì chưa tóm tắt được gì."
+   ]
+  },
+  {
+   "id": "1n",
+   "bai": 1,
+   "tag": "noi",
+   "type": "mc",
+   "q": "Khi trao đổi về một vấn đề em quan tâm, cách nói nào phù hợp?",
+   "opts": [
+    "Nêu rõ vấn đề, ý kiến của em, giải thích bằng lí lẽ và lắng nghe bạn",
+    "Nói thật nhanh để hết giờ",
+    "Chỉ nghe, không nói",
+    "Ngắt lời bạn để nói ý của mình"
+   ],
+   "a": 0,
+   "why": "Trao đổi tốt cần rõ ý, có lí lẽ, biết lắng nghe và tôn trọng ý kiến khác.",
+   "wrong": [
+    null,
+    "Nói nhanh dễ làm người nghe không theo kịp.",
+    "Trao đổi thì cần nêu ý kiến.",
+    "Ngắt lời là thiếu tôn trọng người đang nói."
+   ]
+  },
+  {
+   "id": "1p1",
+   "bai": 1,
+   "tag": "doc",
+   "type": "mc",
+   "pid": "d1",
+   "q": "Đoạn văn được kể ở ngôi thứ mấy?",
+   "opts": [
+    "Ngôi thứ nhất",
+    "Ngôi thứ ba",
+    "Ngôi thứ hai",
+    "Không có người kể"
+   ],
+   "a": 1,
+   "why": "Người kể gọi nhân vật là “bé Na”, “nó” — không xưng “tôi”: ngôi thứ ba.",
+   "wrong": [
+    "Ngôi thứ nhất sẽ xưng “tôi”, “chúng tôi”.",
+    null,
+    "Truyện hiếm khi kể ngôi thứ hai.",
+    "Mọi truyện đều có người kể chuyện."
+   ],
+   "muc": "biet"
+  },
+  {
+   "id": "1p2",
+   "bai": 1,
+   "tag": "doc",
+   "type": "mc",
+   "pid": "d1",
+   "q": "Chi tiết nào cho thấy Na yêu thương loài vật?",
+   "opts": [
+    "Na đứng ở hiên",
+    "Na chạy ra sân, lấy chiếc nón lá che cho tổ chim nhỏ",
+    "Cơn mưa đầu mùa kéo đến",
+    "Cành ổi rung bần bật"
+   ],
+   "a": 1,
+   "why": "Hành động che nón cho tổ chim cho thấy sự quan tâm, thương yêu loài vật của Na.",
+   "wrong": [
+    "Chi tiết này chỉ nói vị trí đứng của Na.",
+    null,
+    "Đây là chi tiết tả thời tiết.",
+    "Đây là chi tiết tả cảnh gió."
+   ],
+   "muc": "hieu"
+  },
+  {
+   "id": "1p3",
+   "bai": 1,
+   "tag": "tv",
+   "type": "mc",
+   "pid": "d1",
+   "q": "Từ nào trong đoạn văn là từ láy?",
+   "opts": [
+    "bần bật",
+    "đầu mùa",
+    "tổ chim",
+    "cành ổi"
+   ],
+   "a": 0,
+   "why": "“Bần bật” láy phụ âm đầu b. Các cụm còn lại là từ ghép hoặc cụm từ.",
+   "wrong": [
+    null,
+    "“Đầu mùa” là cụm từ ghép, các tiếng đều có nghĩa.",
+    "“Tổ chim” là cụm danh từ.",
+    "“Cành ổi” là cụm danh từ."
+   ],
+   "muc": "biet"
+  },
+  {
+   "id": "2a",
+   "bai": 2,
+   "tag": "tg",
+   "type": "match",
+   "q": "Ghép bài thơ với tác giả.",
+   "pairs": [
+    [
+     "Đồng dao mùa xuân",
+     "Nguyễn Khoa Điềm"
+    ],
+    [
+     "Gặp lá cơm nếp",
+     "Thanh Thảo"
+    ],
+    [
+     "Trở gió",
+     "Nguyễn Ngọc Tư"
+    ],
+    [
+     "Chiều sông Thương",
+     "Hữu Thỉnh"
+    ]
+   ],
+   "why": "Đây là các văn bản đọc của Bài 2 – Khúc nhạc tâm hồn."
+  },
+  {
+   "id": "2b",
+   "bai": 2,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Trong thơ bốn chữ, mỗi dòng thơ có mấy tiếng (chữ)?",
+   "opts": [
+    "4",
+    "5",
+    "6",
+    "7"
+   ],
+   "a": 0,
+   "why": "Thơ bốn chữ có 4 tiếng trong mỗi dòng (SGK tr.39).",
+   "wrong": [
+    null,
+    "5 tiếng là thơ năm chữ.",
+    "6 tiếng là thơ lục bát (dòng sáu).",
+    "7 tiếng là thơ thất ngôn hoặc dòng bảy của song thất lục bát."
+   ]
+  },
+  {
+   "id": "2c",
+   "bai": 2,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Dòng nào sau đây thuộc thể thơ năm chữ?",
+   "opts": [
+    "Trăng lên đầu ngõ",
+    "Gió về trong vườn nhỏ",
+    "Chiều buông xuống sân nhà mình",
+    "Em đi giữa trời xanh bao la"
+   ],
+   "a": 1,
+   "why": "“Gió – về – trong – vườn – nhỏ” có 5 tiếng. Hãy đếm từng tiếng.",
+   "wrong": [
+    "“Trăng – lên – đầu – ngõ” chỉ có 4 tiếng.",
+    null,
+    "Dòng này có 6 tiếng.",
+    "Dòng này có 7 tiếng."
+   ]
+  },
+  {
+   "id": "2d",
+   "bai": 2,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Thơ bốn chữ thường ngắt nhịp thế nào?",
+   "opts": [
+    "2/2",
+    "1/3",
+    "3/1",
+    "4/0"
+   ],
+   "a": 0,
+   "why": "Thơ bốn chữ thường ngắt nhịp 2/2, ví dụ: Trăng lên / đầu ngõ.",
+   "wrong": [
+    null,
+    "1/3 ít gặp trong thơ bốn chữ.",
+    "3/1 ít gặp trong thơ bốn chữ.",
+    "Không có kiểu ngắt nhịp 4/0."
+   ]
+  },
+  {
+   "id": "2e",
+   "bai": 2,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Gieo vần chân là gieo vần ở vị trí nào trong dòng thơ?",
+   "opts": [
+    "Cuối dòng thơ",
+    "Đầu dòng thơ",
+    "Giữa dòng thơ",
+    "Ở tiêu đề bài thơ"
+   ],
+   "a": 0,
+   "why": "Vần chân nằm ở tiếng cuối dòng, giúp các dòng thơ gắn kết, dễ nhớ, dễ thuộc.",
+   "wrong": [
+    null,
+    "Đầu dòng không phải vị trí vần chân.",
+    "Giữa dòng là vần lưng.",
+    "Tiêu đề không phải vị trí gieo vần."
+   ]
+  },
+  {
+   "id": "2f",
+   "bai": 2,
+   "tag": "tv",
+   "type": "sort",
+   "q": "Xếp câu vào đúng biện pháp tu từ.",
+   "bins": [
+    "So sánh",
+    "Nhân hoá",
+    "Ẩn dụ",
+    "Hoán dụ"
+   ],
+   "items": [
+    [
+     "Mặt trời như quả bóng đỏ",
+     0
+    ],
+    [
+     "Chiếc lá nhảy múa trong gió",
+     1
+    ],
+    [
+     "Cô ấy có nụ cười toả nắng",
+     2
+    ],
+    [
+     "Bàn tay ta làm nên tất cả",
+     3
+    ]
+   ],
+   "why": "So sánh có “như”; nhân hoá gán hành động của người cho vật; ẩn dụ gọi tên sự vật này bằng sự vật khác có nét giống; hoán dụ gọi bằng bộ phận/dấu hiệu gần gũi (bàn tay = sức lao động)."
+  },
+  {
+   "id": "2g",
+   "bai": 2,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Biện pháp nhân hoá có tác dụng gì?",
+   "opts": [
+    "Làm sự vật, con vật hiện lên gần gũi, có hồn như con người",
+    "Làm câu văn dài hơn",
+    "Giúp đếm được số lượng sự vật",
+    "Giúp đổi nghĩa của từ thành ngược lại"
+   ],
+   "a": 0,
+   "why": "Nhân hoá làm thế giới tự nhiên sinh động, gần gũi, thể hiện cảm xúc của người viết.",
+   "wrong": [
+    null,
+    "Độ dài câu không phải tác dụng của nhân hoá.",
+    "Đếm số lượng là việc của số từ.",
+    "Nhân hoá không đổi nghĩa từ ngược lại."
+   ]
+  },
+  {
+   "id": "2h",
+   "bai": 2,
+   "tag": "tv",
+   "type": "mc",
+   "q": "“Đồng dao” là gì?",
+   "opts": [
+    "Bài hát, câu vè dân gian của trẻ em",
+    "Bài thơ thất ngôn bát cú",
+    "Văn bản hành chính",
+    "Truyện cười dân gian"
+   ],
+   "a": 0,
+   "why": "Đồng dao là lời hát, lời vè dân gian cho trẻ em, vui tai, dễ thuộc.",
+   "wrong": [
+    null,
+    "Đó là thể thơ Đường luật.",
+    "Văn bản hành chính là đơn, biên bản, tường trình…",
+    "Truyện cười kể chuyện gây cười, khác với đồng dao."
+   ]
+  },
+  {
+   "id": "2i",
+   "bai": 2,
+   "tag": "viet",
+   "type": "mc",
+   "q": "Khi viết đoạn văn ghi lại cảm xúc sau khi đọc một bài thơ, em cần làm gì?",
+   "opts": [
+    "Nêu tên bài thơ, tác giả; cảm xúc của em; dẫn từ ngữ, hình ảnh gây ấn tượng",
+    "Chép lại toàn bộ bài thơ",
+    "Chỉ kể tiểu sử nhà thơ",
+    "Liệt kê số chữ mỗi dòng"
+   ],
+   "a": 0,
+   "why": "Đoạn văn cảm xúc cần có cảm xúc thật của em và dẫn chứng từ chính bài thơ.",
+   "wrong": [
+    null,
+    "Chép lại thơ không phải là bày tỏ cảm xúc.",
+    "Tiểu sử không phải trọng tâm của đoạn cảm xúc.",
+    "Đếm chữ là việc của khâu tập làm thơ."
+   ]
+  },
+  {
+   "id": "2j",
+   "bai": 2,
+   "tag": "noi",
+   "type": "mc",
+   "q": "Khi trình bày suy nghĩ về một vấn đề đời sống gợi ra từ bài thơ, em nên:",
+   "opts": [
+    "Nêu vấn đề, ý kiến của em, giải thích bằng lí lẽ và liên hệ với bài thơ",
+    "Đọc lại cả bài thơ rồi dừng",
+    "Chỉ nói “em thấy hay”",
+    "Kể tiểu sử tác giả"
+   ],
+   "a": 0,
+   "why": "Cần ý kiến rõ ràng, có lí lẽ, có liên hệ từ tác phẩm.",
+   "wrong": [
+    null,
+    "Đọc lại thơ không phải là trình bày suy nghĩ.",
+    "Cần giải thích vì sao em thấy vậy.",
+    "Tiểu sử không phải nội dung chính."
+   ]
+  },
+  {
+   "id": "2p1",
+   "bai": 2,
+   "tag": "doc",
+   "type": "mc",
+   "pid": "d2",
+   "q": "Bài thơ trên thuộc thể thơ nào?",
+   "opts": [
+    "Bốn chữ",
+    "Năm chữ",
+    "Lục bát",
+    "Tự do"
+   ],
+   "a": 0,
+   "why": "Mỗi dòng có 4 tiếng: Trăng – lên – đầu – ngõ.",
+   "wrong": [
+    null,
+    "Mỗi dòng chỉ có 4 tiếng, không phải 5.",
+    "Lục bát xen dòng 6 và dòng 8.",
+    "Thơ tự do không đều số chữ."
+   ],
+   "muc": "biet"
+  },
+  {
+   "id": "2p2",
+   "bai": 2,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Hai tiếng nào gieo vần với nhau ở cuối dòng?",
+   "pid": "d2",
+   "opts": [
+    "cau – mau",
+    "ngõ – cau",
+    "nhỏ – mau",
+    "ngõ – mau"
+   ],
+   "a": 0,
+   "why": "“cau” và “mau” cùng vần “au”, nằm ở cuối dòng 2 và dòng 4: vần chân.",
+   "wrong": [
+    null,
+    "“ngõ” và “cau” không cùng vần.",
+    "“nhỏ” và “mau” không cùng vần.",
+    "“ngõ” và “mau” không cùng vần."
+   ],
+   "muc": "biet"
+  },
+  {
+   "id": "2p3",
+   "bai": 2,
+   "tag": "tv",
+   "type": "mc",
+   "pid": "d2",
+   "q": "Trong dòng “Gió ru vườn cau”, biện pháp tu từ nào được dùng?",
+   "opts": [
+    "Nhân hoá",
+    "So sánh",
+    "Hoán dụ",
+    "Không dùng biện pháp tu từ"
+   ],
+   "a": 0,
+   "why": "“Ru” là hành động của người (ru em ngủ) được gán cho gió: nhân hoá.",
+   "wrong": [
+    null,
+    "Không có từ so sánh như “như”, “tựa”.",
+    "Không có hình ảnh gọi bằng bộ phận gần gũi.",
+    "Dòng thơ này có dùng nhân hoá."
+   ],
+   "muc": "hieu"
+  },
+  {
+   "id": "3a",
+   "bai": 3,
+   "tag": "tg",
+   "type": "match",
+   "q": "Ghép văn bản với tác giả.",
+   "pairs": [
+    [
+     "Vừa nhắm mắt vừa mở cửa sổ",
+     "Nguyễn Ngọc Thuần"
+    ],
+    [
+     "Người thầy đầu tiên",
+     "Trin-ghi-dơ Ai-tơ-ma-tốp"
+    ],
+    [
+     "Quê hương",
+     "Tế Hanh"
+    ],
+    [
+     "Trong lòng mẹ (trích Những ngày thơ ấu)",
+     "Nguyên Hồng"
+    ]
+   ],
+   "why": "Các văn bản đọc và Thực hành đọc của Bài 3 – Cội nguồn yêu thương."
+  },
+  {
+   "id": "3b",
+   "bai": 3,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Số từ là gì?",
+   "opts": [
+    "Từ chỉ số lượng hoặc thứ tự của sự vật",
+    "Từ chỉ hoạt động của sự vật",
+    "Từ nối hai câu",
+    "Từ chỉ đặc điểm màu sắc"
+   ],
+   "a": 0,
+   "why": "Số từ cho biết số lượng (hai, ba…) hoặc thứ tự (thứ nhất, thứ hai…).",
+   "wrong": [
+    null,
+    "Đó là động từ.",
+    "Đó là quan hệ từ.",
+    "Đó là tính từ."
+   ]
+  },
+  {
+   "id": "3c",
+   "bai": 3,
+   "tag": "tv",
+   "type": "sort",
+   "q": "Xếp các số từ vào đúng nhóm.",
+   "bins": [
+    "Chỉ số lượng",
+    "Chỉ thứ tự"
+   ],
+   "items": [
+    [
+     "hai",
+     0
+    ],
+    [
+     "thứ nhất",
+     1
+    ],
+    [
+     "mười",
+     0
+    ],
+    [
+     "thứ tư",
+     1
+    ],
+    [
+     "ba",
+     0
+    ],
+    [
+     "thứ mười",
+     1
+    ]
+   ],
+   "why": "Số từ chỉ thứ tự thường có chữ “thứ” đứng trước số đếm."
+  },
+  {
+   "id": "3d",
+   "bai": 3,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Trong câu “Lớp em có bốn mươi hai bạn.”, số từ là:",
+   "opts": [
+    "bốn mươi hai",
+    "lớp",
+    "em",
+    "bạn"
+   ],
+   "a": 0,
+   "why": "“Bốn mươi hai” chỉ số lượng, đứng trước danh từ “bạn”.",
+   "wrong": [
+    null,
+    "“Lớp” là danh từ.",
+    "“Em” là đại từ.",
+    "“Bạn” là danh từ được số từ bổ nghĩa."
+   ]
+  },
+  {
+   "id": "3e",
+   "bai": 3,
+   "tag": "tv",
+   "type": "sort",
+   "q": "Xếp các phó từ vào đúng nhóm ý nghĩa.",
+   "bins": [
+    "Thời gian",
+    "Mức độ",
+    "Phủ định",
+    "Tiếp diễn"
+   ],
+   "items": [
+    [
+     "đã",
+     0
+    ],
+    [
+     "sẽ",
+     0
+    ],
+    [
+     "rất",
+     1
+    ],
+    [
+     "hơi",
+     1
+    ],
+    [
+     "không",
+     2
+    ],
+    [
+     "chưa",
+     2
+    ],
+    [
+     "vẫn",
+     3
+    ],
+    [
+     "cũng",
+     3
+    ]
+   ],
+   "why": "Phó từ bổ sung ý nghĩa cho động từ, tính từ: thời gian (đã, sẽ), mức độ (rất, hơi), phủ định (không, chưa), tiếp diễn (vẫn, cũng)."
+  },
+  {
+   "id": "3f",
+   "bai": 3,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Trong câu “Em chưa làm xong bài tập.”, phó từ là:",
+   "opts": [
+    "chưa",
+    "em",
+    "làm",
+    "bài tập"
+   ],
+   "a": 0,
+   "why": "“Chưa” đứng trước động từ “làm”, bổ sung ý phủ định.",
+   "wrong": [
+    null,
+    "“Em” là đại từ làm chủ ngữ.",
+    "“Làm” là động từ được phó từ bổ nghĩa.",
+    "“Bài tập” là danh từ."
+   ]
+  },
+  {
+   "id": "3g",
+   "bai": 3,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Phó từ thường đứng ở vị trí nào?",
+   "opts": [
+    "Trước hoặc sau động từ, tính từ để bổ sung ý nghĩa",
+    "Chỉ đứng đầu câu",
+    "Chỉ đứng sau danh từ",
+    "Chỉ đứng cuối đoạn văn"
+   ],
+   "a": 0,
+   "why": "Ví dụ: đã chạy, rất đẹp, chạy nhanh lắm.",
+   "wrong": [
+    null,
+    "Phó từ không bị bó buộc ở đầu câu.",
+    "Phó từ bổ nghĩa cho động từ, tính từ, không phải danh từ.",
+    "Phó từ là thành phần trong câu, không phải ở cấp đoạn văn."
+   ]
+  },
+  {
+   "id": "3h",
+   "bai": 3,
+   "tag": "doc",
+   "type": "sort",
+   "q": "Xác định cách thể hiện tính cách nhân vật.",
+   "bins": [
+    "Cử chỉ, hành động",
+    "Lời thoại",
+    "Ý nghĩ",
+    "Lời người kể nhận xét"
+   ],
+   "items": [
+    [
+     "Nó khẽ cúi xuống, nhặt từng quyển vở rơi cho cô giáo.",
+     0
+    ],
+    [
+     "“Mẹ đừng lo, con tự đi được mà!” – nó nói.",
+     1
+    ],
+    [
+     "Nó nghĩ thầm: giá mà mình nhanh hơn một chút.",
+     2
+    ],
+    [
+     "Cô bé thật chu đáo, ai cũng quý.",
+     3
+    ],
+    [
+     "Chạy vội ra cổng, nó đón mẹ đi chợ về.",
+     0
+    ]
+   ],
+   "why": "Tính cách nhân vật lộ ra qua cử chỉ, hành động, lời thoại, ý nghĩ và lời nhận xét của người kể."
+  },
+  {
+   "id": "3i",
+   "bai": 3,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Người kể chuyện xưng “tôi” là kể ở ngôi thứ mấy? Người kể ấy có chắc là tác giả không?",
+   "opts": [
+    "Ngôi thứ nhất; chưa chắc là tác giả vì đó là vai do tác giả tạo ra",
+    "Ngôi thứ ba; chính là tác giả",
+    "Ngôi thứ nhất; luôn luôn là tác giả",
+    "Ngôi thứ hai; không phải tác giả"
+   ],
+   "a": 0,
+   "why": "Người kể chuyện là một vai trong tác phẩm do tác giả tạo ra, không đồng nhất hoàn toàn với tác giả ngoài đời.",
+   "wrong": [
+    null,
+    "Xưng “tôi” là ngôi thứ nhất, không phải thứ ba.",
+    "Không phải lúc nào cũng vậy.",
+    "Xưng “tôi” không phải ngôi thứ hai."
+   ]
+  },
+  {
+   "id": "3j",
+   "bai": 3,
+   "tag": "viet",
+   "type": "order",
+   "q": "Sắp xếp bố cục bài văn phân tích đặc điểm nhân vật.",
+   "items": [
+    "Mở bài: giới thiệu tác phẩm và nhân vật",
+    "Thân bài: phân tích từng đặc điểm, kèm dẫn chứng",
+    "Kết bài: khái quát đặc điểm, nêu cảm nhận và bài học"
+   ],
+   "why": "Mỗi đặc điểm ở thân bài đều cần dẫn chứng từ tác phẩm."
+  },
+  {
+   "id": "3k",
+   "bai": 3,
+   "tag": "noi",
+   "type": "mc",
+   "q": "Khi trình bày ý kiến về một vấn đề gợi ra từ nhân vật văn học, em nên:",
+   "opts": [
+    "Nêu nhân vật và vấn đề, ý kiến của em, lí lẽ và dẫn chứng",
+    "Chỉ kể lại cốt truyện",
+    "Chỉ đọc to đoạn văn",
+    "Chỉ nói “nhân vật rất hay”"
+   ],
+   "a": 0,
+   "why": "Cần có ý kiến, lí lẽ và bằng chứng từ tác phẩm.",
+   "wrong": [
+    null,
+    "Kể truyện chưa phải trình bày ý kiến.",
+    "Đọc đoạn văn chưa là ý kiến của em.",
+    "Cần giải thích vì sao em đánh giá như vậy."
+   ]
+  },
+  {
+   "id": "3p1",
+   "bai": 3,
+   "tag": "doc",
+   "type": "mc",
+   "pid": "d3",
+   "q": "Đoạn văn được kể ở ngôi thứ mấy?",
+   "opts": [
+    "Ngôi thứ nhất",
+    "Ngôi thứ ba",
+    "Ngôi thứ hai",
+    "Không xác định"
+   ],
+   "a": 0,
+   "why": "Người kể xưng “tôi”: ngôi thứ nhất.",
+   "wrong": [
+    null,
+    "Ngôi thứ ba gọi nhân vật bằng tên hoặc “nó”, “cậu”…",
+    "Ngôi thứ hai gọi người nghe là “bạn”, “anh”…",
+    "Đoạn văn có người xưng “tôi”."
+   ],
+   "muc": "biet"
+  },
+  {
+   "id": "3p2",
+   "bai": 3,
+   "tag": "doc",
+   "type": "mc",
+   "pid": "d3",
+   "q": "Chi tiết nào cho thấy nhân vật “tôi” có trách nhiệm và thương em?",
+   "opts": [
+    "Nghe em khẽ ọ ẹ, tôi lại ngồi xuống, vỗ về em ngủ",
+    "Lòng nôn nao muốn chạy đi chơi",
+    "Mẹ dặn tôi ở nhà trông em",
+    "Tôi mới dám thở phào"
+   ],
+   "a": 0,
+   "why": "Dù muốn chạy đi chơi, nhân vật vẫn ngồi xuống dỗ em: hành động thể hiện trách nhiệm và tình thương.",
+   "wrong": [
+    null,
+    "Đây là tâm trạng thích chơi của trẻ con.",
+    "Đây là lời dặn của mẹ, chưa phải hành động của nhân vật.",
+    "Đây là cảm giác nhẹ nhõm khi mẹ về."
+   ],
+   "muc": "hieu"
+  },
+  {
+   "id": "3p3",
+   "bai": 3,
+   "tag": "tv",
+   "type": "mc",
+   "pid": "d3",
+   "q": "Từ “lại” trong câu “tôi lại ngồi xuống” thuộc loại từ nào?",
+   "opts": [
+    "Phó từ",
+    "Số từ",
+    "Danh từ",
+    "Đại từ"
+   ],
+   "a": 0,
+   "why": "“Lại” đứng trước động từ “ngồi”, bổ sung ý nghĩa tiếp diễn, lặp lại: phó từ.",
+   "wrong": [
+    null,
+    "Số từ chỉ số lượng, thứ tự.",
+    "“Lại” không chỉ người hay vật.",
+    "“Lại” không dùng để xưng hô hoặc thay thế."
+   ],
+   "muc": "biet"
+  },
+  {
+   "id": "4a",
+   "bai": 4,
+   "tag": "tg",
+   "type": "match",
+   "q": "Ghép bài thơ với tác giả.",
+   "pairs": [
+    [
+     "Mùa xuân nho nhỏ",
+     "Thanh Hải"
+    ],
+    [
+     "Gò Me (trích)",
+     "Hoàng Tố Nguyên"
+    ],
+    [
+     "Bài thơ “Đường núi” của Nguyễn Đình Thi",
+     "Vũ Quần Phương"
+    ],
+    [
+     "Chiều biên giới",
+     "Lò Ngân Sủn"
+    ]
+   ],
+   "why": "Các văn bản đọc và Thực hành đọc của Bài 4 – Giai điệu đất nước."
+  },
+  {
+   "id": "4b",
+   "bai": 4,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Từ “ăn” trong câu “Chiếc xe này ăn xăng lắm.” có nghĩa là gì?",
+   "opts": [
+    "Tiêu thụ, tốn nhiều xăng",
+    "Cho thức ăn vào miệng",
+    "Nhận lấy phần của mình",
+    "Gặp gỡ người quen"
+   ],
+   "a": 0,
+   "why": "Nghĩa của từ trong ngữ cảnh được xác định nhờ các từ xung quanh: “xe”, “xăng” cho thấy “ăn” = tiêu thụ.",
+   "wrong": [
+    null,
+    "Đó là nghĩa thông thường khi nói về người.",
+    "Nghĩa này không hợp với “xe”, “xăng”.",
+    "Nghĩa này không liên quan đến ngữ cảnh."
+   ]
+  },
+  {
+   "id": "4c",
+   "bai": 4,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Từ “chạy” trong câu “Chiếc đồng hồ vẫn chạy đúng giờ.” có nghĩa là gì?",
+   "opts": [
+    "Hoạt động",
+    "Di chuyển nhanh bằng chân",
+    "Trốn tránh",
+    "Lan nhanh"
+   ],
+   "a": 0,
+   "why": "Đồng hồ không có chân; “chạy” ở đây là máy móc đang hoạt động.",
+   "wrong": [
+    null,
+    "Nghĩa này dùng cho người, con vật.",
+    "Câu không nói về việc trốn tránh.",
+    "Câu không nói về việc lan truyền."
+   ]
+  },
+  {
+   "id": "4d",
+   "bai": 4,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Ngữ cảnh là gì (theo SGK)?",
+   "opts": [
+    "Bối cảnh ngôn ngữ trong đó một đơn vị ngôn ngữ được sử dụng",
+    "Tên của tác giả",
+    "Số tiếng trong một dòng thơ",
+    "Một biện pháp tu từ"
+   ],
+   "a": 0,
+   "why": "Ngữ cảnh gồm các đơn vị ngôn ngữ đứng trước và sau (văn cảnh) hoặc bối cảnh ngoài văn bản như người nói, người nghe, thời gian, địa điểm (SGK tr.89).",
+   "wrong": [
+    null,
+    "Tên tác giả không phải ngữ cảnh.",
+    "Đó là đặc điểm của thể thơ.",
+    "Ngữ cảnh không phải biện pháp tu từ."
+   ]
+  },
+  {
+   "id": "4e",
+   "bai": 4,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Công dụng thường gặp của dấu ngoặc đơn và dấu ngoặc kép là gì?",
+   "opts": [
+    "Ngoặc đơn: đánh dấu phần chú thích; ngoặc kép: đánh dấu từ ngữ dùng đặc biệt hoặc lời dẫn trực tiếp",
+    "Ngoặc đơn: kết thúc câu; ngoặc kép: ngắt nhịp thơ",
+    "Cả hai đều để gạch chân",
+    "Cả hai đều biểu thị lời nói ngập ngừng"
+   ],
+   "a": 0,
+   "why": "Dấu ngoặc đơn đánh dấu phần chú thích, giải thích thêm; dấu ngoặc kép đánh dấu từ ngữ được dùng với ý đặc biệt hoặc lời dẫn trực tiếp.",
+   "wrong": [
+    null,
+    "Kết thúc câu là việc của dấu chấm.",
+    "Gạch chân không phải công dụng của ngoặc.",
+    "Lời nói ngập ngừng dùng dấu chấm lửng."
+   ]
+  },
+  {
+   "id": "4f",
+   "bai": 4,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Biện pháp tu từ nào được dùng trong câu “Mùa xuân đang gõ cửa từng nhà.”?",
+   "opts": [
+    "Nhân hoá",
+    "So sánh",
+    "Điệp ngữ",
+    "Hoán dụ"
+   ],
+   "a": 0,
+   "why": "“Gõ cửa” là hành động của người, được gán cho mùa xuân: nhân hoá.",
+   "wrong": [
+    null,
+    "Câu không có từ so sánh như “như”, “tựa”.",
+    "Câu không lặp lại từ ngữ.",
+    "Câu không gọi tên vật bằng bộ phận gần gũi."
+   ]
+  },
+  {
+   "id": "4g",
+   "bai": 4,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Biện pháp tu từ nào được dùng trong câu “Núi cao như một người lính gác.”?",
+   "opts": [
+    "So sánh",
+    "Nhân hoá",
+    "Ẩn dụ",
+    "Nói quá"
+   ],
+   "a": 0,
+   "why": "Có từ so sánh “như” nối núi với người lính gác: so sánh.",
+   "wrong": [
+    null,
+    "Núi không được gán hành động của người.",
+    "Ẩn dụ không có từ so sánh.",
+    "Câu không phóng đại mức độ."
+   ]
+  },
+  {
+   "id": "4h",
+   "bai": 4,
+   "tag": "viet",
+   "type": "mc",
+   "q": "Bài văn biểu cảm về con người hoặc sự việc chủ yếu nhằm:",
+   "opts": [
+    "Bộc lộ tình cảm, cảm xúc chân thực của người viết",
+    "Liệt kê số liệu thống kê",
+    "Giải thích cách làm một món ăn",
+    "Kể lại đầy đủ mọi chi tiết"
+   ],
+   "a": 0,
+   "why": "Biểu cảm = bày tỏ tình cảm, cảm xúc, thường gắn với kỉ niệm, chi tiết cụ thể.",
+   "wrong": [
+    null,
+    "Đó là đặc điểm của văn bản thông tin.",
+    "Đó là văn bản hướng dẫn.",
+    "Kể đầy đủ mọi chi tiết là truyện kể, không phải biểu cảm."
+   ]
+  },
+  {
+   "id": "4i",
+   "bai": 4,
+   "tag": "viet",
+   "type": "order",
+   "q": "Sắp xếp bố cục bài văn biểu cảm.",
+   "items": [
+    "Mở bài: giới thiệu người/sự việc và cảm xúc chung",
+    "Thân bài: nêu kỉ niệm, chi tiết và cảm xúc cụ thể",
+    "Kết bài: khẳng định tình cảm, lời hứa hoặc ước mong"
+   ],
+   "why": "Cảm xúc phải gắn với chi tiết cụ thể thì bài văn mới thuyết phục."
+  },
+  {
+   "id": "4j",
+   "bai": 4,
+   "tag": "noi",
+   "type": "mc",
+   "q": "Khi trình bày ý kiến về hoạt động thiện nguyện, em nên:",
+   "opts": [
+    "Nêu rõ ý kiến, lí lẽ, ví dụ thực tế; nói rõ ràng, nhìn người nghe",
+    "Đọc nhanh mà không nhìn ai",
+    "Chỉ nói chung chung",
+    "Chỉ chê bai người khác"
+   ],
+   "a": 0,
+   "why": "Một bài nói thuyết phục có ý rõ, lí lẽ, bằng chứng và cách nói tự tin.",
+   "wrong": [
+    null,
+    "Đọc nhanh làm người nghe khó theo dõi.",
+    "Nói chung chung thiếu sức thuyết phục.",
+    "Trình bày ý kiến cần xây dựng, tôn trọng người khác."
+   ]
+  },
+  {
+   "id": "4p1",
+   "bai": 4,
+   "tag": "doc",
+   "type": "mc",
+   "pid": "d4",
+   "q": "Phương thức biểu đạt chính của đoạn văn là gì?",
+   "opts": [
+    "Biểu cảm",
+    "Thuyết minh",
+    "Miêu tả cảnh vật",
+    "Nghị luận"
+   ],
+   "a": 0,
+   "why": "Đoạn văn bày tỏ tình cảm của em dành cho bà: biểu cảm.",
+   "wrong": [
+    null,
+    "Đoạn văn không giới thiệu đặc điểm của sự vật.",
+    "Miêu tả chỉ là phụ, mục đích chính là bày tỏ cảm xúc.",
+    "Đoạn văn không đưa ra lí lẽ để thuyết phục."
+   ],
+   "muc": "biet"
+  },
+  {
+   "id": "4p2",
+   "bai": 4,
+   "tag": "doc",
+   "type": "mc",
+   "pid": "d4",
+   "q": "Câu nào bộc lộ cảm xúc trực tiếp?",
+   "opts": [
+    "Em yêu bà biết bao!",
+    "Đôi bàn tay ấy đã nuôi em lớn.",
+    "Mai này lớn lên, em nhất định sẽ trở thành người bà tự hào.",
+    "Bà vá cho em bao chiếc áo rách."
+   ],
+   "a": 0,
+   "why": "Từ “yêu” và dấu chấm than bộc lộ trực tiếp tình cảm của em.",
+   "wrong": [
+    null,
+    "Câu này kể lại việc làm của bà.",
+    "Câu này nói lời hứa, ước mong.",
+    "Câu này kể việc bà làm."
+   ],
+   "muc": "biet"
+  },
+  {
+   "id": "4p3",
+   "bai": 4,
+   "tag": "doc",
+   "type": "mc",
+   "pid": "d4",
+   "q": "Hình ảnh “đôi bàn tay chai sạn” gợi cho em điều gì?",
+   "opts": [
+    "Sự vất vả, tần tảo của bà",
+    "Bà là người giàu có",
+    "Bà không thích làm việc",
+    "Bà còn rất trẻ"
+   ],
+   "a": 0,
+   "why": "Bàn tay chai sạn là dấu vết của lao động lâu năm, gợi sự vất vả, hi sinh.",
+   "wrong": [
+    null,
+    "Hình ảnh không nói về giàu có.",
+    "Chai sạn do làm việc nhiều.",
+    "Chai sạn là dấu hiệu của năm tháng lao động."
+   ],
+   "muc": "hieu"
+  },
+  {
+   "id": "5a",
+   "bai": 5,
+   "tag": "tg",
+   "type": "match",
+   "q": "Ghép văn bản với tác giả.",
+   "pairs": [
+    [
+     "Tháng Giêng, mơ về trăng non rét ngọt (trích)",
+     "Vũ Bằng"
+    ],
+    [
+     "Chuyện cơm hến",
+     "Hoàng Phủ Ngọc Tường"
+    ],
+    [
+     "Hội lồng tồng",
+     "Trần Quốc Vượng – Lê Văn Hảo – Dương Tất Từ"
+    ],
+    [
+     "Những khuôn cửa dấu yêu",
+     "Trương Anh Ngọc"
+    ]
+   ],
+   "why": "Các văn bản đọc và Thực hành đọc của Bài 5 – Màu sắc trăm miền."
+  },
+  {
+   "id": "5b",
+   "bai": 5,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Điều gì là điểm riêng của tuỳ bút, tản văn?",
+   "opts": [
+    "Người viết bộc lộ cảm xúc, suy nghĩ (cái tôi) và không cần cốt truyện chặt chẽ",
+    "Có cốt truyện với nhiều nhân vật và xung đột kịch tính",
+    "Luôn luôn có vần và điệp từ như thơ",
+    "Chỉ liệt kê thông tin khách quan"
+   ],
+   "a": 0,
+   "why": "Khi đọc tuỳ bút, tản văn, em nên bám vào cái tôi người viết: họ cảm, họ nghĩ gì.",
+   "wrong": [
+    null,
+    "Đó là đặc điểm của truyện.",
+    "Tuỳ bút, tản văn là văn xuôi, không bắt buộc có vần.",
+    "Đó là đặc điểm của văn bản thông tin."
+   ]
+  },
+  {
+   "id": "5c",
+   "bai": 5,
+   "tag": "tv",
+   "type": "match",
+   "q": "Ghép từ ngữ địa phương với từ toàn dân tương ứng.",
+   "pairs": [
+    [
+     "mô",
+     "đâu"
+    ],
+    [
+     "rứa",
+     "thế"
+    ],
+    [
+     "răng",
+     "sao"
+    ],
+    [
+     "heo",
+     "lợn"
+    ],
+    [
+     "má",
+     "mẹ"
+    ],
+    [
+     "bông",
+     "hoa"
+    ]
+   ],
+   "why": "Từ địa phương chỉ dùng ở một số vùng; từ toàn dân dùng chung cả nước."
+  },
+  {
+   "id": "5d",
+   "bai": 5,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Khi nào nên dùng từ ngữ địa phương?",
+   "opts": [
+    "Khi tái hiện lời nói nhân vật hoặc tạo màu sắc vùng miền",
+    "Trong mọi văn bản hành chính",
+    "Khi viết đơn gửi nhà trường",
+    "Khi muốn người nghe khó hiểu"
+   ],
+   "a": 0,
+   "why": "Từ địa phương tạo màu sắc vùng miền, nhưng trong văn bản hành chính nên dùng từ toàn dân để mọi người hiểu.",
+   "wrong": [
+    null,
+    "Văn bản hành chính cần từ toàn dân.",
+    "Đơn gửi nhà trường cần từ toàn dân.",
+    "Mục đích viết là để người đọc hiểu."
+   ]
+  },
+  {
+   "id": "5e",
+   "bai": 5,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Trong câu “Mùa xuân của tôi – mùa xuân Bắc Việt, mùa xuân của Hà Nội – là mùa xuân có mưa riêu riêu…”, dấu gạch ngang dùng để làm gì?",
+   "opts": [
+    "Đánh dấu phần bổ sung, giải thích thêm cho cụm từ đứng trước",
+    "Đánh dấu lời nói của nhân vật",
+    "Nối các tiếng trong một từ",
+    "Kết thúc câu"
+   ],
+   "a": 0,
+   "why": "Cụm từ nằm giữa hai dấu gạch ngang là phần giải thích, bổ sung cho “mùa xuân của tôi”. Nếu bỏ đi, câu vẫn đủ nghĩa nhưng kém cụ thể và kém cảm xúc.",
+   "wrong": [
+    null,
+    "Gạch ngang đầu dòng mới đánh dấu lời thoại.",
+    "Nối các tiếng là dấu gạch nối, không phải gạch ngang.",
+    "Kết thúc câu là dấu chấm."
+   ]
+  },
+  {
+   "id": "5f",
+   "bai": 5,
+   "tag": "viet",
+   "type": "sort",
+   "q": "Xác định loại văn bản cho từng tình huống.",
+   "bins": [
+    "Đơn",
+    "Biên bản",
+    "Tường trình"
+   ],
+   "items": [
+    [
+     "Xin phép nghỉ học một buổi",
+     0
+    ],
+    [
+     "Ghi lại diễn biến và kết luận cuộc họp lớp",
+     1
+    ],
+    [
+     "Trình bày lại việc làm vỡ kính cửa sổ lớp, nguyên nhân và trách nhiệm",
+     2
+    ],
+    [
+     "Đề nghị nhà trường cho mượn phòng học",
+     0
+    ],
+    [
+     "Ghi nhận việc bàn giao tài sản của lớp",
+     1
+    ]
+   ],
+   "why": "Đơn: đề nghị, xin phép. Biên bản: ghi lại sự việc đang diễn ra. Tường trình: trình bày lại sự việc đã xảy ra, nêu rõ trách nhiệm của người viết."
+  },
+  {
+   "id": "5g",
+   "bai": 5,
+   "tag": "viet",
+   "type": "order",
+   "q": "Sắp xếp các phần của văn bản tường trình theo thứ tự thường gặp.",
+   "items": [
+    "Quốc hiệu và tiêu ngữ",
+    "Tên văn bản: BẢN TƯỜNG TRÌNH",
+    "Kính gửi: (người/cơ quan nhận)",
+    "Người viết tự giới thiệu (họ tên, lớp…)",
+    "Nội dung sự việc: thời gian, địa điểm, diễn biến, nguyên nhân, trách nhiệm",
+    "Lời cam đoan; ngày tháng; chữ kí"
+   ],
+   "why": "Cần soát lại với mẫu trong SGK Ngữ văn 7 KNTT."
+  },
+  {
+   "id": "5h",
+   "bai": 5,
+   "tag": "viet",
+   "type": "mc",
+   "q": "Mục đích của văn bản tường trình là gì?",
+   "opts": [
+    "Trình bày lại sự việc đã xảy ra, nêu rõ trách nhiệm của người viết",
+    "Xin phép làm một việc gì đó",
+    "Ghi lại diễn biến một cuộc họp",
+    "Kể chuyện tưởng tượng"
+   ],
+   "a": 0,
+   "why": "Tường trình khác đơn (xin phép) và khác biên bản (ghi lại cuộc họp/sự việc).",
+   "wrong": [
+    null,
+    "Đó là mục đích của đơn.",
+    "Đó là mục đích của biên bản.",
+    "Tường trình phải nói sự thật, không hư cấu."
+   ]
+  },
+  {
+   "id": "5i",
+   "bai": 5,
+   "tag": "noi",
+   "type": "mc",
+   "q": "Khi trình bày ý kiến về văn hoá truyền thống trong xã hội hiện đại, em nên:",
+   "opts": [
+    "Nêu ý kiến, lí lẽ và ví dụ cụ thể về việc gìn giữ giá trị truyền thống",
+    "Chỉ nói “truyền thống rất hay”",
+    "Đọc lại bài tản văn",
+    "Chỉ phê phán người khác"
+   ],
+   "a": 0,
+   "why": "Cần ý kiến rõ, lí lẽ và ví dụ để người nghe tin.",
+   "wrong": [
+    null,
+    "Nói chung chung thì thiếu sức thuyết phục.",
+    "Chỉ đọc lại bài không phải là trình bày ý kiến.",
+    "Mục đích là trao đổi xây dựng, không phải phê phán."
+   ]
+  },
+  {
+   "id": "5p1",
+   "bai": 5,
+   "tag": "doc",
+   "type": "mc",
+   "pid": "d5",
+   "q": "Đoạn văn gần với thể loại nào nhất?",
+   "opts": [
+    "Tản văn",
+    "Truyện ngắn",
+    "Thơ bốn chữ",
+    "Biên bản"
+   ],
+   "a": 0,
+   "why": "Người viết xưng “tôi”, bộc lộ cảm xúc, hồi tưởng, không có cốt truyện chặt chẽ: gần với tản văn.",
+   "wrong": [
+    null,
+    "Truyện ngắn có cốt truyện, nhân vật, xung đột.",
+    "Đoạn văn không chia dòng, không có vần.",
+    "Biên bản là văn bản hành chính."
+   ],
+   "muc": "biet"
+  },
+  {
+   "id": "5p2",
+   "bai": 5,
+   "tag": "doc",
+   "type": "mc",
+   "pid": "d5",
+   "q": "Cảm xúc chủ đạo của người viết là gì?",
+   "opts": [
+    "Nhớ nhung, hoài niệm về Tết xưa",
+    "Tức giận",
+    "Lo sợ",
+    "Hồi hộp chờ đợi"
+   ],
+   "a": 0,
+   "why": "“Lòng nao nao nhớ cái Tết ngày bé” cho thấy nỗi nhớ, hoài niệm.",
+   "wrong": [
+    null,
+    "Không có chi tiết nào thể hiện sự tức giận.",
+    "Không có chi tiết nào thể hiện nỗi lo sợ.",
+    "Đoạn văn không nói về sự chờ đợi."
+   ],
+   "muc": "hieu"
+  },
+  {
+   "id": "5p3",
+   "bai": 5,
+   "tag": "tv",
+   "type": "mc",
+   "pid": "d5",
+   "q": "Từ nào trong đoạn văn là từ láy?",
+   "opts": [
+    "nao nao",
+    "chợ hoa",
+    "bếp lửa",
+    "hương nếp"
+   ],
+   "a": 0,
+   "why": "“Nao nao” láy toàn bộ, gợi cảm giác bồi hồi, xao xuyến.",
+   "wrong": [
+    null,
+    "“Chợ hoa” là cụm danh từ.",
+    "“Bếp lửa” là cụm danh từ.",
+    "“Hương nếp” là cụm danh từ."
+   ],
+   "muc": "biet"
+  },
+  {
+   "id": "1p4",
+   "bai": 1,
+   "tag": "doc",
+   "type": "evid",
+   "pid": "d1",
+   "muc": "hieu",
+   "q": "Gạch chân (chạm vào) những câu cho thấy Na LO LẮNG cho các tổ chim.",
+   "ans": [
+    1,
+    2
+   ],
+   "why": "Câu 2 có từ “lo lắng”, câu 3 là lời thì thầm cầu mong mưa đừng to: cả hai cho thấy Na lo cho tổ chim."
+  },
+  {
+   "id": "1p5",
+   "bai": 1,
+   "tag": "doc",
+   "type": "short",
+   "pid": "d1",
+   "muc": "vd",
+   "q": "Em hãy nêu tính cách của bé Na và một chi tiết giúp em nhận ra điều đó (1–2 câu).",
+   "goi": "Gợi ý: Bé Na là cô bé … Em nhận ra qua chi tiết …",
+   "mau": "Bé Na là cô bé giàu lòng thương yêu loài vật. Em nhận ra điều đó qua việc Na lo lắng nhìn tổ chim, thì thầm cầu mong mưa đừng to và chạy ra lấy nón lá che cho tổ chim.",
+   "y": [
+    "Nêu đúng tính cách (giàu tình thương, tốt bụng…)",
+    "Dẫn ít nhất một chi tiết trong đoạn văn",
+    "Câu văn đủ chủ ngữ – vị ngữ, rõ ràng"
+   ]
+  },
+  {
+   "id": "2p4",
+   "bai": 2,
+   "tag": "doc",
+   "type": "evid",
+   "pid": "d2",
+   "muc": "hieu",
+   "q": "Chạm vào dòng thơ có dùng NHÂN HOÁ.",
+   "ans": [
+    1
+   ],
+   "why": "“Ru” là việc của người (ru em ngủ) được gán cho gió."
+  },
+  {
+   "id": "2p5",
+   "bai": 2,
+   "tag": "doc",
+   "type": "short",
+   "pid": "d2",
+   "muc": "vd",
+   "q": "Qua bài thơ, em cảm nhận đêm quê như thế nào? Nêu một hình ảnh em thích và vì sao (1–2 câu).",
+   "goi": "Gợi ý: Đêm quê hiện lên … Em thích hình ảnh … vì …",
+   "mau": "Đêm quê hiện lên yên ả, êm đềm. Em thích hình ảnh “Gió ru vườn cau” vì gió như đang hát ru cho cả khu vườn ngủ, nghe thật dịu dàng.",
+   "y": [
+    "Nêu đúng không khí: yên bình, êm đềm",
+    "Chọn một hình ảnh hoặc từ ngữ trong bài",
+    "Giải thích vì sao em thích (cảm xúc của em)"
+   ]
+  },
+  {
+   "id": "3p4",
+   "bai": 3,
+   "tag": "doc",
+   "type": "evid",
+   "pid": "d3",
+   "muc": "hieu",
+   "q": "Chạm vào những câu cho thấy nhân vật “tôi” PHÂN VÂN giữa việc muốn đi chơi và việc trông em.",
+   "ans": [
+    1,
+    2
+   ],
+   "why": "Câu 2 cho thấy lòng muốn chạy đi chơi; câu 3 cho thấy cuối cùng “tôi” vẫn ngồi xuống dỗ em."
+  },
+  {
+   "id": "3p5",
+   "bai": 3,
+   "tag": "doc",
+   "type": "short",
+   "pid": "d3",
+   "muc": "vd",
+   "q": "Nhân vật “tôi” là người anh (chị) như thế nào? Vì sao em nghĩ vậy? (1–2 câu)",
+   "goi": "Gợi ý: Nhân vật “tôi” là người … Điều đó thể hiện qua …",
+   "mau": "Nhân vật “tôi” là người anh (chị) có trách nhiệm và thương em. Dù nôn nao muốn đi chơi, “tôi” vẫn ngồi xuống vỗ về em ngủ cho đến khi mẹ về.",
+   "y": [
+    "Nêu đúng đặc điểm: trách nhiệm, yêu thương em",
+    "Có dẫn chứng từ đoạn văn",
+    "Nêu được sự giằng co giữa muốn chơi và trông em (nếu có)"
+   ]
+  },
+  {
+   "id": "4p4",
+   "bai": 4,
+   "tag": "doc",
+   "type": "evid",
+   "pid": "d4",
+   "muc": "hieu",
+   "q": "Chạm vào câu BỘC LỘ TRỰC TIẾP cảm xúc của người viết.",
+   "ans": [
+    2
+   ],
+   "why": "“Em yêu bà biết bao!” nói thẳng tình cảm bằng từ “yêu” và dấu chấm than."
+  },
+  {
+   "id": "4p5",
+   "bai": 4,
+   "tag": "doc",
+   "type": "short",
+   "pid": "d4",
+   "muc": "vd",
+   "q": "Hình ảnh “đôi bàn tay chai sạn” giúp người viết nói lên điều gì về bà? Viết 1–2 câu.",
+   "goi": "Gợi ý: Hình ảnh ấy cho thấy bà … và tình cảm của em là …",
+   "mau": "Hình ảnh đôi bàn tay chai sạn cho thấy bà đã vất vả, tần tảo nuôi cháu lớn khôn. Từ đó, người viết thêm thương và biết ơn bà.",
+   "y": [
+    "Nêu được sự vất vả, tần tảo của bà",
+    "Nêu tình cảm của người viết (thương, biết ơn…)",
+    "Viết thành câu đầy đủ, rõ ý"
+   ]
+  },
+  {
+   "id": "5p4",
+   "bai": 5,
+   "tag": "doc",
+   "type": "evid",
+   "pid": "d5",
+   "muc": "hieu",
+   "q": "Chạm vào những câu cho thấy “cái tôi” người viết đang BỘC LỘ NỖI NHỚ.",
+   "ans": [
+    1,
+    2
+   ],
+   "why": "Hai câu cuối có “lòng nao nao nhớ” và “vẫn thơm trong kí ức tôi”: cảm xúc, hồi tưởng của người viết."
+  },
+  {
+   "id": "5p5",
+   "bai": 5,
+   "tag": "doc",
+   "type": "short",
+   "pid": "d5",
+   "muc": "vd",
+   "q": "Vì sao hương nếp mới “đến giờ vẫn thơm trong kí ức” của người viết? Viết 1–2 câu.",
+   "goi": "Gợi ý: Vì hương nếp gắn với … nên …",
+   "mau": "Hương nếp mới gắn với kỉ niệm Tết ngày bé, khi bà ngồi gói bánh bên bếp lửa. Vì thế, mùi hương ấy trở thành kí ức ấm áp luôn theo người viết.",
+   "y": [
+    "Nêu được hương nếp gắn với kỉ niệm Tết ngày bé và hình ảnh bà",
+    "Nêu cảm xúc: ấm áp, nhớ nhung",
+    "Diễn đạt bằng lời của em"
+   ]
+  },
+  {
+   "id": "1v1",
+   "bai": 1,
+   "tag": "viet",
+   "type": "mc",
+   "muc": "hieu",
+   "q": "Đoạn văn “Cơn mưa đầu mùa” cần tóm tắt trong 2 câu. Bản nào đạt yêu cầu?",
+   "opts": [
+    "Bé Na lo cho tổ chim khi mưa đến, bèn chạy ra lấy nón lá che cho tổ chim.",
+    "Cơn mưa đầu mùa kéo đến khi chiều chưa tắt nắng. Bé Na đứng ở hiên, lo lắng nhìn mấy cái tổ chim trên cây ổi.",
+    "Bé Na rất ngoan và học giỏi nhất lớp.",
+    "Mưa to."
+   ],
+   "a": 0,
+   "why": "Bản đầu giữ sự việc chính (lo cho tổ chim → che nón), ngắn gọn, bằng lời của em.",
+   "wrong": [
+    null,
+    "Bản này chép lại nguyên văn, chưa phải tóm tắt.",
+    "Bản này thêm chi tiết đoạn văn không có.",
+    "Bản này quá ngắn, thiếu nhân vật và sự việc."
+   ]
+  },
+  {
+   "id": "1v2",
+   "bai": 1,
+   "tag": "viet",
+   "type": "order",
+   "muc": "hieu",
+   "q": "Sắp xếp các câu thành đoạn tóm tắt đúng trình tự.",
+   "items": [
+    "Trời đổ mưa đầu mùa khi chiều chưa tắt nắng.",
+    "Bé Na lo lắng cho mấy cái tổ chim trên cây ổi.",
+    "Gió nổi lên làm cành ổi rung mạnh.",
+    "Na chạy ra sân, lấy nón lá che cho tổ chim."
+   ],
+   "why": "Tóm tắt theo đúng trình tự sự việc: mưa đến → lo lắng → gió nổi → hành động che chở."
+  },
+  {
+   "id": "2v1",
+   "bai": 2,
+   "tag": "viet",
+   "type": "mc",
+   "muc": "hieu",
+   "q": "Câu nào bày tỏ cảm xúc về bài thơ “Đêm quê” hay hơn?",
+   "opts": [
+    "Bài thơ hay.",
+    "Đọc bài thơ, em thấy lòng êm dịu như được gió ru, nhất là hình ảnh “Gió ru vườn cau”.",
+    "Bài thơ có bốn dòng.",
+    "Tác giả viết bài thơ rất giỏi."
+   ],
+   "a": 1,
+   "why": "Câu hay vì có cảm xúc thật của em, có hình ảnh cụ thể và liên hệ với chính bài thơ.",
+   "wrong": [
+    "“Hay” chung chung, chưa nói vì sao.",
+    null,
+    "Câu chỉ nêu số dòng, chưa có cảm xúc.",
+    "Câu khen tác giả nhưng chưa nêu cảm xúc của em."
+   ]
+  },
+  {
+   "id": "2v2",
+   "bai": 2,
+   "tag": "viet",
+   "type": "order",
+   "muc": "hieu",
+   "q": "Sắp xếp các câu thành đoạn văn ghi lại cảm xúc sau khi đọc thơ.",
+   "items": [
+    "Bài thơ “Đêm quê” cho em cảm giác yên bình.",
+    "Em thích nhất hình ảnh “Gió ru vườn cau”.",
+    "Gió được viết như một người mẹ đang hát ru, làm cả khu vườn thêm êm đềm.",
+    "Đọc xong, em muốn về quê để được nghe tiếng gió ru dưới trăng."
+   ],
+   "why": "Đoạn cảm xúc đi từ cảm nhận chung → hình ảnh ấn tượng → giải thích → ước muốn của em."
+  },
+  {
+   "id": "3v1",
+   "bai": 3,
+   "tag": "viet",
+   "type": "mc",
+   "muc": "hieu",
+   "q": "Câu nào nêu đặc điểm nhân vật KÈM dẫn chứng đúng cách?",
+   "opts": [
+    "Nhân vật “tôi” có trách nhiệm: dù nôn nao muốn đi chơi, tôi vẫn ngồi xuống vỗ về em ngủ.",
+    "Nhân vật “tôi” rất tốt.",
+    "Tôi vỗ về em ngủ.",
+    "Mẹ dặn tôi ở nhà trông em."
+   ],
+   "a": 0,
+   "why": "Câu đúng vừa nêu đặc điểm (có trách nhiệm) vừa dẫn chứng (ngồi xuống vỗ về em).",
+   "wrong": [
+    null,
+    "Thiếu dẫn chứng.",
+    "Chỉ chép chi tiết, chưa nêu đặc điểm.",
+    "Đây là lời mẹ dặn, không phải đặc điểm của nhân vật."
+   ]
+  },
+  {
+   "id": "3v2",
+   "bai": 3,
+   "tag": "viet",
+   "type": "mc",
+   "muc": "vd",
+   "q": "Từ nối nào phù hợp để chuyển sang đặc điểm thứ hai (cùng mức quan trọng) của nhân vật?",
+   "opts": [
+    "Bên cạnh đó,",
+    "Vì vậy mà,",
+    "Mặc dù thế,",
+    "Hôm qua,"
+   ],
+   "a": 0,
+   "why": "Thêm một đặc điểm ngang hàng thì dùng “Bên cạnh đó”, “Ngoài ra”.",
+   "wrong": [
+    null,
+    "“Vì vậy” chỉ kết quả, không dùng để thêm ý ngang hàng.",
+    "“Mặc dù” chỉ sự nhượng bộ.",
+    "“Hôm qua” chỉ thời gian."
+   ]
+  },
+  {
+   "id": "4v1",
+   "bai": 4,
+   "tag": "viet",
+   "type": "mc",
+   "muc": "hieu",
+   "q": "Câu nào biểu cảm tốt hơn?",
+   "opts": [
+    "Em rất yêu bà.",
+    "Mỗi lần ngồi bên bà nhặt rau, em thấy lòng ấm áp như có nắng ngoài hiên.",
+    "Bà em sáu mươi tuổi.",
+    "Bà làm việc nhà."
+   ],
+   "a": 1,
+   "why": "Câu biểu cảm tốt gắn cảm xúc với một khoảnh khắc cụ thể và có hình ảnh so sánh.",
+   "wrong": [
+    "Câu nói được tình cảm nhưng chung chung.",
+    null,
+    "Câu chỉ cung cấp thông tin.",
+    "Câu chỉ kể việc."
+   ]
+  },
+  {
+   "id": "4v2",
+   "bai": 4,
+   "tag": "viet",
+   "type": "sort",
+   "muc": "hieu",
+   "q": "Phân loại câu theo cách biểu đạt.",
+   "bins": [
+    "Kể",
+    "Tả",
+    "Biểu cảm"
+   ],
+   "items": [
+    [
+     "Hôm qua, bà đưa em đi chợ.",
+     0
+    ],
+    [
+     "Chiều nay em sang nhà bà chơi.",
+     0
+    ],
+    [
+     "Mái tóc bà bạc như sương.",
+     1
+    ],
+    [
+     "Bà ngồi bên hiên, tay thoăn thoắt nhặt rau.",
+     1
+    ],
+    [
+     "Em thương bà biết bao!",
+     2
+    ],
+    [
+     "Nhớ bà, lòng em chợt thắt lại.",
+     2
+    ]
+   ],
+   "why": "Kể: nêu việc đã xảy ra. Tả: vẽ lại hình dáng, hoạt động. Biểu cảm: bày tỏ tình cảm, cảm xúc."
+  },
+  {
+   "id": "5v1",
+   "bai": 5,
+   "tag": "viet",
+   "type": "mc",
+   "muc": "hieu",
+   "q": "Câu nào KHÔNG nên có trong bản tường trình?",
+   "opts": [
+    "Em xin cam đoan những điều trên là đúng sự thật.",
+    "Do em không cẩn thận nên quả bóng bay vào cửa kính.",
+    "Chắc là do bạn A nghịch, em đoán vậy.",
+    "Em xin nhận trách nhiệm về phần của mình."
+   ],
+   "a": 2,
+   "why": "Tường trình phải nói đúng sự việc em biết, rõ trách nhiệm của mình, không suy đoán hay đổ lỗi.",
+   "wrong": [
+    "Câu cam đoan là phần cần có.",
+    "Câu nêu nguyên nhân và trách nhiệm là phù hợp.",
+    null,
+    "Nhận trách nhiệm là nội dung phù hợp."
+   ]
+  },
+  {
+   "id": "5v2",
+   "bai": 5,
+   "tag": "viet",
+   "type": "mc",
+   "muc": "biet",
+   "q": "Phần “Kính gửi” trong bản tường trình dùng để làm gì?",
+   "opts": [
+    "Nêu người hoặc cơ quan nhận bản tường trình",
+    "Nêu nguyên nhân sự việc",
+    "Ghi ngày tháng viết",
+    "Giới thiệu sở thích của người viết"
+   ],
+   "a": 0,
+   "why": "“Kính gửi” cho biết bản tường trình viết cho ai (ví dụ cô giáo chủ nhiệm).",
+   "wrong": [
+    null,
+    "Nguyên nhân nằm ở phần nội dung sự việc.",
+    "Ngày tháng nằm ở đầu hoặc cuối văn bản.",
+    "Tường trình không giới thiệu sở thích."
+   ]
+  },
+  {
+   "id": "1t1",
+   "bai": 1,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Mở rộng thành phần chính và trạng ngữ của câu bằng cụm từ có tác dụng gì?",
+   "opts": [
+    "Giúp câu cung cấp nhiều thông tin hơn cho người đọc, người nghe",
+    "Làm câu ngắn lại cho dễ đọc",
+    "Làm mất thành phần chính của câu",
+    "Chỉ để câu dài ra, không thêm thông tin"
+   ],
+   "a": 0,
+   "why": "Theo SGK (tr.11): mở rộng bằng cụm từ giúp câu cung cấp nhiều thông tin hơn.",
+   "wrong": [
+    null,
+    "Mở rộng làm câu dài hơn chứ không ngắn lại.",
+    "Thành phần chính vẫn còn, chỉ được mở rộng.",
+    "Phần mở rộng có thêm thông tin cụ thể."
+   ]
+  },
+  {
+   "id": "1t2",
+   "bai": 1,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Thành phần chính và trạng ngữ thường được mở rộng bằng loại cụm từ nào?",
+   "opts": [
+    "Cụm danh từ, cụm động từ, cụm tính từ",
+    "Cụm từ nối câu",
+    "Cụm thán từ",
+    "Cụm dấu câu"
+   ],
+   "a": 0,
+   "why": "Đó là các cụm từ chính phụ: cụm danh từ, cụm động từ, cụm tính từ (SGK tr.11).",
+   "wrong": [
+    null,
+    "Không có loại “cụm từ nối câu” trong bài này.",
+    "Cụm thán từ không dùng để mở rộng thành phần chính.",
+    "Dấu câu không phải là cụm từ."
+   ]
+  },
+  {
+   "id": "1t3",
+   "bai": 1,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Đề tài của một tác phẩm văn học là gì?",
+   "opts": [
+    "Phạm vi đời sống được thể hiện trong tác phẩm",
+    "Tên của tác giả",
+    "Số trang của tác phẩm",
+    "Nhân vật phụ của tác phẩm"
+   ],
+   "a": 0,
+   "why": "Đề tài là phạm vi đời sống được thể hiện trong tác phẩm (SGK, Tri thức ngữ văn). Có thể dựa vào sự kiện, không gian hoặc nhân vật trung tâm để xác định.",
+   "wrong": [
+    null,
+    "Tên tác giả không phải là đề tài.",
+    "Số trang không nói gì về nội dung.",
+    "Nhân vật phụ chưa quyết định đề tài."
+   ]
+  },
+  {
+   "id": "1t4",
+   "bai": 1,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Tính cách nhân vật được bộc lộ qua những điều nào?",
+   "opts": [
+    "Hành động, cách ứng xử, cảm xúc, suy nghĩ, qua các mối quan hệ và lời kể của người khác",
+    "Chỉ qua tên của nhân vật",
+    "Chỉ qua số lần nhân vật xuất hiện",
+    "Chỉ qua nhan đề của văn bản"
+   ],
+   "a": 0,
+   "why": "Theo SGK: tính cách là đặc điểm riêng tương đối ổn định, bộc lộ qua hành động, cách ứng xử, cảm xúc, suy nghĩ, quan hệ và lời kể của nhân vật khác.",
+   "wrong": [
+    null,
+    "Tên không cho biết tính cách.",
+    "Số lần xuất hiện không nói lên tính cách.",
+    "Nhan đề chỉ gợi ý, chưa đủ để nêu tính cách."
+   ]
+  },
+  {
+   "id": "1t5",
+   "bai": 1,
+   "tag": "viet",
+   "type": "mc",
+   "q": "Theo SGK, văn bản tóm tắt phải đảm bảo điều gì?",
+   "opts": [
+    "Phản ánh trung thành nội dung cơ bản của văn bản gốc",
+    "Thêm nhiều ý kiến riêng của người tóm tắt",
+    "Dài hơn văn bản gốc",
+    "Đổi hết tên nhân vật"
+   ],
+   "a": 0,
+   "why": "Văn bản tóm tắt tuy ngắn nhưng vẫn phản ánh trung thành nội dung cơ bản của văn bản gốc (SGK tr.11, 27).",
+   "wrong": [
+    null,
+    "Ý kiến bình luận nên lược bỏ khi tóm tắt.",
+    "Tóm tắt phải ngắn hơn văn bản gốc.",
+    "Không đổi tên nhân vật."
+   ]
+  },
+  {
+   "id": "1t6",
+   "bai": 1,
+   "tag": "viet",
+   "type": "mc",
+   "q": "Khi tóm tắt văn bản tự sự, em cần quan tâm đến những yếu tố nào (theo sơ đồ trong SGK)?",
+   "opts": [
+    "Bối cảnh, nhân vật và các sự việc tiêu biểu",
+    "Chỉ màu sắc của bìa sách",
+    "Chỉ lời bình của người khác",
+    "Chỉ năm xuất bản"
+   ],
+   "a": 0,
+   "why": "SGK tr.28 gợi ý sơ đồ: bối cảnh (ở đâu, khi nào), nhân vật, sự việc 1 – 2 – 3.",
+   "wrong": [
+    null,
+    "Bìa sách không thuộc nội dung cần tóm tắt.",
+    "Lời bình không phải nội dung của văn bản gốc.",
+    "Năm xuất bản không giúp tóm tắt nội dung."
+   ]
+  },
+  {
+   "id": "1s1",
+   "bai": 1,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Trong “Bầy chim chìa vôi”, đêm mưa to, hai anh em Mên và Mon lo lắng điều gì?",
+   "opts": [
+    "Bãi cát giữa sông sắp ngập, bầy chim chìa vôi non có thể bị chết đuối",
+    "Nhà bị dột và hết chỗ ngủ",
+    "Bố sẽ mắng vì mất cá",
+    "Đò của ông Hảo bị trôi"
+   ],
+   "a": 0,
+   "why": "Mon nói “Em sợ những con chim chìa vôi non bị chết đuối mất”, và cả hai lo bãi cát giữa sông sắp ngập (SGK tr.11–12).",
+   "wrong": [
+    null,
+    "Truyện không nói nhà bị dột.",
+    "Chuyện con cá bống chỉ là một chi tiết nhỏ, không phải nỗi lo chính.",
+    "Hai anh em còn dùng đò của ông Hảo để ra bãi."
+   ],
+   "pid": "s1a",
+   "muc": "biet"
+  },
+  {
+   "id": "1s2",
+   "bai": 1,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Tóm tắt trong SGK (tr.28) cho biết hai anh em Mên, Mon đã làm gì?",
+   "opts": [
+    "Đi đò ra bãi cát giữa sông để cứu tổ chim sắp bị ngập nước",
+    "Đi đánh cá giúp bố",
+    "Ra sông tắm mưa",
+    "Đi tìm đò của ông Hảo để bán"
+   ],
+   "a": 0,
+   "why": "SGK tóm tắt: hai anh em đi đò ra bãi cát giữa sông để cứu tổ chim sắp bị ngập nước và xúc động khi thấy đàn chim non bay lên.",
+   "wrong": [
+    null,
+    "Hai anh em không đi đánh cá.",
+    "Họ không đi tắm mưa mà lo cho chim.",
+    "Đò chỉ là phương tiện để ra bãi cát."
+   ],
+   "pid": "s1a",
+   "muc": "hieu"
+  },
+  {
+   "id": "1s3",
+   "bai": 1,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Đoạn kết truyện: khi thấy bầy chim non bay lên, Mên và Mon thế nào?",
+   "opts": [
+    "Xúc động đến mức khóc mà không hiểu vì sao",
+    "Giận dỗi nhau rồi bỏ về",
+    "Vui mừng reo hò ầm ĩ",
+    "Chẳng quan tâm vì quá buồn ngủ"
+   ],
+   "a": 0,
+   "why": "Hai anh em đứng không nhúc nhích, rồi nhận ra mình đã khóc từ lúc nào; Mon còn nói “Em không biết” khi anh hỏi vì sao khóc (tr.17).",
+   "wrong": [
+    null,
+    "Họ không giận nhau, chỉ cười ngượng nghịu.",
+    "Họ “không kêu lên được một tiếng nào” chứ không reo hò.",
+    "Họ không hề buồn ngủ."
+   ],
+   "pid": "s1a",
+   "muc": "hieu"
+  },
+  {
+   "id": "1s4",
+   "bai": 1,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Truyện “Bầy chim chìa vôi” được kể bằng ngôi nào?",
+   "opts": [
+    "Ngôi thứ ba",
+    "Ngôi thứ nhất",
+    "Ngôi thứ hai",
+    "Không có người kể chuyện"
+   ],
+   "a": 0,
+   "why": "Người kể gọi các nhân vật là “nó”, “thằng Mên”, “thằng Mon” nên đây là ngôi thứ ba.",
+   "wrong": [
+    null,
+    "Người kể không xưng “tôi”.",
+    "Người kể không gọi người đọc là “bạn” (ngôi thứ hai).",
+    "Truyện luôn có người kể chuyện."
+   ],
+   "pid": "s1a",
+   "muc": "hieu"
+  },
+  {
+   "id": "1s5",
+   "bai": 1,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Trong “Đi lấy mật”, ai cùng đi lấy mật với An?",
+   "opts": [
+    "Tía nuôi và thằng Cò",
+    "Má nuôi và con Luốc",
+    "Thầy giáo và bạn cùng lớp",
+    "Chỉ một mình An"
+   ],
+   "a": 0,
+   "why": "An đi cùng tía nuôi và Cò (con trai của tía nuôi); con Luốc là chú chó đi theo (tr.18–19).",
+   "wrong": [
+    null,
+    "Má nuôi ở nhà, chỉ kể cách gác kèo ong.",
+    "Thầy giáo chỉ được nhắc đến trong lời kể của An.",
+    "An không đi một mình."
+   ],
+   "pid": "s1b",
+   "muc": "biet"
+  },
+  {
+   "id": "1s6",
+   "bai": 1,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Cảnh sắc rừng U Minh trong đoạn trích được kể qua cái nhìn của ai?",
+   "opts": [
+    "Nhân vật An (xưng “tôi”)",
+    "Thằng Cò",
+    "Tía nuôi",
+    "Con chó Luốc"
+   ],
+   "a": 0,
+   "why": "Đoạn trích kể ở ngôi thứ nhất, qua cái nhìn của cậu bé An – người lần đầu theo tía nuôi đi “ăn ong”.",
+   "wrong": [
+    null,
+    "Cò là người chỉ cho An nhìn, nhưng người “thấy” và kể là An.",
+    "Tía nuôi là nhân vật được An kể về.",
+    "Con chó không phải người kể."
+   ],
+   "pid": "s1b",
+   "muc": "hieu"
+  },
+  {
+   "id": "1s7",
+   "bai": 1,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Theo lời má nuôi, để gác kèo ong, người ta phải làm gì?",
+   "opts": [
+    "Chọn vùng rừng tốt, xem hướng gió và tính đường bay của ong mật",
+    "Chặt hết cây quanh tổ ong",
+    "Chỉ cần mang gùi vào rừng",
+    "Gác kèo ở chỗ râm mát nhất"
+   ],
+   "a": 0,
+   "why": "Má nuôi nói phải xem hướng gió, tính đường bay của ong mật, chọn chỗ “ấm”, cây dày (tr.21).",
+   "wrong": [
+    null,
+    "Chỉ “rửa” bớt nhánh quanh kèo, không chặt hết cây.",
+    "Nhiều người có nghề lâu năm vẫn “gùi không trở về” vì định sai chỗ.",
+    "Con ong không thích đóng chỗ rợp."
+   ],
+   "pid": "s1b",
+   "muc": "hieu"
+  },
+  {
+   "id": "1s8",
+   "bai": 1,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Bài thơ “Ngàn sao làm việc” viết theo thể thơ nào?",
+   "opts": [
+    "Năm chữ",
+    "Bốn chữ",
+    "Sáu chữ",
+    "Lục bát"
+   ],
+   "a": 0,
+   "why": "Mỗi dòng có 5 tiếng, ví dụ: “Bóng chiều toả ra nhanh”.",
+   "wrong": [
+    null,
+    "Mỗi dòng có 5 tiếng, nhiều hơn bốn chữ.",
+    "Mỗi dòng có 5 tiếng, ít hơn sáu chữ.",
+    "Lục bát xen dòng 6 và 8 tiếng, bài này đều 5 tiếng."
+   ],
+   "pid": "s1c",
+   "muc": "biet"
+  },
+  {
+   "id": "1s9",
+   "bai": 1,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Các hình ảnh so sánh bầu trời đêm trong bài (chiếc vó, chiếc nơm, đuốc soi cá, gàu tát nước…) có điểm chung nào?",
+   "opts": [
+    "Đều là những vật dụng, công việc quen thuộc của người dân quê",
+    "Đều là đồ chơi hiện đại",
+    "Đều là loài vật trong rừng",
+    "Đều là máy móc công nghiệp"
+   ],
+   "a": 0,
+   "why": "Nhà thơ nhìn ngàn sao qua con mắt em bé chăn trâu nên liên tưởng tới vó, nơm, đuốc soi cá, gàu tát nước – cảnh làm việc ở làng quê.",
+   "wrong": [
+    null,
+    "Vó, nơm, gàu là dụng cụ lao động, không phải đồ chơi hiện đại.",
+    "Đó là dụng cụ, không phải loài vật.",
+    "Đó là dụng cụ thủ công, không phải máy móc."
+   ],
+   "pid": "s1c",
+   "muc": "vd"
+  },
+  {
+   "id": "1s10",
+   "bai": 1,
+   "tag": "doc",
+   "type": "short",
+   "pid": "s1a",
+   "muc": "vd",
+   "q": "Em hãy nêu tính cách của Mon (hoặc Mên) và một chi tiết giúp em nhận ra điều đó (1–2 câu).",
+   "goi": "Gợi ý: Mon là cậu bé … Em nhận ra qua chi tiết …",
+   "mau": "Mon là cậu bé giàu tình thương loài vật và nhạy cảm. Em nhận ra qua chi tiết Mon lo bầy chim chìa vôi non sẽ bị chết đuối và là người đề nghị mang chúng vào bờ.",
+   "y": [
+    "Nêu đúng tính cách (thương yêu loài vật, nhạy cảm, tốt bụng…)",
+    "Dẫn ít nhất một chi tiết trong truyện",
+    "Câu văn rõ ràng, đủ chủ ngữ – vị ngữ"
+   ]
+  },
+  {
+   "id": "1s11",
+   "bai": 1,
+   "tag": "doc",
+   "type": "short",
+   "pid": "s1b",
+   "muc": "vd",
+   "q": "Đọc “Đi lấy mật”, em có ấn tượng như thế nào về rừng U Minh hoặc con người nơi đây (1–2 câu)?",
+   "goi": "Gợi ý: Em ấn tượng với … vì …",
+   "mau": "Em ấn tượng với rừng U Minh yên tĩnh mà đầy sự sống (ong, chim, kì nhông…) và với những người dân Nam Bộ thạo nghề rừng như tía nuôi, má nuôi, Cò.",
+   "y": [
+    "Nêu đúng một ấn tượng về rừng hoặc con người",
+    "Có chi tiết minh hoạ trong đoạn trích",
+    "Diễn đạt rõ ràng"
+   ]
+  },
+  {
+   "id": "2t1",
+   "bai": 2,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Hai dòng thơ “Một ngày hoà bình / Anh không về nữa” dùng biện pháp tu từ nào?",
+   "opts": [
+    "Nói giảm nói tránh",
+    "Nhân hoá",
+    "So sánh",
+    "Hoán dụ"
+   ],
+   "a": 0,
+   "why": "Nhà thơ nói “không về nữa” thay cho “đã hi sinh” để tránh gây cảm giác đau thương, mất mát (SGK tr.42).",
+   "wrong": [
+    null,
+    "Không có sự vật nào được gán hành động của người ở hai dòng này.",
+    "Không có từ “như” hay “là” để so sánh.",
+    "Câu không gọi tên sự vật bằng một sự vật khác."
+   ]
+  },
+  {
+   "id": "2t2",
+   "bai": 2,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Nói giảm nói tránh là biện pháp tu từ như thế nào?",
+   "opts": [
+    "Dùng cách nói giảm nhẹ hoặc tránh nói trực tiếp để đỡ đau buồn, ghê sợ hay giữ phép lịch sự",
+    "Nhắc lại một từ nhiều lần để nhấn mạnh",
+    "So sánh hai sự vật có nét giống nhau",
+    "Gọi sự vật bằng tên của sự vật khác"
+   ],
+   "a": 0,
+   "why": "Đó là định nghĩa trong SGK (tr.39). Nhắc lại từ là điệp ngữ; so sánh và hoán dụ là các biện pháp khác.",
+   "wrong": [
+    null,
+    "Đó là điệp ngữ.",
+    "Đó là so sánh.",
+    "Đó là ẩn dụ/hoán dụ."
+   ]
+  },
+  {
+   "id": "2t3",
+   "bai": 2,
+   "tag": "tv",
+   "type": "sort",
+   "q": "Xếp mỗi cách nói vào đúng nhóm (theo ví dụ trong SGK).",
+   "bins": [
+    "Nói giảm nói tránh",
+    "Nói trực tiếp"
+   ],
+   "items": [
+    [
+     "Cụ ấy đã quy tiên.",
+     0
+    ],
+    [
+     "Cụ ấy chết rồi.",
+     1
+    ],
+    [
+     "Bông hoa này không đẹp lắm.",
+     0
+    ],
+    [
+     "Bông hoa này xấu lắm.",
+     1
+    ],
+    [
+     "Kết quả học tập của con dạo này kém lắm.",
+     1
+    ],
+    [
+     "Con cần cố gắng nhiều hơn nữa.",
+     0
+    ]
+   ],
+   "why": "Nói giảm nói tránh dùng từ Hán Việt hoặc cách nói vòng, nói phủ định để lời nói nhẹ nhàng, lịch sự hơn."
+  },
+  {
+   "id": "2t4",
+   "bai": 2,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Khi vần được gieo ở các dòng liền nhau, ta gọi là vần gì?",
+   "opts": [
+    "Vần liền",
+    "Vần cách",
+    "Vần hỗn hợp",
+    "Vần lưng"
+   ],
+   "a": 0,
+   "why": "Theo SGK (tr.39): vần có thể gieo liên tiếp (vần liền) hoặc cách quãng (vần cách), hoặc phối hợp nhiều kiểu (vần hỗn hợp).",
+   "wrong": [
+    null,
+    "Vần cách là gieo cách quãng.",
+    "Vần hỗn hợp là phối hợp nhiều kiểu.",
+    "Vần lưng không phải là cách gọi trong bài học này."
+   ]
+  },
+  {
+   "id": "2t5",
+   "bai": 2,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Bài “Đồng dao mùa xuân” và bài “Gặp lá cơm nếp” lần lượt thuộc thể thơ nào?",
+   "opts": [
+    "Bốn chữ và năm chữ",
+    "Năm chữ và bốn chữ",
+    "Cả hai đều bốn chữ",
+    "Cả hai đều lục bát"
+   ],
+   "a": 0,
+   "why": "“Có một người lính” có 4 tiếng; “Xa nhà đã mấy năm” có 5 tiếng.",
+   "wrong": [
+    null,
+    "Đồng dao mùa xuân có 4 tiếng mỗi dòng.",
+    "Cả hai bài không cùng thể thơ.",
+    "Hai bài không phải lục bát."
+   ]
+  },
+  {
+   "id": "2t6",
+   "bai": 2,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Văn bản “Trở gió” của Nguyễn Ngọc Tư viết về điều gì?",
+   "opts": [
+    "Gió chướng và nỗi nhớ, tình cảm của tác giả với quê nhà",
+    "Một trận bão ở miền Trung",
+    "Cơn gió mùa hạ ở thành phố",
+    "Cuộc thi thả diều"
+   ],
+   "a": 0,
+   "why": "Tác giả viết về gió chướng (cách gọi gió mùa đông bắc của người Nam Bộ), gắn với mùa thu hoạch và nỗi nhớ quê (tr.44–46).",
+   "wrong": [
+    null,
+    "Gió chướng là gió mùa đông bắc ở Nam Bộ.",
+    "Văn bản không nói về mùa hạ ở thành phố.",
+    "Không có cuộc thi thả diều."
+   ]
+  },
+  {
+   "id": "2s1",
+   "bai": 2,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Người lính trong “Đồng dao mùa xuân” hiện lên qua những hình ảnh nào?",
+   "opts": [
+    "Ba lô con cóc, tấm áo màu xanh, làn da sốt rét, cái cười hiền lành",
+    "Bộ quân phục sáng bóng và chiếc huân chương lớn",
+    "Con ngựa chiến và thanh gươm",
+    "Chiếc máy bay và lá cờ"
+   ],
+   "a": 0,
+   "why": "Đó là các hình ảnh bình dị, thân quen về anh bộ đội (SGK tr.41).",
+   "wrong": [
+    null,
+    "Bài thơ không nhắc tới huân chương.",
+    "Không có ngựa chiến, gươm trong bài.",
+    "Không có máy bay trong bài."
+   ],
+   "pid": "s2a",
+   "muc": "biet"
+  },
+  {
+   "id": "2s2",
+   "bai": 2,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Nhan đề “Đồng dao mùa xuân” gợi cho em điều gì?",
+   "opts": [
+    "Giọng điệu tươi trẻ như khúc đồng dao và sức sống của mùa xuân, tuổi xuân",
+    "Một bài hát buồn thảm",
+    "Câu chuyện về mùa đông giá rét",
+    "Một bài học khoa học"
+   ],
+   "a": 0,
+   "why": "SGK (bài tham khảo tr.51) nhận xét nhan đề cùng thể thơ bốn chữ mang giọng điệu tươi trẻ của khúc đồng dao, tiếp nối sức sống bất diệt của mùa xuân.",
+   "wrong": [
+    null,
+    "Bài thơ không để lại cảm giác bi thương, nặng nề.",
+    "Nhan đề nhắc tới mùa xuân.",
+    "Đây là bài thơ, không phải bài khoa học."
+   ],
+   "pid": "s2a",
+   "muc": "hieu"
+  },
+  {
+   "id": "2s3",
+   "bai": 2,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Điều gì gợi người con nhớ về mẹ trong “Gặp lá cơm nếp”?",
+   "opts": [
+    "Bát xôi mùa gặt, mùi xôi và lá cơm nếp",
+    "Tiếng chuông trường",
+    "Một chuyến tàu đêm",
+    "Cơn mưa rào"
+   ],
+   "a": 0,
+   "why": "Xa nhà đã mấy năm, người con gặp bát xôi, mùi xôi và lá cơm nếp nên nhớ mẹ nhặt lá về đun bếp thổi xôi (tr.43).",
+   "wrong": [
+    null,
+    "Bài thơ không nhắc tiếng chuông trường.",
+    "Không có chuyến tàu đêm trong bài.",
+    "Không có cơn mưa rào trong bài."
+   ],
+   "pid": "s2b",
+   "muc": "hieu"
+  },
+  {
+   "id": "2s4",
+   "bai": 2,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Khi gió chướng về, tâm trạng của nhân vật “tôi” trong “Trở gió” như thế nào?",
+   "opts": [
+    "Lộn xộn, ngổn ngang: vừa mừng vừa bực, vừa buồn",
+    "Hoàn toàn bình thản",
+    "Chỉ có sợ hãi",
+    "Chỉ có giận dữ"
+   ],
+   "a": 0,
+   "why": "Tác giả viết “Tôi thường đón gió chướng về với một tâm trạng lộn xộn, ngổn ngang. Mừng đó rồi bực đó” (tr.45).",
+   "wrong": [
+    null,
+    "Nhân vật “tôi” có nhiều cảm xúc, không bình thản.",
+    "Không chỉ có sợ hãi.",
+    "Không chỉ có giận dữ."
+   ],
+   "pid": "s2c",
+   "muc": "hieu"
+  },
+  {
+   "id": "2s5",
+   "bai": 2,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Vì sao tác giả nói mùa gió chướng cũng là mùa thu hoạch?",
+   "opts": [
+    "Gió về lúc lúa chín, mía già, trái cây chín… nên rất đáng chờ đợi",
+    "Vì gió làm mát nhà cửa",
+    "Vì gió đưa cá vào sông",
+    "Vì gió dùng để đi biển"
+   ],
+   "a": 0,
+   "why": "Văn bản kể lúa vừa chín tới, liếp mía già, vú sữa chín, dưa hấu… đúng vào mùa gió chướng (tr.46).",
+   "wrong": [
+    null,
+    "Đó không phải lí do tác giả nêu.",
+    "Văn bản không nói tới cá.",
+    "Văn bản không nói về đi biển."
+   ],
+   "pid": "s2c",
+   "muc": "hieu"
+  },
+  {
+   "id": "2s6",
+   "bai": 2,
+   "tag": "doc",
+   "type": "short",
+   "pid": "s2b",
+   "muc": "vd",
+   "q": "Theo em, tình cảm của người con dành cho mẹ và quê hương trong “Gặp lá cơm nếp” là gì? Nêu một hình ảnh em thích (1–2 câu).",
+   "goi": "Gợi ý: Người con nhớ thương … Em thích hình ảnh … vì …",
+   "mau": "Người con nhớ thương mẹ và gắn bó với quê hương; nỗi nhớ mẹ hoà vào tình yêu đất nước. Em thích hình ảnh mùi xôi, lá cơm nếp vì nó làm người con nhớ tới mẹ.",
+   "y": [
+    "Nêu đúng tình cảm (nhớ thương mẹ, yêu quê hương)",
+    "Chọn một hình ảnh cụ thể trong bài",
+    "Giải thích ngắn gọn vì sao em thích"
+   ]
+  },
+  {
+   "id": "3t1",
+   "bai": 3,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Phó từ là gì?",
+   "opts": [
+    "Những từ đi kèm để bổ sung ý nghĩa cho danh từ, động từ, tính từ",
+    "Những từ chỉ tên riêng",
+    "Những từ chỉ số lượng và thứ tự",
+    "Những từ biểu thị cảm xúc"
+   ],
+   "a": 0,
+   "why": "Theo SGK (tr.59): phó từ là những từ chuyên đi kèm để bổ sung ý nghĩa cho danh từ, động từ, tính từ.",
+   "wrong": [
+    null,
+    "Tên riêng không phải phó từ.",
+    "Từ chỉ số lượng, thứ tự là số từ.",
+    "Từ biểu thị cảm xúc là thán từ."
+   ]
+  },
+  {
+   "id": "3t2",
+   "bai": 3,
+   "tag": "tv",
+   "type": "sort",
+   "q": "Xếp các phó từ vào đúng nhóm.",
+   "bins": [
+    "Đi kèm danh từ",
+    "Đi kèm động từ, tính từ"
+   ],
+   "items": [
+    [
+     "những",
+     0
+    ],
+    [
+     "các",
+     0
+    ],
+    [
+     "mọi",
+     0
+    ],
+    [
+     "hãy",
+     1
+    ],
+    [
+     "lắm",
+     1
+    ],
+    [
+     "đã",
+     1
+    ]
+   ],
+   "why": "Phó từ đi kèm danh từ: những, các, mọi, mỗi, từng… Phó từ đi kèm động từ, tính từ: đã, vẫn, hãy, lắm… (SGK tr.72)."
+  },
+  {
+   "id": "3t3",
+   "bai": 3,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Từ nào dưới đây là số từ chỉ số lượng ước chừng?",
+   "opts": [
+    "dăm ba",
+    "thứ nhất",
+    "bốn mươi hai",
+    "đầu tiên"
+   ],
+   "a": 0,
+   "why": "“Dăm ba” chỉ số lượng ước chừng (như vài, dăm, mươi…). “Bốn mươi hai” là số lượng xác định; “thứ nhất” chỉ thứ tự.",
+   "wrong": [
+    null,
+    "“Thứ nhất” chỉ thứ tự.",
+    "“Bốn mươi hai” là số lượng xác định.",
+    "“Đầu tiên” chỉ thứ tự."
+   ]
+  },
+  {
+   "id": "3t4",
+   "bai": 3,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Việc thay đổi kiểu người kể chuyện trong một truyện có tác dụng gì?",
+   "opts": [
+    "Soi chiếu câu chuyện từ nhiều chiều, làm truyện phong phú, hấp dẫn hơn",
+    "Làm truyện ngắn đi",
+    "Làm mất nhân vật chính",
+    "Chỉ để đổi tên tác giả"
+   ],
+   "a": 0,
+   "why": "Theo SGK (tr.59): sự thay đổi kiểu người kể chuyện thể hiện ý đồ nghệ thuật, mỗi ngôi kể mang một cách nhìn riêng.",
+   "wrong": [
+    null,
+    "Mục đích không phải rút ngắn.",
+    "Nhân vật chính vẫn còn.",
+    "Tác giả không đổi."
+   ]
+  },
+  {
+   "id": "3t5",
+   "bai": 3,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Trong bài thơ “Quê hương”, quê của tác giả là làng như thế nào?",
+   "opts": [
+    "Làng chài ven biển",
+    "Làng làm nghề gốm",
+    "Làng miền núi trồng chè",
+    "Phố cổ đông đúc"
+   ],
+   "a": 0,
+   "why": "“Làng tôi ở vốn làm nghề chài lưới” – dân trai tráng bơi thuyền đi đánh cá (tr.73).",
+   "wrong": [
+    null,
+    "Bài thơ không nói tới nghề gốm.",
+    "Bài thơ không nói tới trồng chè.",
+    "Đó không phải phố cổ."
+   ]
+  },
+  {
+   "id": "3s1",
+   "bai": 3,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Trong “Vừa nhắm mắt vừa mở cửa sổ”, người bố dạy “tôi” nhận ra các loài hoa bằng cách nào?",
+   "opts": [
+    "Nhắm mắt, dùng tay chạm vào từng bông hoa rồi đoán tên",
+    "Đọc sách về các loài hoa",
+    "Nhìn ảnh trong tờ lịch",
+    "Hỏi người hàng xóm"
+   ],
+   "a": 0,
+   "why": "Bố bảo “tôi” nhắm mắt lại rồi dẫn đi chạm từng bông hoa, hỏi “Đố con hoa gì?” (tr.60).",
+   "wrong": [
+    null,
+    "Truyện không nói tới sách về hoa.",
+    "Không có ảnh trong tờ lịch.",
+    "Không hỏi hàng xóm."
+   ],
+   "pid": "s3a",
+   "muc": "biet"
+  },
+  {
+   "id": "3s2",
+   "bai": 3,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Nhân vật người bố chủ yếu được miêu tả qua lời kể của ai?",
+   "opts": [
+    "Nhân vật “tôi” – người con (ngôi thứ nhất)",
+    "Một người hàng xóm",
+    "Chính người bố",
+    "Thằng Tí"
+   ],
+   "a": 0,
+   "why": "Truyện kể ở ngôi thứ nhất, “tôi” kể về bố bằng cái nhìn và tình cảm của con.",
+   "wrong": [
+    null,
+    "Người hàng xóm không phải người kể.",
+    "Bố được kể, không phải người kể.",
+    "Tí là bạn của “tôi”, không phải người kể."
+   ],
+   "pid": "s3a",
+   "muc": "hieu"
+  },
+  {
+   "id": "3s3",
+   "bai": 3,
+   "tag": "doc",
+   "type": "short",
+   "pid": "s3a",
+   "muc": "vd",
+   "q": "Nêu một nét tính cách của người bố và một chi tiết cho thấy điều đó (1–2 câu).",
+   "goi": "Gợi ý: Người bố là người … Em nhận ra qua chi tiết …",
+   "mau": "Người bố yêu con, kiên nhẫn và tinh tế. Em nhận ra qua chi tiết bố dẫn con ra vườn mỗi chiều, bảo con nhắm mắt chạm từng bông hoa để đoán tên và cười khen khi con tiến bộ.",
+   "y": [
+    "Nêu đúng tính cách (yêu con, kiên nhẫn, tinh tế…)",
+    "Dẫn một chi tiết trong truyện",
+    "Câu văn rõ ràng, đủ ý"
+   ]
+  },
+  {
+   "id": "3s4",
+   "bai": 3,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Trong “Người thầy đầu tiên”, thầy Đuy-sen được người kể chuyện nhận xét là người như thế nào?",
+   "opts": [
+    "Có tấm lòng nhân từ, có những ý nghĩ tốt lành, mơ ước tốt đẹp cho học trò",
+    "Nghiêm khắc, lạnh lùng",
+    "Hay quên và cẩu thả",
+    "Chỉ thích chơi"
+   ],
+   "a": 0,
+   "why": "SGK tr.78 trích lời người kể: học sinh yêu mến thầy vì tấm lòng nhân từ, ý nghĩ tốt lành, ước mơ về tương lai của các em.",
+   "wrong": [
+    null,
+    "Thầy được yêu mến, không lạnh lùng.",
+    "Thầy lo từng việc cho lớp học, không cẩu thả.",
+    "Thầy hết lòng với học trò, không chỉ thích chơi."
+   ],
+   "pid": "s3b",
+   "muc": "hieu"
+  },
+  {
+   "id": "3s5",
+   "bai": 3,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Từ “hãy” được lặp lại nhiều lần trong phần (4) (“Hãy nhìn đi, hãy nghiên cứu, chọn lọc…”) là phó từ chỉ ý nghĩa gì?",
+   "opts": [
+    "Sự cầu khiến, mệnh lệnh – như lời tự nhắc, thúc giục người hoạ sĩ",
+    "Thời gian đã qua",
+    "Mức độ cao",
+    "Sự phủ định"
+   ],
+   "a": 0,
+   "why": "Phó từ “hãy” đứng trước động từ, chỉ sự cầu khiến; lặp lại nhiều lần tạo nhịp điệu thúc giục (SGK tr.72).",
+   "wrong": [
+    null,
+    "Chỉ thời gian đã qua là “đã”.",
+    "Chỉ mức độ là “lắm, rất”.",
+    "Chỉ phủ định là “không, chưa”."
+   ],
+   "pid": "s3b",
+   "muc": "vd"
+  },
+  {
+   "id": "3s6",
+   "bai": 3,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Hình ảnh “Cánh buồm giương to như mảnh hồn làng” dùng biện pháp tu từ nào?",
+   "opts": [
+    "So sánh",
+    "Nói giảm nói tránh",
+    "Điệp ngữ",
+    "Liệt kê"
+   ],
+   "a": 0,
+   "why": "Có từ “như” nối cánh buồm với mảnh hồn làng nên đây là so sánh, làm cánh buồm trở nên thiêng liêng, gắn với làng chài.",
+   "wrong": [
+    null,
+    "Không có cách nói nhẹ đi để tránh đau buồn.",
+    "Không có từ ngữ nào lặp lại để nhấn mạnh.",
+    "Câu không liệt kê nhiều sự vật."
+   ],
+   "pid": "s3c",
+   "muc": "hieu"
+  },
+  {
+   "id": "4t1",
+   "bai": 4,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Hình ảnh trong thơ có đặc điểm gì?",
+   "opts": [
+    "Có nguồn gốc từ đời sống nhưng mang dấu ấn tưởng tượng và tình cảm của nhà thơ",
+    "Chỉ là sao chép nguyên cảnh thật",
+    "Không liên quan đến cảm xúc",
+    "Chỉ gồm các con số"
+   ],
+   "a": 0,
+   "why": "Theo SGK (tr.89): hình ảnh có nguồn gốc từ đời sống nhưng luôn mang dấu ấn hư cấu, tưởng tượng, in đậm tình cảm, cảm xúc chủ quan của nhà thơ.",
+   "wrong": [
+    null,
+    "Thơ không chép nguyên cảnh thật.",
+    "Hình ảnh là phương tiện để bộc lộ cảm xúc.",
+    "Thơ không chỉ gồm con số."
+   ]
+  },
+  {
+   "id": "4t2",
+   "bai": 4,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Người đọc nhận biết nhịp thơ qua điều gì?",
+   "opts": [
+    "Các điểm ngắt, ngừng trên dòng thơ hoặc giữa các dòng thơ",
+    "Màu sắc của trang giấy",
+    "Số trang của bài thơ",
+    "Tên nhà xuất bản"
+   ],
+   "a": 0,
+   "why": "Theo SGK: nhịp thơ nhận biết qua hệ thống điểm ngắt, ngừng, chịu chi phối bởi cảm xúc và quy định của từng thể thơ.",
+   "wrong": [
+    null,
+    "Màu giấy không liên quan.",
+    "Số trang không liên quan.",
+    "Tên nhà xuất bản không liên quan."
+   ]
+  },
+  {
+   "id": "4s1",
+   "bai": 4,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Ở khổ thơ đầu của “Mùa xuân nho nhỏ”, nhà thơ miêu tả mùa xuân qua hình ảnh nào?",
+   "opts": [
+    "Dòng sông xanh, bông hoa tím biếc, chim chiền chiện hót vang",
+    "Cánh đồng lúa chín và tiếng trống hội",
+    "Tuyết trắng và cây thông",
+    "Ngọn lửa trại và tiếng đàn"
+   ],
+   "a": 0,
+   "why": "Mở đầu bài thơ là dòng sông xanh, bông hoa tím biếc và tiếng chim chiền chiện “hót chi mà vang trời” (tr.90–91).",
+   "wrong": [
+    null,
+    "Đó không phải cảnh ở khổ đầu.",
+    "Bài thơ không nhắc tới tuyết.",
+    "Đó không phải cảnh ở khổ đầu."
+   ],
+   "pid": "s4a",
+   "muc": "biet"
+  },
+  {
+   "id": "4s2",
+   "bai": 4,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Nhà thơ muốn làm “con chim”, “một cành hoa”, “một nốt trầm”. Điều đó thể hiện ước nguyện gì?",
+   "opts": [
+    "Muốn đem sự sống nhỏ bé của mình góp vào cuộc đời chung, đất nước",
+    "Muốn trở thành người nổi tiếng",
+    "Muốn rời xa mọi người",
+    "Muốn nghỉ ngơi một mình"
+   ],
+   "a": 0,
+   "why": "Những hình ảnh nhỏ bé, đẹp đẽ gửi gắm ước nguyện cống hiến thầm lặng cho đất nước, cho mùa xuân chung.",
+   "wrong": [
+    null,
+    "Bài thơ không nói đến danh tiếng.",
+    "Nhà thơ hoà vào cuộc đời chung, không rời xa.",
+    "Bài thơ nói về sự cống hiến, không phải nghỉ ngơi."
+   ],
+   "pid": "s4a",
+   "muc": "vd"
+  },
+  {
+   "id": "4s3",
+   "bai": 4,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Phần đầu bài thơ tác giả xưng “tôi”, về sau xưng “ta”. Cách đổi này có ý nghĩa gì?",
+   "opts": [
+    "Từ cái riêng của cá nhân mở rộng thành cái chung của cộng đồng, đất nước",
+    "Do tác giả viết nhầm",
+    "Do hai người khác nhau viết",
+    "Không có ý nghĩa gì"
+   ],
+   "a": 0,
+   "why": "Đây là câu hỏi 6 trong SGK (tr.92). Cách xưng “ta” thể hiện cái tôi riêng hoà vào ước nguyện chung của cả cộng đồng.",
+   "wrong": [
+    null,
+    "Đây là chủ ý nghệ thuật, không phải viết nhầm.",
+    "Bài thơ của một tác giả.",
+    "Sự thay đổi xưng hô có ý nghĩa nghệ thuật."
+   ],
+   "pid": "s4a",
+   "muc": "vd"
+  },
+  {
+   "id": "4s4",
+   "bai": 4,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Câu thơ “Ao làng trăng tắm, mây bơi” dùng biện pháp tu từ nào?",
+   "opts": [
+    "Nhân hoá",
+    "So sánh",
+    "Nói giảm nói tránh",
+    "Điệp ngữ"
+   ],
+   "a": 0,
+   "why": "Trăng “tắm”, mây “bơi” là hành động của con người gán cho sự vật nên cảnh làng quê trở nên sinh động, có hồn (tr.95).",
+   "wrong": [
+    null,
+    "Câu không có từ “như” để so sánh.",
+    "Không có cách nói tránh trực tiếp.",
+    "Không có từ nào lặp lại."
+   ],
+   "pid": "s4b",
+   "muc": "hieu"
+  },
+  {
+   "id": "4s5",
+   "bai": 4,
+   "tag": "doc",
+   "type": "mc",
+   "q": "“Nước trong như nước mắt người tôi yêu” là phép so sánh. Hiệu quả của nó là gì?",
+   "opts": [
+    "Làm nổi bật vẻ trong trẻo của nước và tình cảm trìu mến của nhà thơ",
+    "Làm câu thơ dài hơn",
+    "Gây cảm giác sợ hãi",
+    "Không có tác dụng gì"
+   ],
+   "a": 0,
+   "why": "So sánh nước ao với “nước mắt người tôi yêu” vừa gợi độ trong, vừa gửi gắm tình thương.",
+   "wrong": [
+    null,
+    "Mục đích không phải kéo dài câu.",
+    "Bài thơ nhẹ nhàng, không gây sợ hãi.",
+    "Biện pháp tu từ luôn có tác dụng biểu đạt."
+   ],
+   "pid": "s4b",
+   "muc": "vd"
+  },
+  {
+   "id": "4s6",
+   "bai": 4,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Văn bản 3 “Bài thơ Đường núi của Nguyễn Đình Thi” do ai viết, thuộc dạng nào?",
+   "opts": [
+    "Vũ Quần Phương – bài viết cảm nhận về bài thơ “Đường núi”",
+    "Nguyễn Đình Thi – chính bài thơ “Đường núi”",
+    "Thanh Hải – bài thơ về mùa xuân",
+    "Lò Ngân Sủn – bài thơ biên giới"
+   ],
+   "a": 0,
+   "why": "Theo mục lục SGK, đây là bài viết của Vũ Quần Phương về bài thơ “Đường núi” của Nguyễn Đình Thi.",
+   "wrong": [
+    null,
+    "Nguyễn Đình Thi là tác giả bài thơ được bàn tới, không phải người viết bài này.",
+    "Thanh Hải là tác giả “Mùa xuân nho nhỏ”.",
+    "Lò Ngân Sủn là tác giả “Chiều biên giới”."
+   ],
+   "pid": "s4c",
+   "muc": "biet"
+  },
+  {
+   "id": "5t1",
+   "bai": 5,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Tuỳ bút là thể loại văn xuôi thuộc loại hình nào, điểm tựa của nó là gì?",
+   "opts": [
+    "Loại hình kí; điểm tựa là cái tôi của tác giả",
+    "Loại hình kịch; điểm tựa là xung đột",
+    "Loại hình thơ; điểm tựa là vần",
+    "Loại hình truyện; điểm tựa là cốt truyện"
+   ],
+   "a": 0,
+   "why": "Theo SGK (tr.106): tuỳ bút thuộc loại hình kí, điểm tựa là cái tôi của tác giả, thiên về trữ tình.",
+   "wrong": [
+    null,
+    "Tuỳ bút không phải kịch.",
+    "Tuỳ bút là văn xuôi, không phải thơ.",
+    "Tuỳ bút không nhất thiết có cốt truyện."
+   ]
+  },
+  {
+   "id": "5t2",
+   "bai": 5,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Ngôn ngữ vùng miền (phương ngữ) là gì?",
+   "opts": [
+    "Biến thể theo mỗi địa phương của một ngôn ngữ, thể hiện chủ yếu ở ngữ âm và từ vựng",
+    "Ngôn ngữ của người nước ngoài",
+    "Một thể thơ",
+    "Cách viết hoa tên riêng"
+   ],
+   "a": 0,
+   "why": "Ví dụ: cá quả – cá tràu – cá lóc; lợn – heo; ngã – bổ – té (SGK tr.106).",
+   "wrong": [
+    null,
+    "Đó không phải ngoại ngữ.",
+    "Đó không phải thể thơ.",
+    "Đó không phải quy tắc viết hoa."
+   ]
+  },
+  {
+   "id": "5t3",
+   "bai": 5,
+   "tag": "viet",
+   "type": "mc",
+   "q": "Trong một bản tường trình, phần nào ghi ngay dưới quốc hiệu, tiêu ngữ?",
+   "opts": [
+    "Địa điểm, thời gian viết; rồi tên văn bản “BẢN TƯỜNG TRÌNH” và dòng “Về việc…”",
+    "Chữ kí của người viết",
+    "Lời cam đoan",
+    "Nội dung vụ việc"
+   ],
+   "a": 0,
+   "why": "Thể thức (SGK tr.120): quốc hiệu, tiêu ngữ → địa điểm, thời gian → tên văn bản → Kính gửi → thông tin người viết → nội dung → cam đoan, đề nghị → kí tên.",
+   "wrong": [
+    null,
+    "Chữ kí ở cuối.",
+    "Cam đoan nằm gần cuối.",
+    "Nội dung nằm sau phần Kính gửi và thông tin người viết."
+   ]
+  },
+  {
+   "id": "5t4",
+   "bai": 5,
+   "tag": "viet",
+   "type": "mc",
+   "q": "Người viết bản tường trình là ai?",
+   "opts": [
+    "Người có liên quan đến vụ việc, có trách nhiệm cung cấp thông tin trung thực",
+    "Bất kì ai không biết gì về vụ việc",
+    "Người nhận bản tường trình",
+    "Chỉ giáo viên"
+   ],
+   "a": 0,
+   "why": "Theo SGK: người viết tường trình là người có liên quan đến vụ việc và phải cung cấp thông tin xác thực theo phạm vi quan sát của mình.",
+   "wrong": [
+    null,
+    "Người không biết vụ việc không thể tường trình.",
+    "Người nhận là cá nhân/cơ quan xử lí vụ việc.",
+    "Học sinh cũng có thể viết khi có liên quan."
+   ]
+  },
+  {
+   "id": "5t5",
+   "bai": 5,
+   "tag": "viet",
+   "type": "mc",
+   "q": "Ở cuối bản tường trình cần có gì?",
+   "opts": [
+    "Lời cam đoan trung thực, lời hứa hoặc đề nghị, chữ kí và họ tên đầy đủ",
+    "Chỉ cần chữ kí",
+    "Hình vẽ minh hoạ",
+    "Danh sách bạn bè"
+   ],
+   "a": 0,
+   "why": "SGK (tr.120): ghi lời cam đoan về sự khách quan, trung thực cùng lời hứa/đề nghị, sau cùng kí và ghi đầy đủ họ tên.",
+   "wrong": [
+    null,
+    "Cần cả cam đoan và họ tên.",
+    "Không cần hình vẽ.",
+    "Không cần danh sách bạn bè."
+   ]
+  },
+  {
+   "id": "5s1",
+   "bai": 5,
+   "tag": "doc",
+   "type": "mc",
+   "q": "“Mùa xuân của tôi”, “mùa xuân của Hà Nội thân yêu” trong bài của Vũ Bằng cho thấy điều gì về người viết?",
+   "opts": [
+    "Tình cảm riêng, gắn bó sâu nặng với mùa xuân và Hà Nội – đúng với “cái tôi” của tuỳ bút",
+    "Người viết không thích mùa xuân",
+    "Người viết chỉ kể sự kiện lịch sử",
+    "Người viết không có cảm xúc riêng"
+   ],
+   "a": 0,
+   "why": "Đây là câu hỏi 5 trong SGK. Cách viết “của tôi” bộc lộ cái tôi và tình cảm riêng của tác giả.",
+   "wrong": [
+    null,
+    "Tác giả yêu nhất mùa xuân.",
+    "Đây là văn trữ tình, không phải ghi sự kiện lịch sử.",
+    "Cảm xúc riêng là điểm tựa của tuỳ bút."
+   ],
+   "pid": "s5a",
+   "muc": "hieu"
+  },
+  {
+   "id": "5s2",
+   "bai": 5,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Tác giả cho rằng “một món ăn đặc sản cũng giống như…” cái gì?",
+   "opts": [
+    "Một di tích văn hoá",
+    "Một bộ đồ chơi",
+    "Một tờ báo",
+    "Một trận đấu"
+   ],
+   "a": 0,
+   "why": "Đây là ý trong câu hỏi 4 của SGK (tr.116): món ăn đặc sản mang giá trị văn hoá, cần gìn giữ.",
+   "wrong": [
+    null,
+    "Không so sánh với đồ chơi.",
+    "Không so sánh với tờ báo.",
+    "Không so sánh với trận đấu."
+   ],
+   "pid": "s5b",
+   "muc": "hieu"
+  },
+  {
+   "id": "5s3",
+   "bai": 5,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Từ ngữ nào trong “Chuyện cơm hến” là từ ngữ địa phương (so với từ toàn dân)?",
+   "opts": [
+    "thẩu, vịm, trẹc, gáo mù u, o bán cơm hến (cách gọi miền Trung)",
+    "máy tính, xe buýt, bệnh viện",
+    "học sinh, giáo viên, nhà trường",
+    "điện thoại, tivi, tủ lạnh"
+   ],
+   "a": 0,
+   "why": "SGK tr.116 nêu các từ như “mẫu, vịm, trẹc, o” là từ ngữ địa phương gắn với đời sống xứ Huế.",
+   "wrong": [
+    null,
+    "Đó là từ toàn dân.",
+    "Đó là từ toàn dân.",
+    "Đó là từ toàn dân."
+   ],
+   "pid": "s5b",
+   "muc": "vd"
+  },
+  {
+   "id": "5s4",
+   "bai": 5,
+   "tag": "doc",
+   "type": "mc",
+   "q": "“Hội lồng tồng” là lễ hội của vùng nào và mở vào dịp nào?",
+   "opts": [
+    "Vùng Việt Bắc; mở hội xuống đồng sau Tết Nguyên đán",
+    "Vùng Tây Nguyên; vào mùa thu",
+    "Đồng bằng sông Cửu Long; vào mùa hè",
+    "Vùng biển miền Trung; vào mùa đông"
+   ],
+   "a": 0,
+   "why": "Văn bản mở đầu: vùng Việt Bắc mở hội lồng tồng sau Tết; đó là tục mở hội xuống đồng cầu mùa màng (tr.117).",
+   "wrong": [
+    null,
+    "Không phải lễ hội Tây Nguyên.",
+    "Không phải lễ hội ở Cửu Long.",
+    "Không phải lễ hội miền biển."
+   ],
+   "pid": "s5c",
+   "muc": "biet"
+  },
+  {
+   "id": "5s5",
+   "bai": 5,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Trò chơi nào được nhắc đến trong phần hội của hội lồng tồng?",
+   "opts": [
+    "Ném còn",
+    "Bịt mắt bắt dê",
+    "Cờ vua",
+    "Bóng bàn"
+   ],
+   "a": 0,
+   "why": "Trò chơi ném còn có dụng cụ chính là chiếc còn – một túi vải hình vuông (tr.118).",
+   "wrong": [
+    null,
+    "Đó không phải trò chơi được nhắc tới.",
+    "Cờ vua không thuộc hội này.",
+    "Bóng bàn không thuộc hội này."
+   ],
+   "pid": "s5c",
+   "muc": "biet"
+  }
+ ],
+ "mat": [
+  "Mỗi trang văn",
+  "là một cánh cửa",
+  "mở ra chân trời",
+  "của tình thương",
+  "và trí tưởng tượng."
+ ],
+ "the": [
+  {
+   "id": "c01",
+   "c": "Biện pháp",
+   "ic": "🌬",
+   "t": "Nhân hoá",
+   "n": "Khi gió biết “ru” và trăng biết “cười”, thiên nhiên bỗng có hồn như con người."
+  },
+  {
+   "id": "c02",
+   "c": "Biện pháp",
+   "ic": "🔍",
+   "t": "So sánh",
+   "n": "“A như B” giúp người đọc nhìn thấy điều khó tả. Hãy thử so sánh nụ cười của bạn với một thứ gì đó!"
+  },
+  {
+   "id": "c03",
+   "c": "Biện pháp",
+   "ic": "🎭",
+   "t": "Ẩn dụ",
+   "n": "Ẩn dụ là so sánh “giấu mặt”: bỏ chữ “như” đi mà người đọc vẫn hiểu. Ví dụ: nụ cười toả nắng."
+  },
+  {
+   "id": "c04",
+   "c": "Từ ngữ",
+   "ic": "✨",
+   "t": "Từ láy gợi hình",
+   "n": "“Lung linh”, “mênh mông”, “lao xao”… nghe âm thanh là thấy hình ảnh. Từ láy giúp câu văn có nhạc."
+  },
+  {
+   "id": "c05",
+   "c": "Từ ngữ",
+   "ic": "🔢",
+   "t": "Số từ khác phó từ",
+   "n": "Số từ đứng cạnh danh từ (ba bạn, thứ nhất). Phó từ đứng cạnh động từ, tính từ (đã chạy, rất đẹp)."
+  },
+  {
+   "id": "c06",
+   "c": "Từ ngữ",
+   "ic": "🗺",
+   "t": "Từ ngữ địa phương",
+   "n": "“Mô, tê, răng, rứa” là cách nói của miền Trung. Mỗi vùng có những từ riêng làm nên màu sắc quê hương."
+  },
+  {
+   "id": "c07",
+   "c": "Từ ngữ",
+   "ic": "🧭",
+   "t": "Ngữ cảnh",
+   "n": "Cùng một từ “ăn”: ăn cơm, ăn nắng, xe ăn xăng. Nghĩa của từ phụ thuộc vào những từ đứng quanh nó."
+  },
+  {
+   "id": "c08",
+   "c": "Từ ngữ",
+   "ic": "⏳",
+   "t": "Dấu chấm lửng",
+   "n": "Ba dấu chấm có thể là cả một khoảng lặng: lời nói ngập ngừng, hoặc danh sách còn dài chưa kể hết."
+  },
+  {
+   "id": "c09",
+   "c": "Từ ngữ",
+   "ic": "📍",
+   "t": "Trạng ngữ",
+   "n": "Trạng ngữ cho câu một “bối cảnh”: khi nào, ở đâu, vì sao, để làm gì. Thêm một trạng ngữ, câu văn rộng hơn ngay."
+  },
+  {
+   "id": "c10",
+   "c": "Đọc hiểu",
+   "ic": "🗝",
+   "t": "Chìa khoá là từ để hỏi",
+   "n": "Gạch chân từ để hỏi trong đề (vì sao, thể hiện điều gì, ai…). Đó là chìa khoá dẫn em tới câu trả lời."
+  },
+  {
+   "id": "c11",
+   "c": "Đọc hiểu",
+   "ic": "📌",
+   "t": "Bằng chứng trước, ý kiến sau",
+   "n": "Muốn trả lời thuyết phục: nêu ý của em, rồi chỉ ra câu trong văn bản làm bằng chứng."
+  },
+  {
+   "id": "c12",
+   "c": "Đọc hiểu",
+   "ic": "🎙",
+   "t": "Người kể chuyện ≠ tác giả",
+   "n": "Người kể xưng “tôi” là một vai do tác giả tạo ra, chưa chắc là chính tác giả ngoài đời."
+  },
+  {
+   "id": "c13",
+   "c": "Đọc hiểu",
+   "ic": "🌿",
+   "t": "Đọc tản văn bằng “cái tôi”",
+   "n": "Đừng tìm cốt truyện trong tản văn. Hãy hỏi: người viết đang cảm, đang nghĩ điều gì?"
+  },
+  {
+   "id": "c14",
+   "c": "Thể loại",
+   "ic": "🎼",
+   "t": "Nhịp của thơ",
+   "n": "Thơ bốn chữ hay ngắt nhịp 2/2 như tiếng trống đều đặn. Thơ năm chữ hay nhịp 2/3 hoặc 3/2."
+  },
+  {
+   "id": "c15",
+   "c": "Thể loại",
+   "ic": "🔗",
+   "t": "Vần chân",
+   "n": "Vần ở cuối dòng thơ làm các dòng “bắt tay” nhau, giúp thơ dễ thuộc, dễ nhớ."
+  },
+  {
+   "id": "c16",
+   "c": "Thể loại",
+   "ic": "📄",
+   "t": "Đơn, biên bản, tường trình",
+   "n": "Đơn: xin, đề nghị. Biên bản: ghi lại sự việc đang diễn ra. Tường trình: kể lại sự việc đã xảy ra và nêu trách nhiệm."
+  },
+  {
+   "id": "c17",
+   "c": "Viết hay",
+   "ic": "🪄",
+   "t": "Mở bài bằng một hình ảnh",
+   "n": "Thay vì “Hôm nay em xin kể…”, hãy mở bài bằng một hình ảnh hoặc một câu hỏi khiến người đọc muốn đọc tiếp."
+  },
+  {
+   "id": "c18",
+   "c": "Viết hay",
+   "ic": "🎤",
+   "t": "Đọc to bài viết",
+   "n": "Đọc to bài viết lên, chỗ nào vấp là chỗ câu văn cần sửa. Tai em là người biên tập giỏi!"
+  },
+  {
+   "id": "c19",
+   "c": "Viết hay",
+   "ic": "🧱",
+   "t": "Mỗi ý một bằng chứng",
+   "n": "Một lí lẽ mà không có bằng chứng giống ngôi nhà không có móng. Mỗi lí lẽ nên đi kèm ít nhất một ví dụ."
+  },
+  {
+   "id": "c20",
+   "c": "Viết hay",
+   "ic": "🌈",
+   "t": "Đổi từ “rất” bằng từ gợi tả",
+   "n": "Thay “rất đẹp” bằng “đẹp lung linh”, “rất buồn” bằng “buồn thăm thẳm”. Câu văn sống động hơn hẳn."
+  },
+  {
+   "id": "c21",
+   "c": "Viết hay",
+   "ic": "🚪",
+   "t": "Từ nối mở cửa ý",
+   "n": "“Trước hết, bên cạnh đó, cuối cùng” là những cánh cửa dẫn người đọc đi từ ý này sang ý khác."
+  },
+  {
+   "id": "c22",
+   "c": "Viết hay",
+   "ic": "✂",
+   "t": "Tóm tắt là chọn lọc",
+   "n": "Tóm tắt không phải chép ngắn lại, mà là chọn ra điều cốt lõi nhất rồi kể bằng lời của em."
+  },
+  {
+   "id": "c23",
+   "c": "Viết hay",
+   "ic": "⚖",
+   "t": "Câu dài xen câu ngắn",
+   "n": "Câu ngắn tạo nhịp mạnh, câu dài để tả kĩ. Xen kẽ khéo, bài văn như một bản nhạc."
+  },
+  {
+   "id": "c24",
+   "c": "Viết hay",
+   "ic": "🛠",
+   "t": "Bốn trạm viết văn",
+   "n": "Chuẩn bị → Tìm ý → Viết → Chỉnh sửa. Nhà văn nào cũng đi qua bốn trạm này, kể cả trạm cuối!"
+  }
+ ],
+ "hung": {
+  "1": [
+   "Tóm tắt một truyện em thích trong đúng 3 câu.",
+   "Tóm tắt một bộ phim hoạt hình em vừa xem để kể cho em nhỏ nghe, trong 2 câu.",
+   "Tóm tắt buổi sáng của em trước khi đến trường bằng 4 sự việc chính.",
+   "Thử tóm tắt một văn bản em vừa đọc bằng đúng 30 tiếng."
+  ],
+  "2": [
+   "Viết 4 dòng thơ bốn chữ về tiếng mưa trên mái nhà.",
+   "Viết 4 dòng thơ năm chữ về con đường em đi học.",
+   "Tả buổi sáng sớm bằng thơ bốn chữ, có một hình ảnh nhân hoá.",
+   "Viết thơ về món ăn quê hương, thử gieo vần ở dòng 2 và dòng 4.",
+   "Tặng bạn thân một bài thơ năm chữ."
+  ],
+  "3": [
+   "Phân tích đặc điểm của nhân vật em quý nhất trong truyện đã đọc.",
+   "Chọn nhân vật em cho là dũng cảm nhất và tìm 2 dẫn chứng.",
+   "Viết về nhân vật “tôi” trong đoạn “Trông em” và tìm 2 chi tiết.",
+   "Nhân vật nào khiến em thay đổi cách nghĩ? Nêu 2 đặc điểm kèm dẫn chứng."
+  ],
+  "4": [
+   "Viết về một người em biết ơn nhất, bắt đầu từ một kỉ niệm nhỏ.",
+   "Biểu cảm về một buổi mưa, một cơn gió hay một con đường quen thuộc.",
+   "Viết về món quà bất ngờ em từng nhận.",
+   "Viết về một người bạn đã giúp em lúc khó khăn."
+  ],
+  "5": [
+   "Tình huống giả định: quả bóng làm rơi chậu hoa ở sân trường. Em tường trình thế nào?",
+   "Giả định: em làm mất sổ liên lạc của lớp. Hãy viết bản tường trình.",
+   "Giả định: em đến lớp muộn vì xe hỏng giữa đường. Viết tường trình gửi cô chủ nhiệm.",
+   "Giả định: em lỡ làm đổ mực ra bàn của bạn. Hãy tường trình."
+  ]
+ },
+ "matthu": [
+  {
+   "id": "mt-t1",
+   "loai": "tu",
+   "w": [
+    "Gió",
+    "ru",
+    "vườn",
+    "cau",
+    "trong",
+    "đêm",
+    "trăng"
+   ],
+   "why": "“Gió ru” là nhân hoá: gió làm việc như người mẹ hát ru."
+  },
+  {
+   "id": "mt-t2",
+   "loai": "tu",
+   "w": [
+    "Mặt",
+    "trời",
+    "như",
+    "quả",
+    "bóng",
+    "đỏ",
+    "treo",
+    "trên",
+    "núi"
+   ],
+   "why": "Từ “như” cho biết câu dùng biện pháp so sánh."
+  },
+  {
+   "id": "mt-t3",
+   "loai": "tu",
+   "w": [
+    "Chiếc",
+    "lá",
+    "nhảy",
+    "múa",
+    "trong",
+    "gió"
+   ],
+   "why": "“Nhảy múa” là hành động của người được gán cho chiếc lá: nhân hoá."
+  },
+  {
+   "id": "mt-t4",
+   "loai": "tu",
+   "w": [
+    "Bé",
+    "Na",
+    "chạy",
+    "ra",
+    "sân",
+    "che",
+    "nón",
+    "cho",
+    "tổ",
+    "chim"
+   ],
+   "why": "Chủ ngữ “Bé Na”, vị ngữ là cụm động từ chỉ hành động."
+  },
+  {
+   "id": "mt-t5",
+   "loai": "tu",
+   "w": [
+    "Hương",
+    "nếp",
+    "mới",
+    "vẫn",
+    "thơm",
+    "trong",
+    "kí ức",
+    "tôi"
+   ],
+   "why": "“Vẫn” là phó từ chỉ sự tiếp diễn, đứng trước tính từ “thơm”."
+  },
+  {
+   "id": "mt-t6",
+   "loai": "tu",
+   "w": [
+    "Em",
+    "đã",
+    "chăm",
+    "chỉ",
+    "ôn",
+    "bài",
+    "mỗi",
+    "ngày"
+   ],
+   "why": "“Đã” là phó từ chỉ thời gian, đứng trước động từ “ôn”."
+  },
+  {
+   "id": "mt-t7",
+   "loai": "tu",
+   "w": [
+    "Đôi",
+    "bàn",
+    "tay",
+    "chai",
+    "sạn",
+    "của",
+    "bà",
+    "nuôi",
+    "em",
+    "lớn"
+   ],
+   "why": "Hình ảnh “chai sạn” gợi sự vất vả, tần tảo của bà."
+  },
+  {
+   "id": "mt-b1",
+   "loai": "bp",
+   "q": "Câu “Dòng sông mặc chiếc áo lụa đào.” dùng biện pháp tu từ nào?",
+   "opts": [
+    "Nhân hoá",
+    "So sánh",
+    "Ẩn dụ",
+    "Hoán dụ"
+   ],
+   "a": 0,
+   "why": "Sông “mặc áo” như người: nhân hoá."
+  },
+  {
+   "id": "mt-b2",
+   "loai": "bp",
+   "q": "Câu “Tiếng cười của em như chuông ngân.” dùng biện pháp tu từ nào?",
+   "opts": [
+    "Nhân hoá",
+    "So sánh",
+    "Ẩn dụ",
+    "Hoán dụ"
+   ],
+   "a": 1,
+   "why": "Có từ “như” nối hai sự vật: so sánh."
+  },
+  {
+   "id": "mt-b3",
+   "loai": "bp",
+   "q": "Câu “Cô ấy có nụ cười toả nắng.” dùng biện pháp tu từ nào?",
+   "opts": [
+    "Nhân hoá",
+    "So sánh",
+    "Ẩn dụ",
+    "Hoán dụ"
+   ],
+   "a": 2,
+   "why": "Gọi nụ cười bằng “nắng” (cùng ấm áp, rạng rỡ), không có từ so sánh: ẩn dụ."
+  },
+  {
+   "id": "mt-b4",
+   "loai": "bp",
+   "q": "Câu “Bàn tay ta làm nên tất cả.” dùng biện pháp tu từ nào?",
+   "opts": [
+    "Nhân hoá",
+    "So sánh",
+    "Ẩn dụ",
+    "Hoán dụ"
+   ],
+   "a": 3,
+   "why": "“Bàn tay” chỉ sức lao động của con người: hoán dụ."
+  },
+  {
+   "id": "mt-b5",
+   "loai": "bp",
+   "q": "Câu “Con đường nằm nghỉ dưới tán cây.” dùng biện pháp tu từ nào?",
+   "opts": [
+    "Nhân hoá",
+    "So sánh",
+    "Ẩn dụ",
+    "Hoán dụ"
+   ],
+   "a": 0,
+   "why": "“Nằm nghỉ” là hành động của người gán cho con đường: nhân hoá."
+  },
+  {
+   "id": "mt-b6",
+   "loai": "bp",
+   "q": "Câu “Đôi mắt em sáng như sao.” dùng biện pháp tu từ nào?",
+   "opts": [
+    "Nhân hoá",
+    "So sánh",
+    "Ẩn dụ",
+    "Hoán dụ"
+   ],
+   "a": 1,
+   "why": "Có từ “như”: so sánh."
+  },
+  {
+   "id": "mt-d1",
+   "loai": "dt",
+   "q": "Điền từ: “Gió ___ vườn cau.”",
+   "opts": [
+    "ru",
+    "là",
+    "của",
+    "với"
+   ],
+   "a": 0,
+   "why": "“Gió ru vườn cau” dùng nhân hoá: gió như người mẹ hát ru."
+  },
+  {
+   "id": "mt-d2",
+   "loai": "dt",
+   "q": "Điền từ: “Mặt trời ___ quả bóng đỏ.”",
+   "opts": [
+    "như",
+    "vì",
+    "nhưng",
+    "để"
+   ],
+   "a": 0,
+   "why": "“Như” là từ so sánh nối mặt trời với quả bóng đỏ."
+  },
+  {
+   "id": "mt-d3",
+   "loai": "dt",
+   "q": "Điền phó từ: “Em ___ chưa làm xong bài tập.”",
+   "opts": [
+    "vẫn",
+    "rất",
+    "hơi",
+    "quá"
+   ],
+   "a": 0,
+   "why": "“Vẫn” là phó từ chỉ sự tiếp diễn: em vẫn chưa làm xong."
+  },
+  {
+   "id": "mt-d4",
+   "loai": "dt",
+   "q": "Điền số từ: “Lớp em có ___ bạn.”",
+   "opts": [
+    "bốn mươi hai",
+    "rất đẹp",
+    "chạy nhanh",
+    "của tôi"
+   ],
+   "a": 0,
+   "why": "Số từ chỉ số lượng đứng trước danh từ “bạn”."
+  },
+  {
+   "id": "mt-d5",
+   "loai": "dt",
+   "q": "Dấu chấm lửng trong “Trong vườn có mận, ổi, cam…” cho biết điều gì?",
+   "opts": [
+    "Còn nhiều loại quả khác chưa kể",
+    "Người nói đang ngập ngừng",
+    "Câu hỏi chưa có đáp án",
+    "Lời dẫn trực tiếp"
+   ],
+   "a": 0,
+   "why": "Dấu chấm lửng sau chuỗi liệt kê: còn nhiều thứ nữa chưa kể ra."
+  },
+  {
+   "id": "mt-d6",
+   "loai": "dt",
+   "q": "Điền: “Người kể xưng ‘tôi’ là ngôi thứ ___.”",
+   "opts": [
+    "nhất",
+    "hai",
+    "ba",
+    "tư"
+   ],
+   "a": 0,
+   "why": "Xưng “tôi” là người kể ở ngôi thứ nhất."
+  }
+ ]
+}

@@ -1,0 +1,3798 @@
+{
+ "meta": {
+  "ten": "Văn 7 cùng em",
+  "sach": "Ngữ văn 7, tập hai — Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam)",
+  "phamvi": "Học kì II (Bài 6–10)",
+  "hk": 2,
+  "nguon": "Tên bài, văn bản, tác giả, kiến thức Tri thức ngữ văn, nội dung Thực hành tiếng Việt, yêu cầu và quy trình phần Viết, Nói và nghe: đối chiếu với SGK Ngữ văn 7 tập hai do cô Phương nạp (bản PDF, đọc bằng OCR nên có thể còn sai sót nhỏ). Câu hỏi bám sách chỉ dẫn số trang và trích rất ngắn; em đọc văn bản trong sách. Các đoạn “Luyện” là đoạn trợ lý tự viết, không trích từ SGK. Số trang tính theo bản PDF; nếu lệch, báo để sửa."
+ },
+ "tags": {
+  "tg": "Tác giả – tác phẩm",
+  "doc": "Đọc hiểu & thể loại",
+  "tv": "Tiếng Việt",
+  "viet": "Viết",
+  "noi": "Nói và nghe"
+ },
+ "bai": [
+  {
+   "n": 1,
+   "so": 6,
+   "ten": "Bài học cuộc sống",
+   "the": "Truyện ngụ ngôn, tục ngữ",
+   "tv": "Thành ngữ; biện pháp tu từ nói quá",
+   "viet": "Viết bài văn nghị luận về một vấn đề trong đời sống (trình bày ý kiến tán thành)",
+   "noi": "Kể lại một truyện ngụ ngôn",
+   "vb": [
+    "Đẽo cày giữa đường",
+    "Ếch ngồi đáy giếng",
+    "Con mối và con kiến",
+    "Một số câu tục ngữ Việt Nam",
+    "Con hổ có nghĩa"
+   ],
+   "vbtr": [
+    "tr.6",
+    "tr.7",
+    "tr.8",
+    "tr.12",
+    "tr.14"
+   ],
+   "trviet": "tr.16"
+  },
+  {
+   "n": 2,
+   "so": 7,
+   "ten": "Thế giới viễn tưởng",
+   "the": "Truyện khoa học viễn tưởng",
+   "tv": "Mạch lạc và liên kết; dấu chấm lửng",
+   "viet": "Viết bài văn kể lại sự việc có thật liên quan đến một nhân vật lịch sử",
+   "noi": "Thảo luận về vai trò của công nghệ đối với đời sống con người",
+   "vb": [
+    "Cuộc chạm trán trên đại dương",
+    "Đường vào trung tâm vũ trụ",
+    "Dấu ấn Hồ Khanh",
+    "Chiếc đũa thần"
+   ],
+   "vbtr": [
+    "tr.27",
+    "tr.35",
+    "tr.42",
+    "tr.51 (Thực hành đọc)"
+   ],
+   "trviet": "tr.45"
+  },
+  {
+   "n": 3,
+   "so": 8,
+   "ten": "Trải nghiệm để trưởng thành",
+   "the": "Văn bản nghị luận, thơ",
+   "tv": "Mạch lạc, liên kết (biện pháp liên kết); thuật ngữ",
+   "viet": "Viết bài văn nghị luận về một vấn đề trong đời sống (trình bày ý kiến phản đối)",
+   "noi": "Trình bày ý kiến về một vấn đề đời sống",
+   "vb": [
+    "Bản đồ dẫn đường",
+    "Hãy cầm lấy và đọc",
+    "Nói với con",
+    "Câu chuyện về con đường"
+   ],
+   "vbtr": [
+    "tr.56",
+    "tr.61",
+    "tr.65",
+    "tr.74 (Thực hành đọc)"
+   ],
+   "trviet": "tr.67"
+  },
+  {
+   "n": 4,
+   "so": 9,
+   "ten": "Hoà điệu với tự nhiên",
+   "the": "Văn bản thông tin, tản văn",
+   "tv": "Cước chú và tài liệu tham khảo; nghĩa của yếu tố Hán Việt",
+   "viet": "Viết bài văn thuyết minh về quy tắc hoặc luật lệ trong trò chơi hay hoạt động",
+   "noi": "Giải thích quy tắc hoặc luật lệ trong một trò chơi hay hoạt động",
+   "vb": [
+    "Thuỷ tiên tháng Một",
+    "Lễ rửa làng của người Lô Lô",
+    "Bản tin về hoa anh đào",
+    "“Thân thiện với môi trường”"
+   ],
+   "vbtr": [
+    "tr.78",
+    "tr.84",
+    "tr.87",
+    "tr.98 (Thực hành đọc)"
+   ],
+   "trviet": "tr.91"
+  },
+  {
+   "n": 5,
+   "so": 10,
+   "ten": "Trang sách và cuộc sống",
+   "the": "Nghị luận phân tích tác phẩm văn học; dự án đọc",
+   "tv": "Văn bản đa phương thức; phương tiện phi ngôn ngữ",
+   "viet": "Viết bài văn phân tích một nhân vật văn học yêu thích trong cuốn sách đã đọc",
+   "noi": "Ngày hội với sách (giới thiệu sản phẩm sáng tạo hoặc trình bày ý kiến về việc đọc sách)",
+   "vb": [
+    "Vẻ đẹp giản dị và chân thật của Quê nội (Trần Thanh Địch)",
+    "Hoàng tử bé: trò chuyện để thấu hiểu và yêu thương (bài viết tham khảo)"
+   ],
+   "vbtr": [
+    "tr.104",
+    "tr.113"
+   ],
+   "trviet": "tr.112"
+  }
+ ],
+ "doan": [
+  {
+   "id": "s6a",
+   "bai": 1,
+   "tieude": "Đẽo cày giữa đường (Ngụ ngôn Việt Nam)",
+   "sgk": true,
+   "tr": "tr.6–7",
+   "s": [],
+   "tho": false
+  },
+  {
+   "id": "s6b",
+   "bai": 1,
+   "tieude": "Ếch ngồi đáy giếng (Trang Tử)",
+   "sgk": true,
+   "tr": "tr.7–8",
+   "s": [],
+   "tho": false
+  },
+  {
+   "id": "s6c",
+   "bai": 1,
+   "tieude": "Con mối và con kiến (Nam Hương)",
+   "sgk": true,
+   "tr": "tr.8–9",
+   "s": [],
+   "tho": false
+  },
+  {
+   "id": "s6d",
+   "bai": 1,
+   "tieude": "Một số câu tục ngữ Việt Nam",
+   "sgk": true,
+   "tr": "tr.12",
+   "s": [],
+   "tho": false
+  },
+  {
+   "id": "s6e",
+   "bai": 1,
+   "tieude": "Con hổ có nghĩa (Vũ Trinh)",
+   "sgk": true,
+   "tr": "tr.14–15",
+   "s": [],
+   "tho": false
+  },
+  {
+   "id": "d6",
+   "bai": 1,
+   "tieude": "Luyện: Cây tre và cây dương liễu",
+   "tho": false,
+   "s": [
+    "Trong khu vườn nọ, cây dương liễu thường chê cây tre bên cạnh: “Anh cứng đơ, chẳng biết uốn mình theo gió như tôi.”",
+    "Cây tre chỉ mỉm cười, không đáp.",
+    "Một đêm, cơn bão lớn ập đến, gió quật mạnh đến mức cành dương liễu gãy rạp, ngọn trụi lá.",
+    "Cây tre vẫn đứng vững vì bộ rễ bám chặt vào lòng đất.",
+    "Sáng hôm sau, dương liễu mới nhận ra rằng dáng đẹp chưa chắc đã vững gốc."
+   ]
+  },
+  {
+   "id": "s7a",
+   "bai": 2,
+   "tieude": "Cuộc chạm trán trên đại dương (trích Hai vạn dặm dưới biển, Giuyn Véc-nơ)",
+   "sgk": true,
+   "tr": "tr.27–33",
+   "s": [],
+   "tho": false
+  },
+  {
+   "id": "s7b",
+   "bai": 2,
+   "tieude": "Đường vào trung tâm vũ trụ (trích Thiên Mã, Hà Thuỷ Nguyên)",
+   "sgk": true,
+   "tr": "tr.35–40",
+   "s": [],
+   "tho": false
+  },
+  {
+   "id": "s7c",
+   "bai": 2,
+   "tieude": "Dấu ấn Hồ Khanh (Nhật Văn)",
+   "sgk": true,
+   "tr": "tr.42–45",
+   "s": [],
+   "tho": false
+  },
+  {
+   "id": "d7",
+   "bai": 2,
+   "tieude": "Luyện: Trạm vũ trụ Hy Vọng",
+   "tho": false,
+   "s": [
+    "Năm 2150, trạm vũ trụ Hy Vọng lặng lẽ quay quanh sao Hoả.",
+    "Phi hành gia Lam bật màn hình, và bản đồ ba chiều của hành tinh đỏ hiện lên trước mắt.",
+    "Robot trợ lí Mi-ni báo cáo: “Lượng ô-xi trong khoang số bốn đang giảm.”",
+    "Lam nhanh chóng dùng máy phân tích, tìm ra một vết nứt nhỏ trên ống dẫn khí.",
+    "Chỉ vài phút sau, cô hàn kín vết nứt bằng tia laser và cả trạm lại yên bình."
+   ]
+  },
+  {
+   "id": "s8a",
+   "bai": 3,
+   "tieude": "Bản đồ dẫn đường (Đa-ni-en Gốt-li-ép)",
+   "sgk": true,
+   "tr": "tr.56–58",
+   "s": [],
+   "tho": false
+  },
+  {
+   "id": "s8b",
+   "bai": 3,
+   "tieude": "Hãy cầm lấy và đọc (Huỳnh Như Phương)",
+   "sgk": true,
+   "tr": "tr.61–63",
+   "s": [],
+   "tho": false
+  },
+  {
+   "id": "s8c",
+   "bai": 3,
+   "tieude": "Nói với con (Y Phương)",
+   "sgk": true,
+   "tr": "tr.65–66",
+   "s": [],
+   "tho": false
+  },
+  {
+   "id": "d8",
+   "bai": 3,
+   "tieude": "Luyện: Có nên chép bài của bạn?",
+   "tho": false,
+   "s": [
+    "Nhiều bạn cho rằng chép bài của bạn khi chưa làm kịp chỉ là chuyện nhỏ.",
+    "Tôi không đồng tình với ý kiến đó.",
+    "Trước hết, chép bài khiến ta không hiểu bài, đến lúc kiểm tra sẽ lúng túng.",
+    "Chẳng hạn, Lan từng chép bài toán của bạn, nhưng khi cô giáo gọi lên bảng, Lan không giải được.",
+    "Hơn nữa, chép bài là thiếu trung thực, làm mất lòng tin của thầy cô và bạn bè.",
+    "Vì vậy, mỗi chúng ta nên tự làm bài, chưa hiểu thì hỏi thầy cô."
+   ]
+  },
+  {
+   "id": "s9a",
+   "bai": 4,
+   "tieude": "Thuỷ tiên tháng Một (Thô-mát L. Phrít-man)",
+   "sgk": true,
+   "tr": "tr.78–82",
+   "s": [],
+   "tho": false
+  },
+  {
+   "id": "s9b",
+   "bai": 4,
+   "tieude": "Lễ rửa làng của người Lô Lô (Phạm Thuỳ Dung)",
+   "sgk": true,
+   "tr": "tr.84–87",
+   "s": [],
+   "tho": false
+  },
+  {
+   "id": "s9c",
+   "bai": 4,
+   "tieude": "Bản tin về hoa anh đào (Nguyễn Vĩnh Nguyên)",
+   "sgk": true,
+   "tr": "tr.87–89",
+   "s": [],
+   "tho": false
+  },
+  {
+   "id": "d9",
+   "bai": 4,
+   "tieude": "Luyện: Trò chơi Ném vòng",
+   "tho": false,
+   "s": [
+    "Ném vòng thường được chơi ở sân trường, mỗi đội gồm từ năm đến sáu bạn.",
+    "Dụng cụ gồm một số chiếc vòng bằng nhựa và một hàng cọc đặt cách vạch xuất phát ba mét.",
+    "Mỗi bạn được ném ba lần, vòng lọt vào cọc nào thì đội ghi số điểm ghi trên cọc đó.",
+    "Bạn nào đứng chạm hoặc vượt vạch khi ném sẽ bị mất lượt.",
+    "Kết thúc trò chơi, đội có tổng điểm cao nhất sẽ thắng.",
+    "Trò chơi rèn sự khéo léo, tính chính xác và tinh thần đồng đội."
+   ]
+  },
+  {
+   "id": "s10a",
+   "bai": 5,
+   "tieude": "Vẻ đẹp giản dị và chân thật của Quê nội (Võ Quảng) – Trần Thanh Địch",
+   "sgk": true,
+   "tr": "tr.104–106",
+   "s": [],
+   "tho": false
+  },
+  {
+   "id": "s10b",
+   "bai": 5,
+   "tieude": "Hoàng tử bé: trò chuyện để thấu hiểu và yêu thương (bài viết tham khảo phần Viết)",
+   "sgk": true,
+   "tr": "tr.113–114",
+   "s": [],
+   "tho": false
+  },
+  {
+   "id": "d10",
+   "bai": 5,
+   "tieude": "Luyện: Cô bé Mi và chiếc ô",
+   "tho": false,
+   "s": [
+    "Nhân vật Mi trong truyện “Chiếc ô màu xanh” là một cô bé giàu lòng nhân ái.",
+    "Điều đó thể hiện qua hành động Mi nhường chiếc ô duy nhất cho cụ già bán rau giữa trời mưa.",
+    "Lời nói của em cũng rất chân thành: “Cụ cầm lấy đi ạ, cháu chạy về được mà.”",
+    "Nhà văn khắc hoạ Mi chủ yếu bằng những hành động nhỏ và lời thoại giản dị, gần gũi.",
+    "Nhờ vậy, hình ảnh cô bé hiện lên chân thực, khiến người đọc thêm tin yêu lòng tốt trong cuộc sống."
+   ]
+  }
+ ],
+ "cau": [
+  {
+   "id": "6a",
+   "bai": 1,
+   "tag": "tg",
+   "type": "match",
+   "q": "Ghép văn bản với tác giả hoặc nguồn.",
+   "pairs": [
+    [
+     "Đẽo cày giữa đường",
+     "Ngụ ngôn Việt Nam"
+    ],
+    [
+     "Ếch ngồi đáy giếng",
+     "Trang Tử"
+    ],
+    [
+     "Con mối và con kiến",
+     "Nam Hương"
+    ],
+    [
+     "Con hổ có nghĩa",
+     "Vũ Trinh"
+    ]
+   ],
+   "why": "Đây là các văn bản đọc của Bài 6 – Bài học cuộc sống (SGK tập hai, tr.6–14)."
+  },
+  {
+   "id": "6b",
+   "bai": 1,
+   "tag": "tg",
+   "type": "mc",
+   "q": "Văn bản “Con hổ có nghĩa” là một truyện trong tác phẩm nào?",
+   "opts": [
+    "Lan Trì kiến văn lục",
+    "Truyền kì mạn lục",
+    "Vũ trung tùy bút",
+    "Thánh Tông di thảo"
+   ],
+   "a": 0,
+   "why": "Theo chú thích SGK (tr.14), Con hổ có nghĩa là truyện thứ 8 trong 45 truyện ngắn chữ Hán của Lan Trì kiến văn lục (Vũ Trinh).",
+   "wrong": [
+    null,
+    "Truyền kì mạn lục là tác phẩm của Nguyễn Dữ, không phải của Vũ Trinh.",
+    "Vũ trung tùy bút là của Phạm Đình Hổ.",
+    "Đây là tên một tập truyện khác, không phải nguồn của văn bản này."
+   ]
+  },
+  {
+   "id": "6c",
+   "bai": 1,
+   "tag": "tg",
+   "type": "mc",
+   "q": "Trang Tử, tác giả truyện “Ếch ngồi đáy giếng”, là ai?",
+   "opts": [
+    "Một triết gia nổi tiếng của Trung Quốc",
+    "Một nhà thơ Việt Nam thời trung đại",
+    "Một vị vua trong truyền thuyết",
+    "Một nhà báo hiện đại"
+   ],
+   "a": 0,
+   "why": "SGK (tr.7) giới thiệu Trang Tử (khoảng 389 – 286 trước Công nguyên) là triết gia nổi tiếng của Trung Quốc; truyện trích trong thiên Thu thuỷ của sách Trang Tử.",
+   "wrong": [
+    null,
+    "Trang Tử là người Trung Quốc, không phải người Việt Nam.",
+    "Vua Vũ, vua Thang chỉ được nhắc đến trong truyện.",
+    "Trang Tử sống từ thời cổ đại."
+   ]
+  },
+  {
+   "id": "6d",
+   "bai": 1,
+   "tag": "tg",
+   "type": "mc",
+   "q": "Truyện “Ếch ngồi đáy giếng” được trích trong thiên nào của sách Trang Tử?",
+   "opts": [
+    "Thu thuỷ",
+    "Tiêu dao du",
+    "Tề vật luận",
+    "Xuân thu"
+   ],
+   "a": 0,
+   "why": "Theo chú thích SGK (tr.7): truyện trích trong thiên Thu thuỷ (thiên thứ 17) của sách Trang Tử.",
+   "wrong": [
+    null,
+    "Tiêu dao du là một thiên khác của sách Trang Tử.",
+    "Tề vật luận là một thiên khác của sách Trang Tử.",
+    "Đây không phải tên thiên được SGK nhắc tới."
+   ]
+  },
+  {
+   "id": "6e",
+   "bai": 1,
+   "tag": "tg",
+   "type": "mc",
+   "q": "Nam Hương, tác giả “Con mối và con kiến”, được biết đến nhiều với loại sáng tác nào?",
+   "opts": [
+    "Thơ ngụ ngôn",
+    "Tiểu thuyết lịch sử",
+    "Kịch nói",
+    "Phóng sự điều tra"
+   ],
+   "a": 0,
+   "why": "Theo chú thích SGK (tr.8): Nam Hương (1899 – 1960) sáng tác nhiều thơ ngụ ngôn.",
+   "wrong": [
+    null,
+    "Chú thích SGK không nhắc tới tiểu thuyết lịch sử.",
+    "Chú thích SGK không nhắc tới kịch nói.",
+    "Chú thích SGK không nhắc tới phóng sự."
+   ]
+  },
+  {
+   "id": "6f",
+   "bai": 1,
+   "tag": "tg",
+   "type": "mc",
+   "q": "Theo Tri thức ngữ văn, truyện ngụ ngôn là gì?",
+   "opts": [
+    "Hình thức tự sự cỡ nhỏ, nêu bài học đạo lí và kinh nghiệm sống, thường dùng lối nói ám chỉ, ngụ ý",
+    "Truyện dài kể về lịch sử dựng nước",
+    "Loại văn bản thông tin giới thiệu một sự vật",
+    "Bài thơ trữ tình bày tỏ nỗi nhớ"
+   ],
+   "a": 0,
+   "why": "SGK (tr.5): truyện ngụ ngôn là hình thức tự sự cỡ nhỏ, trình bày bài học đạo lí và kinh nghiệm sống, thường dùng lối diễn đạt ám chỉ, ngụ ý, bóng gió.",
+   "wrong": [
+    null,
+    "Truyện ngụ ngôn ngắn gọn, không phải truyện dài lịch sử.",
+    "Ngụ ngôn là văn bản tự sự, không phải văn bản thông tin.",
+    "Ngụ ngôn không phải thơ trữ tình."
+   ]
+  },
+  {
+   "id": "6g",
+   "bai": 1,
+   "tag": "tg",
+   "type": "mc",
+   "q": "Điểm nào KHÔNG đúng với nhân vật trong truyện ngụ ngôn?",
+   "opts": [
+    "Luôn là con người có thật ngoài đời",
+    "Có thể là con người",
+    "Có thể là con vật hay đồ vật được nhân hoá",
+    "Mang đặc điểm giống con người"
+   ],
+   "a": 0,
+   "why": "SGK (tr.5): nhân vật ngụ ngôn có thể là con người, con vật, đồ vật được nhân hoá (có đặc điểm như con người).",
+   "wrong": [
+    null,
+    "Đúng với nhân vật ngụ ngôn.",
+    "Đúng với nhân vật ngụ ngôn.",
+    "Đúng với nhân vật ngụ ngôn."
+   ]
+  },
+  {
+   "id": "6h",
+   "bai": 1,
+   "tag": "tg",
+   "type": "mc",
+   "q": "Tục ngữ là gì?",
+   "opts": [
+    "Sáng tác ngôn từ dân gian: câu nói ngắn gọn, nhịp nhàng, cân đối, thường có vần, đúc kết kinh nghiệm",
+    "Cụm từ cố định nhưng không đúc kết kinh nghiệm",
+    "Bài thơ dài kể chuyện dân gian",
+    "Câu chuyện có nhiều nhân vật và cốt truyện phức tạp"
+   ],
+   "a": 0,
+   "why": "SGK (tr.5): tục ngữ là những câu nói ngắn gọn, nhịp nhàng, cân đối, thường có vần điệu, đúc kết nhận thức về tự nhiên, xã hội và kinh nghiệm đạo đức, ứng xử.",
+   "wrong": [
+    null,
+    "Đó là mô tả thành ngữ.",
+    "Tục ngữ ngắn gọn, không phải bài thơ dài.",
+    "Tục ngữ không phải truyện có cốt truyện."
+   ]
+  },
+  {
+   "id": "6i",
+   "bai": 1,
+   "tag": "tg",
+   "type": "match",
+   "q": "Ghép câu tục ngữ với chủ đề phù hợp.",
+   "pairs": [
+    [
+     "Gió heo may, chuồn chuồn bay thì bão.",
+     "Dự báo thời tiết, thiên nhiên"
+    ],
+    [
+     "Làm ruộng ba năm không bằng chăn tằm một lứa.",
+     "Lao động sản xuất"
+    ],
+    [
+     "Đói cho sạch, rách cho thơm.",
+     "Đạo đức, cách ứng xử"
+    ],
+    [
+     "Không thầy đố mày làm nên.",
+     "Học tập, quan hệ thầy trò"
+    ]
+   ],
+   "why": "Các câu tục ngữ trong bài (SGK tr.12) thuộc nhiều chủ đề: thiên nhiên, lao động sản xuất, con người và xã hội."
+  },
+  {
+   "id": "6j",
+   "bai": 1,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Thành ngữ là gì?",
+   "opts": [
+    "Loại cụm từ cố định, có nghĩa bóng bẩy",
+    "Câu nói đúc kết kinh nghiệm và có vần điệu",
+    "Bài thơ ngụ ngôn",
+    "Từ chỉ khái niệm của một ngành khoa học"
+   ],
+   "a": 0,
+   "why": "SGK (tr.5): thành ngữ là loại cụm từ cố định, có nghĩa bóng bẩy; nghĩa toát ra từ cả cụm chứ không suy ra từ nghĩa từng thành tố.",
+   "wrong": [
+    null,
+    "Đó là mô tả tục ngữ.",
+    "Thành ngữ là cụm từ, không phải bài thơ.",
+    "Đó là mô tả thuật ngữ."
+   ]
+  },
+  {
+   "id": "6k",
+   "bai": 1,
+   "tag": "tv",
+   "type": "sort",
+   "q": "Phân loại: thành ngữ hay tục ngữ?",
+   "bins": [
+    "Thành ngữ (cụm từ cố định)",
+    "Tục ngữ (câu đúc kết kinh nghiệm)"
+   ],
+   "items": [
+    [
+     "Đẽo cày giữa đường",
+     0
+    ],
+    [
+     "Chia ngọt sẻ bùi",
+     0
+    ],
+    [
+     "Mở cờ trong bụng",
+     0
+    ],
+    [
+     "Ăn quả nhớ kẻ trồng cây",
+     1
+    ],
+    [
+     "Đói cho sạch, rách cho thơm",
+     1
+    ],
+    [
+     "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
+     1
+    ]
+   ],
+   "why": "Thành ngữ là cụm từ cố định, bóng bẩy; tục ngữ là câu diễn đạt trọn ý, đúc kết kinh nghiệm."
+  },
+  {
+   "id": "6l",
+   "bai": 1,
+   "tag": "tv",
+   "type": "match",
+   "q": "Ghép thành ngữ với nghĩa của nó.",
+   "pairs": [
+    [
+     "của ngon vật lạ",
+     "Thức ăn ngon, quý hiếm"
+    ],
+    [
+     "chưa biết mèo nào cắn mỉu nào",
+     "Chưa biết ai thắng ai thua"
+    ],
+    [
+     "đi đời nhà ma",
+     "Mất hết, tiêu tan"
+    ],
+    [
+     "chia ngọt sẻ bùi",
+     "Cùng sẻ chia sướng khổ"
+    ]
+   ],
+   "why": "Hai nghĩa đầu lấy từ SGK (tr.11); “đi đời nhà ma” có chú thích ở tr.7 là “mất, mất hết”."
+  },
+  {
+   "id": "6m",
+   "bai": 1,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Việc dùng thành ngữ có tác dụng gì trong câu?",
+   "opts": [
+    "Làm câu súc tích, bóng bẩy, gợi nhiều liên tưởng",
+    "Làm câu dài và rườm rà hơn",
+    "Làm câu mất nghĩa",
+    "Chỉ để trang trí, không có tác dụng"
+   ],
+   "a": 0,
+   "why": "SGK (tr.11): việc dùng thành ngữ giúp câu trở nên súc tích, bóng bẩy, gợi nhiều liên tưởng.",
+   "wrong": [
+    null,
+    "Thành ngữ giúp câu ngắn gọn, súc tích.",
+    "Thành ngữ làm câu thêm nghĩa chứ không làm mất nghĩa.",
+    "Thành ngữ có tác dụng biểu đạt rõ rệt."
+   ]
+  },
+  {
+   "id": "6n",
+   "bai": 1,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Nói quá là biện pháp tu từ như thế nào?",
+   "opts": [
+    "Phóng đại tính chất, quy mô của đối tượng để nhấn mạnh, tăng sức biểu cảm hoặc gây cười",
+    "Nói giảm mức độ của sự vật",
+    "Gọi sự vật bằng tên của sự vật khác có quan hệ gần gũi",
+    "Lặp lại một từ ngữ nhiều lần"
+   ],
+   "a": 0,
+   "why": "SGK (tr.5): nói quá là biện pháp tu từ phóng đại tính chất, quy mô của đối tượng để nhấn mạnh, tăng sức biểu cảm hoặc gây cười.",
+   "wrong": [
+    null,
+    "Nói giảm nói tránh làm nhẹ mức độ, khác với nói quá.",
+    "Đó là hoán dụ.",
+    "Đó là điệp ngữ."
+   ]
+  },
+  {
+   "id": "6o",
+   "bai": 1,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Câu nào dưới đây có dùng biện pháp nói quá?",
+   "opts": [
+    "Ngày vui ngắn chẳng tày gang.",
+    "Ăn quả nhớ kẻ trồng cây.",
+    "Học thầy chẳng tày học bạn.",
+    "Người sống hơn đồng vàng."
+   ],
+   "a": 0,
+   "why": "“Ngày vui ngắn chẳng tày gang” phóng đại độ ngắn của ngày vui (SGK tr.13).",
+   "wrong": [
+    null,
+    "Câu này nói nghĩa đen về lòng biết ơn.",
+    "Câu này so sánh giá trị của việc học.",
+    "Câu này so sánh giá trị người với tiền của, chưa phóng đại như nói quá."
+   ]
+  },
+  {
+   "id": "6p",
+   "bai": 1,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Trong câu “Thuận vợ thuận chồng tát bể Đông cũng cạn”, nói quá có tác dụng gì?",
+   "opts": [
+    "Nhấn mạnh sức mạnh to lớn của sự đồng lòng",
+    "Chê bai việc tát nước",
+    "Tả cảnh biển cạn",
+    "Nói về nghề đánh cá"
+   ],
+   "a": 0,
+   "why": "Tát cạn biển Đông là việc không thể xảy ra; nói quá để đề cao sức mạnh của sự đồng lòng, thuận hoà (SGK tr.13).",
+   "wrong": [
+    null,
+    "Câu không chê bai ai.",
+    "Câu không tả cảnh thật.",
+    "Câu không nói về nghề nghiệp."
+   ]
+  },
+  {
+   "id": "6q",
+   "bai": 1,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Trong “Đẽo cày giữa đường”, người thợ mộc xử sự thế nào trước mỗi lời khuyên của người qua đường?",
+   "opts": [
+    "Cho là phải và làm theo ngay",
+    "Bỏ ngoài tai tất cả",
+    "Cãi lại từng người",
+    "Hỏi ý kiến thợ mộc khác rồi mới làm"
+   ],
+   "a": 0,
+   "why": "SGK (tr.6): anh ta nghe ai nói cũng “cho là phải” rồi đẽo cày to, nhỏ, rồi to gấp năm gấp bảy thứ thường, nên cuối cùng không bán được cái nào.",
+   "wrong": [
+    null,
+    "Anh ta nghe theo, không bỏ ngoài tai.",
+    "Anh ta không cãi lại ai.",
+    "Truyện không nói anh ta hỏi thợ khác."
+   ],
+   "pid": "s6a",
+   "muc": "biet"
+  },
+  {
+   "id": "6r",
+   "bai": 1,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Thành ngữ “đẽo cày giữa đường” dùng để nói về những người như thế nào?",
+   "opts": [
+    "Hay nghe theo thiên hạ, làm theo người khác đến mất cả cơ nghiệp",
+    "Làm việc rất chăm chỉ",
+    "Rất cẩn thận khi chọn gỗ",
+    "Giỏi nghề mộc"
+   ],
+   "a": 0,
+   "why": "Cuối truyện (tr.7) có lời giải thích: thành ngữ dùng để nói những người hay để tai nghe theo thiên hạ đến nỗi mất cả cơ nghiệp.",
+   "wrong": [
+    null,
+    "Thành ngữ không nói về sự chăm chỉ.",
+    "Truyện không nhấn mạnh việc chọn gỗ.",
+    "Người thợ mộc trong truyện thiếu chủ kiến, không phải giỏi nghề."
+   ],
+   "pid": "s6a",
+   "muc": "hieu"
+  },
+  {
+   "id": "6s",
+   "bai": 1,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Điều gì khiến con ếch trong “Ếch ngồi đáy giếng” cảm thấy sung sướng?",
+   "opts": [
+    "Một mình chiếm cả giếng nước, tự do bơi lội, thấy không con vật nào sướng bằng mình",
+    "Được sống cùng đàn ếch đông đúc",
+    "Được ra biển lớn bơi lội",
+    "Được rùa kể chuyện hay"
+   ],
+   "a": 0,
+   "why": "SGK (tr.7): ếch khoe mình có thể nhảy ra nhảy vào, bơi trong nước, lội bùn, “một mình chiếm một chỗ nước tụ, tự do bơi lội” nên thấy không con nào sướng bằng.",
+   "wrong": [
+    null,
+    "Ếch sống một mình trong giếng.",
+    "Ếch chưa từng ra biển.",
+    "Chính rùa mới là người kể chuyện về biển."
+   ],
+   "pid": "s6b",
+   "muc": "biet"
+  },
+  {
+   "id": "6t",
+   "bai": 1,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Vì sao con ếch “ngạc nhiên, thu mình lại, hoảng hốt, bối rối”?",
+   "opts": [
+    "Vì nghe rùa tả biển Đông mênh mông, rộng lớn hơn cái giếng của mình rất nhiều",
+    "Vì rùa doạ sẽ ăn thịt ếch",
+    "Vì giếng bị cạn nước",
+    "Vì thấy nhiều ếch khác vào giếng"
+   ],
+   "a": 0,
+   "why": "Rùa kể biển Đông mênh mông, không đổi thay dù lụt hay hạn (tr.8); ếch bàng hoàng nhận ra thế giới của mình quá nhỏ bé.",
+   "wrong": [
+    null,
+    "Rùa không hề doạ ếch.",
+    "Giếng cạn không phải lí do trong truyện.",
+    "Truyện không có chi tiết này."
+   ],
+   "pid": "s6b",
+   "muc": "hieu"
+  },
+  {
+   "id": "6u",
+   "bai": 1,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Trong “Con mối và con kiến”, kiến phê phán lối sống nào của mối?",
+   "opts": [
+    "Không lao động mà chỉ đục phá chỗ ở của người khác để ăn",
+    "Làm việc quá chăm chỉ",
+    "Quá hào phóng với bạn bè",
+    "Ham học hỏi"
+   ],
+   "a": 0,
+   "why": "Kiến nói “Hễ có làm thì mới có ăn”, trách mối cứ “đục vào chỗ ở mà xơi”, đục rỗng nhà thì nhà đổ cũng hại chính mối (tr.9).",
+   "wrong": [
+    null,
+    "Kiến mới là con vật chăm chỉ.",
+    "Truyện không nói mối hào phóng.",
+    "Truyện không nhắc tới việc học."
+   ],
+   "pid": "s6c",
+   "muc": "hieu"
+  },
+  {
+   "id": "6v",
+   "bai": 1,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Chi tiết nào cho thấy hổ biết tri ân bà đỡ Trần?",
+   "opts": [
+    "Hổ đực đưa ra một khối bạc tặng bà và cùng bà ra khỏi rừng",
+    "Hổ cắn bà đỡ",
+    "Hổ bỏ chạy ngay sau khi hổ cái sinh con",
+    "Hổ đuổi bà ra khỏi rừng"
+   ],
+   "a": 0,
+   "why": "SGK (tr.14–15): sau khi hổ cái sinh con, hổ đực quỳ trước bà, đưa ra một khối bạc; khi tiễn bà, hổ dừng lại quỳ, cúi đầu, vẫy đuôi tỏ ý tiễn biệt.",
+   "wrong": [
+    null,
+    "Hổ không làm hại bà.",
+    "Hổ không bỏ chạy.",
+    "Hổ tiễn bà ra khỏi rừng."
+   ],
+   "pid": "s6e",
+   "muc": "biet"
+  },
+  {
+   "id": "6w",
+   "bai": 1,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Việc ghép hai câu chuyện (bà đỡ Trần và bác tiều phu) trong “Con hổ có nghĩa” giúp ích gì?",
+   "opts": [
+    "Cho thấy việc hổ biết ơn có ở nhiều trường hợp, làm bài học về nghĩa tình thêm sâu sắc",
+    "Làm truyện dài hơn thôi",
+    "Để so sánh hai nghề nghiệp",
+    "Để nói rằng hổ rất hung dữ"
+   ],
+   "a": 0,
+   "why": "Cả hai chuyện đều kể hổ đền đáp người cứu giúp: một lần tặng bạc, một lần để hươu, lợn trước cửa mỗi dịp giỗ suốt nhiều năm (tr.15). Hai chuyện bổ sung nhau để nhấn mạnh bài học nghĩa tình.",
+   "wrong": [
+    null,
+    "Mục đích không phải để kéo dài truyện.",
+    "Truyện không so sánh nghề nghiệp.",
+    "Truyện ca ngợi nghĩa tình của hổ."
+   ],
+   "pid": "s6e",
+   "muc": "vd"
+  },
+  {
+   "id": "6x",
+   "bai": 1,
+   "tag": "doc",
+   "type": "short",
+   "q": "Mượn hình tượng con hổ có nghĩa, tác phẩm gửi gắm bài học gì cho con người? (1–2 câu)",
+   "goi": "Gợi ý: Con người cần sống … Vì …",
+   "mau": "Con người cần sống có nghĩa tình, biết ơn người đã giúp mình. Ngay cả loài hổ dữ còn biết đền đáp ơn cứu giúp, huống chi con người.",
+   "y": [
+    "Nêu được bài học: biết ơn, sống có nghĩa tình",
+    "Liên hệ chi tiết hổ tặng bạc hoặc mang hươu, lợn đến",
+    "Câu văn rõ ràng, đủ ý"
+   ],
+   "pid": "s6e",
+   "muc": "vd"
+  },
+  {
+   "id": "6y",
+   "bai": 1,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Câu tục ngữ “Muốn lành nghề, chớ nề học hỏi” khuyên điều gì?",
+   "opts": [
+    "Muốn giỏi nghề thì đừng ngại học hỏi người khác",
+    "Chỉ nên học thầy",
+    "Không cần học nghề",
+    "Nên học một mình, không nhờ ai"
+   ],
+   "a": 0,
+   "why": "Câu tục ngữ số 13 (tr.12): “nề” là ngại; muốn giỏi nghề thì không ngại học hỏi.",
+   "wrong": [
+    null,
+    "Câu khuyên học hỏi nhiều người.",
+    "Câu không bảo bỏ việc học.",
+    "Câu khuyên học hỏi chứ không học một mình."
+   ],
+   "pid": "s6d",
+   "muc": "hieu"
+  },
+  {
+   "id": "6z1",
+   "bai": 1,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Trong đoạn “Cây tre và cây dương liễu”, nhân vật là ai?",
+   "opts": [
+    "Hai loài cây được nhân hoá",
+    "Hai bạn học sinh",
+    "Hai người nông dân",
+    "Hai con vật sống trong rừng"
+   ],
+   "a": 0,
+   "why": "Cây tre và cây dương liễu biết nói, biết nhận ra điều đúng: đó là nhân vật ngụ ngôn (cây cối được nhân hoá).",
+   "wrong": [
+    null,
+    "Không có học sinh trong đoạn.",
+    "Không có người nông dân.",
+    "Không có con vật nào."
+   ],
+   "pid": "d6",
+   "muc": "biet"
+  },
+  {
+   "id": "6z2",
+   "bai": 1,
+   "tag": "doc",
+   "type": "evid",
+   "pid": "d6",
+   "muc": "hieu",
+   "q": "Gạch chân (chạm vào) những câu cho thấy KẾT QUẢ của trận bão với hai loài cây.",
+   "ans": [
+    2,
+    3
+   ],
+   "why": "Câu 3: dương liễu gãy rạp, trụi lá. Câu 4: tre vẫn đứng vững nhờ rễ bám chặt vào đất."
+  },
+  {
+   "id": "6z3",
+   "bai": 1,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Bài học rút ra từ đoạn truyện là gì?",
+   "opts": [
+    "Vẻ ngoài đẹp, mềm mại chưa chắc đã vững vàng; cần có nền tảng chắc chắn",
+    "Cây nào cũng nên uốn theo gió",
+    "Đừng bao giờ chê người khác",
+    "Bão luôn có hại cho cây"
+   ],
+   "a": 0,
+   "why": "Dương liễu chê tre cứng nhưng bão đến thì tre mới đứng vững nhờ rễ sâu. Bài học: cần nền tảng vững chắc, đừng chỉ chú ý vẻ ngoài.",
+   "wrong": [
+    null,
+    "Đoạn truyện không khuyên uốn theo gió.",
+    "Đây chỉ là một phần nhỏ của bài học.",
+    "Đoạn truyện không bàn về tác hại của bão."
+   ],
+   "pid": "d6",
+   "muc": "hieu"
+  },
+  {
+   "id": "6z4",
+   "bai": 1,
+   "tag": "doc",
+   "type": "short",
+   "q": "Em hãy liên hệ: bài học của truyện áp dụng vào việc học của em như thế nào? (1–2 câu)",
+   "goi": "Gợi ý: Trong học tập, em cần … vì …",
+   "mau": "Trong học tập, em cần chăm chỉ học chắc kiến thức nền như rễ cây, chứ không chỉ cố làm bài cho đẹp mắt. Có nền tảng vững thì khi gặp bài khó em mới không bị “gãy”.",
+   "y": [
+    "Liên hệ đúng với bài học của truyện",
+    "Có ví dụ cụ thể từ việc học",
+    "Câu văn rõ ràng, đủ ý"
+   ],
+   "pid": "d6",
+   "muc": "vd"
+  },
+  {
+   "id": "6v1",
+   "bai": 1,
+   "tag": "viet",
+   "type": "order",
+   "q": "Sắp xếp các bước làm bài văn nghị luận (ý kiến tán thành) theo đúng thứ tự.",
+   "items": [
+    "Chọn vấn đề, ý kiến đáng quan tâm để bàn luận",
+    "Tìm ý: vì sao tán thành, lí lẽ và bằng chứng nào",
+    "Lập dàn ý Mở bài – Thân bài – Kết bài",
+    "Viết bài theo dàn ý",
+    "Đọc lại, chỉnh sửa theo bảng tiêu chí"
+   ],
+   "why": "SGK (tr.18–21): Trước khi viết (chọn đề tài, tìm ý, lập dàn ý) → Viết bài → Chỉnh sửa bài viết."
+  },
+  {
+   "id": "6v2",
+   "bai": 1,
+   "tag": "viet",
+   "type": "mc",
+   "q": "Yêu cầu nào KHÔNG thuộc bài văn nghị luận trình bày ý kiến tán thành?",
+   "opts": [
+    "Kể lại một câu chuyện dài, không nêu ý kiến",
+    "Nêu được vấn đề và ý kiến cần bàn luận",
+    "Trình bày rõ sự tán thành",
+    "Đưa ra lí lẽ rõ ràng và bằng chứng đa dạng"
+   ],
+   "a": 0,
+   "why": "SGK (tr.16): bài viết cần nêu vấn đề và ý kiến, trình bày sự tán thành, đưa lí lẽ rõ ràng và bằng chứng đa dạng.",
+   "wrong": [
+    null,
+    "Đây là yêu cầu đúng.",
+    "Đây là yêu cầu đúng.",
+    "Đây là yêu cầu đúng."
+   ]
+  },
+  {
+   "id": "6v3",
+   "bai": 1,
+   "tag": "viet",
+   "type": "mc",
+   "q": "Trong bài viết tham khảo “Trường học đầu tiên”, người viết tán thành ý kiến nào?",
+   "opts": [
+    "“Gia đình cũng là một trường học.”",
+    "“Nhà trường là nơi duy nhất để học.”",
+    "“Chỉ cần học bạn, không cần học thầy.”",
+    "“Trò chơi điện tử rất bổ ích.”"
+   ],
+   "a": 0,
+   "why": "Người viết tán thành ý kiến của bạn Hồng Minh: gia đình cũng là một trường học (SGK tr.16–19).",
+   "wrong": [
+    null,
+    "Bài viết không nói vậy.",
+    "Đây là chủ đề khác trong gợi ý đề tài.",
+    "Đây là chủ đề khác trong gợi ý đề tài."
+   ]
+  },
+  {
+   "id": "6v4",
+   "bai": 1,
+   "tag": "viet",
+   "type": "sort",
+   "q": "Đây là LÍ LẼ hay BẰNG CHỨNG? (đề tài: Đọc sách có ích)",
+   "bins": [
+    "Lí lẽ",
+    "Bằng chứng"
+   ],
+   "items": [
+    [
+     "Sách giúp con người mở rộng hiểu biết và nuôi dưỡng tâm hồn",
+     0
+    ],
+    [
+     "Bạn Nam đọc truyện về loài vật nên kể được nhiều điều thú vị cho cả lớp nghe",
+     1
+    ],
+    [
+     "Đọc sách là cách học không lệ thuộc vào thời gian, nơi chốn",
+     0
+    ],
+    [
+     "Em đọc cuốn sách về lịch sử và nhớ được các mốc thời gian dễ hơn",
+     1
+    ]
+   ],
+   "why": "Lí lẽ là ý nêu lên để giải thích, bằng chứng là ví dụ cụ thể, xác thực làm rõ lí lẽ."
+  },
+  {
+   "id": "6v5",
+   "bai": 1,
+   "tag": "viet",
+   "type": "mc",
+   "q": "Phần Kết bài của bài văn nghị luận tán thành cần làm gì?",
+   "opts": [
+    "Khẳng định lại tính xác đáng của ý kiến và nêu sự cần thiết của việc tán thành",
+    "Kể thêm một câu chuyện mới",
+    "Nêu một ý kiến hoàn toàn khác",
+    "Chỉ ghi “Hết”"
+   ],
+   "a": 0,
+   "why": "SGK (tr.20): Kết bài khẳng định lại sự tán thành, nêu tác dụng của ý kiến đó đối với cuộc sống, viết trọn vẹn trong một đoạn.",
+   "wrong": [
+    null,
+    "Kết bài không đưa thêm chuyện mới.",
+    "Không nên nêu ý khác lạc đề.",
+    "Kết bài cần có nội dung."
+   ]
+  },
+  {
+   "id": "6v6",
+   "bai": 1,
+   "tag": "viet",
+   "type": "short",
+   "q": "Viết 2 câu Mở bài nêu vấn đề và ý kiến tán thành với câu “Học thầy chẳng tày học bạn”.",
+   "goi": "Gợi ý: Câu 1 giới thiệu vấn đề (nhắc tới câu tục ngữ). Câu 2 nêu rõ em tán thành vì sao.",
+   "mau": "Trong cuộc sống, ông cha ta để lại câu tục ngữ “Học thầy chẳng tày học bạn”. Em hoàn toàn tán thành ý kiến này vì ngoài việc học từ thầy cô, ta còn học được rất nhiều điều bổ ích từ bạn bè.",
+   "y": [
+    "Nhắc đúng vấn đề, ý kiến",
+    "Nói rõ thái độ tán thành",
+    "Hai câu rõ ràng, đúng chính tả"
+   ]
+  },
+  {
+   "id": "6n1",
+   "bai": 1,
+   "tag": "noi",
+   "type": "mc",
+   "q": "Khi kể lại một truyện ngụ ngôn, em cần chú ý điều gì?",
+   "opts": [
+    "Kể đúng cốt truyện gốc, có thể kể sinh động nhưng không làm sai lệch yếu tố cơ bản",
+    "Thay đổi hoàn toàn nội dung truyện",
+    "Đọc thuộc lòng từng chữ",
+    "Bỏ qua bài học"
+   ],
+   "a": 0,
+   "why": "SGK (tr.21–22): được sáng tạo cách kể nhưng không làm sai lệch yếu tố cơ bản của cốt truyện gốc; không phải đọc thuộc lòng.",
+   "wrong": [
+    null,
+    "Làm vậy sẽ sai cốt truyện gốc.",
+    "Không cần đọc thuộc từng chữ.",
+    "Phần kết nên nêu ý nghĩa, bài học."
+   ]
+  },
+  {
+   "id": "6n2",
+   "bai": 1,
+   "tag": "noi",
+   "type": "mc",
+   "q": "Phần kết luận của bài nói kể truyện ngụ ngôn cần có gì?",
+   "opts": [
+    "Nêu ý nghĩa của câu chuyện",
+    "Xin lỗi vì kể dài",
+    "Kể lại từ đầu",
+    "Hỏi bạn có ai đang buồn ngủ không"
+   ],
+   "a": 0,
+   "why": "SGK (tr.22): Kết luận – nêu ý nghĩa của câu chuyện.",
+   "wrong": [
+    null,
+    "Không cần xin lỗi.",
+    "Không cần kể lại.",
+    "Không phù hợp với mục đích kể."
+   ]
+  },
+  {
+   "id": "7a",
+   "bai": 2,
+   "tag": "tg",
+   "type": "match",
+   "q": "Ghép văn bản với tác giả.",
+   "pairs": [
+    [
+     "Cuộc chạm trán trên đại dương",
+     "Giuyn Véc-nơ"
+    ],
+    [
+     "Đường vào trung tâm vũ trụ",
+     "Hà Thuỷ Nguyên"
+    ],
+    [
+     "Dấu ấn Hồ Khanh",
+     "Nhật Văn"
+    ],
+    [
+     "Chiếc đũa thần (Thực hành đọc)",
+     "I. A. E-phơ-rê-mốp"
+    ]
+   ],
+   "why": "Đây là các văn bản của Bài 7 – Thế giới viễn tưởng (SGK tập hai, tr.27, 35, 42, 51)."
+  },
+  {
+   "id": "7b",
+   "bai": 2,
+   "tag": "tg",
+   "type": "mc",
+   "q": "“Cuộc chạm trán trên đại dương” trích từ tác phẩm nào?",
+   "opts": [
+    "Hai vạn dặm dưới biển",
+    "Thiên Mã",
+    "Đất rừng phương Nam",
+    "Tốt-tô-chan bên cửa sổ"
+   ],
+   "a": 0,
+   "why": "Theo chú thích SGK (tr.27): Hai vạn dặm dưới biển là tiểu thuyết khoa học viễn tưởng của Giuyn Véc-nơ gồm 47 chương.",
+   "wrong": [
+    null,
+    "Thiên Mã là tác phẩm của Hà Thuỷ Nguyên (văn bản thứ hai).",
+    "Đất rừng phương Nam học ở Bài 1 (tập một).",
+    "Tốt-tô-chan bên cửa sổ học ở Bài 1 (tập một)."
+   ]
+  },
+  {
+   "id": "7c",
+   "bai": 2,
+   "tag": "tg",
+   "type": "mc",
+   "q": "“Thiên Mã”, tác phẩm có đoạn trích “Đường vào trung tâm vũ trụ”, thuộc thể loại nào?",
+   "opts": [
+    "Tiểu thuyết khoa học viễn tưởng",
+    "Truyện ngụ ngôn",
+    "Thơ năm chữ",
+    "Văn bản nghị luận"
+   ],
+   "a": 0,
+   "why": "Theo chú thích SGK (tr.35): Thiên Mã là cuốn tiểu thuyết khoa học viễn tưởng gồm 10 chương.",
+   "wrong": [
+    null,
+    "Thiên Mã không phải ngụ ngôn.",
+    "Thiên Mã không phải thơ.",
+    "Thiên Mã là truyện, không phải văn bản nghị luận."
+   ]
+  },
+  {
+   "id": "7d",
+   "bai": 2,
+   "tag": "tg",
+   "type": "mc",
+   "q": "Hồ Khanh trong văn bản “Dấu ấn Hồ Khanh” là người phát hiện ra hang động nổi tiếng nào?",
+   "opts": [
+    "Hang Sơn Đoòng",
+    "Hang Én",
+    "Hang Va",
+    "Động Phong Nha"
+   ],
+   "a": 0,
+   "why": "Đoạn đầu văn bản (tr.42): Hồ Khanh là người phát hiện ra hang Sơn Đoòng và rất nhiều hang động ấn tượng khác ở Quảng Bình.",
+   "wrong": [
+    null,
+    "Văn bản nêu Sơn Đoòng chứ không phải hang Én.",
+    "Văn bản nêu Sơn Đoòng chứ không phải hang Va.",
+    "Văn bản nêu Sơn Đoòng, thuộc Vườn quốc gia Phong Nha – Kẻ Bàng."
+   ]
+  },
+  {
+   "id": "7e",
+   "bai": 2,
+   "tag": "tg",
+   "type": "mc",
+   "q": "Theo Tri thức ngữ văn, truyện khoa học viễn tưởng là loại tác phẩm như thế nào?",
+   "opts": [
+    "Viết về thế giới tương lai dựa trên sự phát triển của khoa học, thường li kì",
+    "Kể chuyện loài vật để nêu bài học đạo lí",
+    "Ghi chép sự việc đã xảy ra theo trình tự thời gian",
+    "Giới thiệu luật chơi của một trò chơi"
+   ],
+   "a": 0,
+   "why": "SGK (tr.26): truyện khoa học viễn tưởng viết về thế giới tương lai dựa trên sự phát triển của khoa học dự đoán, thường có tính chất li kì.",
+   "wrong": [
+    null,
+    "Đó là truyện ngụ ngôn.",
+    "Đó là tường thuật, không phải khoa học viễn tưởng.",
+    "Đó là văn bản thông tin."
+   ]
+  },
+  {
+   "id": "7f",
+   "bai": 2,
+   "tag": "tg",
+   "type": "sort",
+   "q": "Xếp mỗi đặc điểm của truyện khoa học viễn tưởng vào đúng yếu tố.",
+   "bins": [
+    "Đề tài",
+    "Không gian",
+    "Thời gian",
+    "Nhân vật"
+   ],
+   "items": [
+    [
+     "Thám hiểm vũ trụ, du hành xuyên thời gian",
+     0
+    ],
+    [
+     "Trên Trái Đất hoặc các hành tinh, thiên hà xa xôi",
+     1
+    ],
+    [
+     "Thường là tương lai xa so với lúc tác phẩm ra đời",
+     2
+    ],
+    [
+     "Có trí thông minh kiệt xuất hoặc khả năng kì lạ",
+     3
+    ]
+   ],
+   "why": "SGK (tr.26) nêu bốn yếu tố của truyện khoa học viễn tưởng: đề tài, không gian, thời gian và nhân vật chính."
+  },
+  {
+   "id": "7g",
+   "bai": 2,
+   "tag": "tg",
+   "type": "mc",
+   "q": "Cốt truyện trong truyện khoa học viễn tưởng thường gồm gì?",
+   "opts": [
+    "Chuỗi tình huống, sự kiện tưởng tượng dựa trên giả thuyết, dự báo, quan niệm khoa học",
+    "Chỉ những sự việc có thật đã xảy ra",
+    "Chỉ lời kể về một ngày đi học",
+    "Một câu tục ngữ"
+   ],
+   "a": 0,
+   "why": "SGK (tr.26): cốt truyện gồm một chuỗi tình huống, sự kiện hoàn toàn tưởng tượng, dựa trên các giả thuyết, dự báo và quan niệm khoa học.",
+   "wrong": [
+    null,
+    "Truyện viễn tưởng dựa trên tưởng tượng khoa học, không chỉ gồm sự việc có thật.",
+    "Đây không phải nội dung của truyện viễn tưởng.",
+    "Tục ngữ không phải cốt truyện."
+   ]
+  },
+  {
+   "id": "7h",
+   "bai": 2,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Trong “Cuộc chạm trán trên đại dương”, ai là người kể chuyện (xưng “tôi”)?",
+   "opts": [
+    "Giáo sư Pi-e A-rôn-nác, một nhà khoa học",
+    "Nét Len, người săn cá voi",
+    "Thuyền trưởng Nê-mô",
+    "Công-xây"
+   ],
+   "a": 0,
+   "why": "Theo chú thích SGK (tr.27), giáo sư Pi-e A-rôn-nác kể lại chuyến phiêu lưu; nhà văn để một nhà khoa học vào vai người kể chuyện ngôi thứ nhất.",
+   "wrong": [
+    null,
+    "Nét Len là nhân vật khác, mài sắc mũi lao chuẩn bị chiến đấu.",
+    "Nê-mô là thuyền trưởng tàu ngầm, không phải người kể.",
+    "Công-xây là cộng sự của giáo sư."
+   ],
+   "pid": "s7a",
+   "muc": "biet"
+  },
+  {
+   "id": "7i",
+   "bai": 2,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Giuyn Véc-nơ có “dự đoán thiên tài” gì về kĩ thuật trong “Hai vạn dặm dưới biển”?",
+   "opts": [
+    "Con tàu ngầm được thắp sáng và điều khiển bằng điện",
+    "Con tàu ngầm chạy bằng sức người chèo",
+    "Con tàu ngầm bay lên trời",
+    "Con tàu ngầm chạy bằng buồm"
+   ],
+   "a": 0,
+   "why": "Chú thích SGK (tr.27): nhà văn dự đoán con tàu ngầm Nau-ti-luýt được thắp sáng và điều khiển bằng điện, với tính năng mà kĩ thuật thời đó chưa đạt được.",
+   "wrong": [
+    null,
+    "Tàu ngầm trong truyện chạy bằng điện.",
+    "Tàu ngầm đi dưới biển, không bay.",
+    "Tàu ngầm không chạy bằng buồm."
+   ],
+   "pid": "s7a",
+   "muc": "hieu"
+  },
+  {
+   "id": "7j",
+   "bai": 2,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Việc nhà văn để một nhà khoa học kể chuyện ở ngôi thứ nhất có tác dụng gì?",
+   "opts": [
+    "Làm câu chuyện đáng tin hơn, các phán đoán mang tính khoa học, lô-gíc",
+    "Làm truyện bớt hấp dẫn",
+    "Để nhân vật nói nhiều hơn về mình",
+    "Để bỏ qua các chi tiết khoa học"
+   ],
+   "a": 0,
+   "why": "Người kể là nhà khoa học nên lời kể nghiêm túc, giàu phán đoán lô-gíc, tạo độ tin cậy cho điều tưởng tượng (gợi ý theo câu hỏi 5–6, tr.33).",
+   "wrong": [
+    null,
+    "Truyện hấp dẫn nhờ cách kể này.",
+    "Ngôi thứ nhất không nhằm để nói nhiều về bản thân.",
+    "Chi tiết khoa học là phần quan trọng."
+   ],
+   "pid": "s7a",
+   "muc": "vd"
+  },
+  {
+   "id": "7k",
+   "bai": 2,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Trong “Đường vào trung tâm vũ trụ”, những nhân vật nào cùng đi trên con ngựa có cánh?",
+   "opts": [
+    "Nhân vật “tôi” (một cô bé), Thần Đồng và ngựa Thần Thoại",
+    "Hoàng tử bé và con cáo",
+    "Pi-e A-rôn-nác và Nét Len",
+    "Thuỷ Tinh và Sơn Tinh"
+   ],
+   "a": 0,
+   "why": "SGK (tr.35–36): nhân vật “tôi”, cậu bé Thần Đồng và con ngựa có cánh Thần Thoại.",
+   "wrong": [
+    null,
+    "Hoàng tử bé thuộc truyện khác (Bài 10).",
+    "Đó là nhân vật của Hai vạn dặm dưới biển.",
+    "Đó là nhân vật truyền thuyết."
+   ],
+   "pid": "s7b",
+   "muc": "biet"
+  },
+  {
+   "id": "7l",
+   "bai": 2,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Trong đoạn trích “Đường vào trung tâm vũ trụ”, các nhân vật đã gặp sinh vật kì lạ nào?",
+   "opts": [
+    "Người cá",
+    "Rồng lửa",
+    "Người khổng lồ",
+    "Chim phượng hoàng"
+   ],
+   "a": 0,
+   "why": "Văn bản kể họ gặp người cá có khuôn mặt loài người và đuôi cá, giống miêu tả của An-đéc-xen trong truyện cổ (tr.40).",
+   "wrong": [
+    null,
+    "Văn bản không nhắc tới rồng lửa.",
+    "Văn bản không nhắc tới người khổng lồ.",
+    "Văn bản không nhắc tới chim phượng hoàng."
+   ],
+   "pid": "s7b",
+   "muc": "biet"
+  },
+  {
+   "id": "7m",
+   "bai": 2,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Vì sao các văn bản “Cuộc chạm trán trên đại dương” và “Đường vào trung tâm vũ trụ” được coi là truyện khoa học viễn tưởng?",
+   "opts": [
+    "Kể về chuyến phiêu lưu tưởng tượng dựa trên các ý tưởng, giả thuyết khoa học",
+    "Vì có nhiều nhân vật con vật",
+    "Vì kể chuyện đời thường ở làng quê",
+    "Vì viết bằng thơ"
+   ],
+   "a": 0,
+   "why": "Cả hai kể về những cuộc phiêu lưu tưởng tượng (dưới đáy biển, vào Tâm Trái Đất, Tâm Vũ Trụ) dựa trên ý tưởng, giả thuyết khoa học (SGK tr.50, Củng cố mở rộng).",
+   "wrong": [
+    null,
+    "Nhân vật con vật là đặc điểm ngụ ngôn.",
+    "Truyện không kể chuyện đời thường ở làng quê.",
+    "Hai văn bản là văn xuôi."
+   ],
+   "pid": "s7b",
+   "muc": "vd"
+  },
+  {
+   "id": "7n",
+   "bai": 2,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Năm 2009, Hồ Khanh đã làm gì để hang Sơn Đoòng được biết đến?",
+   "opts": [
+    "Dẫn đoàn thám hiểm hang động của Hoàng gia Anh đến khám phá hang",
+    "Chụp ảnh quảng cáo",
+    "Xây một khu du lịch",
+    "Viết sách giới thiệu hang"
+   ],
+   "a": 0,
+   "why": "SGK (tr.44): năm 2009 anh dẫn đoàn thám hiểm của Hoàng gia Anh đến khám phá hang rất lớn và lạ; sau đó hang được đặt tên là Sơn Đoòng.",
+   "wrong": [
+    null,
+    "Văn bản không nói tới việc chụp ảnh quảng cáo.",
+    "Văn bản không nói tới việc xây khu du lịch.",
+    "Văn bản không nói tới việc viết sách."
+   ],
+   "pid": "s7c",
+   "muc": "hieu"
+  },
+  {
+   "id": "7o",
+   "bai": 2,
+   "tag": "doc",
+   "type": "short",
+   "q": "Theo em, phẩm chất quan trọng nhất của một nhà thám hiểm là gì? Vì sao? (1–2 câu)",
+   "goi": "Gợi ý: Theo em, phẩm chất quan trọng nhất là … vì …",
+   "mau": "Theo em, đó là lòng dũng cảm đi đôi với sự kiên trì. Có dũng cảm thì mới dám đến nơi chưa ai biết; có kiên trì thì mới vượt được vất vả như Hồ Khanh nhiều ngày một mình vào rừng tìm lối vào hang.",
+   "y": [
+    "Nêu được một phẩm chất rõ ràng",
+    "Giải thích hoặc dẫn chi tiết trong văn bản",
+    "Câu văn đủ ý, rõ ràng"
+   ],
+   "pid": "s7c",
+   "muc": "vd"
+  },
+  {
+   "id": "7p",
+   "bai": 2,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Đoạn “Trạm vũ trụ Hy Vọng” diễn ra ở không gian và thời gian nào?",
+   "opts": [
+    "Trạm vũ trụ quanh sao Hoả, vào năm 2150",
+    "Một làng quê ngày xưa",
+    "Một lớp học ở hiện tại",
+    "Một khu rừng cổ"
+   ],
+   "a": 0,
+   "why": "Câu 1 nêu rõ: năm 2150, trạm vũ trụ Hy Vọng quay quanh sao Hoả.",
+   "wrong": [
+    null,
+    "Đoạn không nói về làng quê.",
+    "Đoạn không nói về lớp học.",
+    "Đoạn không nói về khu rừng."
+   ],
+   "pid": "d7",
+   "muc": "biet"
+  },
+  {
+   "id": "7q",
+   "bai": 2,
+   "tag": "doc",
+   "type": "evid",
+   "pid": "d7",
+   "muc": "hieu",
+   "q": "Gạch chân (chạm vào) những câu thể hiện CÔNG NGHỆ của tương lai.",
+   "ans": [
+    1,
+    2,
+    4
+   ],
+   "why": "Bản đồ ba chiều hiện trên màn hình, robot trợ lí Mi-ni và hàn kín vết nứt bằng tia laser là những chi tiết công nghệ tương lai."
+  },
+  {
+   "id": "7r",
+   "bai": 2,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Vì sao có thể xem đoạn trên là một đoạn truyện khoa học viễn tưởng?",
+   "opts": [
+    "Có không gian vũ trụ, thời gian tương lai và công nghệ giả tưởng dựa trên khoa học",
+    "Vì có nhân vật con vật biết nói",
+    "Vì kể chuyện thần tiên",
+    "Vì kể chuyện đời thường"
+   ],
+   "a": 0,
+   "why": "Đoạn có đủ các yếu tố: không gian ngoài Trái Đất, thời gian tương lai (2150), robot và công nghệ hiện đại.",
+   "wrong": [
+    null,
+    "Nhân vật con vật là đặc điểm của ngụ ngôn.",
+    "Truyện thần tiên không dựa trên khoa học.",
+    "Đoạn không kể chuyện đời thường."
+   ],
+   "pid": "d7",
+   "muc": "hieu"
+  },
+  {
+   "id": "7s",
+   "bai": 2,
+   "tag": "doc",
+   "type": "short",
+   "q": "Hãy viết tiếp 1–2 câu về điều xảy ra sau khi vết nứt được hàn kín.",
+   "goi": "Gợi ý: Sau đó, Lam … và … (dùng một chi tiết khoa học tưởng tượng).",
+   "mau": "Sau đó, Lam kiểm tra lại lượng ô-xi trên màn hình và thấy mọi chỉ số đã trở lại bình thường. Mi-ni vui vẻ phát nhạc để chúc mừng cả trạm.",
+   "y": [
+    "Viết tiếp phù hợp với tình huống",
+    "Có chi tiết khoa học, tưởng tượng hợp lí",
+    "Câu văn rõ ràng, liền mạch với đoạn trước"
+   ],
+   "pid": "d7",
+   "muc": "vd"
+  },
+  {
+   "id": "7t",
+   "bai": 2,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Mạch lạc của đoạn văn là gì?",
+   "opts": [
+    "Sự liền mạch về nội dung, dựa trên thống nhất đề tài và trình tự hợp lí giữa các câu",
+    "Sự giống nhau về chữ viết giữa các câu",
+    "Việc dùng nhiều dấu câu",
+    "Việc dùng từ hay"
+   ],
+   "a": 0,
+   "why": "SGK (tr.26): mạch lạc là sự liền mạch về nội dung của đoạn văn hoặc văn bản, dựa trên sự thống nhất về đề tài và sự tiếp nối theo trình tự hợp lí.",
+   "wrong": [
+    null,
+    "Mạch lạc nói về nội dung, không phải chữ viết.",
+    "Mạch lạc không đo bằng số dấu câu.",
+    "Mạch lạc không đo bằng từ hay."
+   ]
+  },
+  {
+   "id": "7u",
+   "bai": 2,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Liên kết là quan hệ như thế nào giữa các câu, các đoạn?",
+   "opts": [
+    "Quan hệ về mặt hình thức, thể hiện qua từ ngữ nối, từ ngữ lặp lại, từ ngữ thay thế",
+    "Quan hệ về nội dung nói chung",
+    "Quan hệ về chữ kí",
+    "Quan hệ về số lượng câu"
+   ],
+   "a": 0,
+   "why": "SGK (tr.26): liên kết là quan hệ về mặt hình thức giữa các câu hoặc đoạn, thể hiện qua từ ngữ nối, từ ngữ lặp lại, từ ngữ thay thế (từ đồng nghĩa, đại từ)...",
+   "wrong": [
+    null,
+    "Quan hệ về nội dung là mạch lạc.",
+    "Không liên quan.",
+    "Không liên quan."
+   ]
+  },
+  {
+   "id": "7v",
+   "bai": 2,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Trong đoạn: “Con cá lượn hình vòng cung. Nó để lại phía sau một vệt sáng lấp lánh.”, từ “Nó” thực hiện phương tiện liên kết nào?",
+   "opts": [
+    "Từ ngữ thay thế (đại từ thay cho “con cá”)",
+    "Từ ngữ nối",
+    "Lặp lại từ ngữ",
+    "Không liên kết"
+   ],
+   "a": 0,
+   "why": "“Nó” là đại từ thay cho “con cá” ở câu trước, tạo liên kết giữa hai câu.",
+   "wrong": [
+    null,
+    "“Nó” không phải từ nối như nhưng, và.",
+    "Câu sau không lặp lại nguyên từ “con cá”.",
+    "“Nó” có tác dụng liên kết."
+   ]
+  },
+  {
+   "id": "7w",
+   "bai": 2,
+   "tag": "tv",
+   "type": "match",
+   "q": "Ghép ví dụ với công dụng của dấu chấm lửng.",
+   "pairs": [
+    [
+     "cái màu đỏ, cái màu vàng, cái màu xanh lục,…",
+     "Cho biết còn nhiều sự vật tương tự chưa liệt kê hết"
+    ],
+    [
+     "Hay là bây giờ em nghĩ thế này…",
+     "Thể hiện lời nói bỏ dở, ngập ngừng, ngắt quãng"
+    ],
+    [
+     "Chỗ giống nhau nhất của mọi người là… không ai giống ai cả.",
+     "Làm giãn nhịp điệu, chuẩn bị cho từ ngữ bất ngờ, hài hước"
+    ]
+   ],
+   "why": "SGK (tr.41–42) nêu ba công dụng chính của dấu chấm lửng với các ví dụ tương ứng."
+  },
+  {
+   "id": "7x",
+   "bai": 2,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Câu nào dùng dấu chấm lửng để thể hiện lời nói ngập ngừng?",
+   "opts": [
+    "– Hay là… hay là mình quay lại thử một lần nữa?",
+    "Trên bàn có sách, vở, bút,…",
+    "Mẹ mua cam, xoài, ổi…",
+    "Cô dặn: học bài, làm bài, soạn bài…"
+   ],
+   "a": 0,
+   "why": "Dấu chấm lửng ở “Hay là… hay là…” thể hiện sự ngập ngừng của người nói.",
+   "wrong": [
+    null,
+    "Ở câu này, dấu chấm lửng cho biết liệt kê chưa hết.",
+    "Ở câu này, dấu chấm lửng cho biết liệt kê chưa hết.",
+    "Ở câu này, dấu chấm lửng cũng cho biết liệt kê chưa hết, không phải ngập ngừng."
+   ]
+  },
+  {
+   "id": "7y",
+   "bai": 2,
+   "tag": "viet",
+   "type": "mc",
+   "q": "Bài văn kể lại sự việc có thật liên quan đến nhân vật lịch sử cần LƯU Ý điều gì?",
+   "opts": [
+    "Bảo đảm tính xác thực của các chi tiết liên quan đến sự việc",
+    "Bịa thêm chi tiết cho hấp dẫn",
+    "Chỉ kể đời tư không liên quan",
+    "Không cần nêu ý nghĩa"
+   ],
+   "a": 0,
+   "why": "SGK (tr.48): cần lưu ý tính xác thực của các chi tiết; bài viết cũng phải nêu ý nghĩa sự việc và suy nghĩ, ấn tượng của người viết (tr.45).",
+   "wrong": [
+    null,
+    "Sự việc phải có thật, không bịa thêm.",
+    "Phải bám sự việc liên quan đến nhân vật.",
+    "Cần nêu ý nghĩa sự việc."
+   ]
+  },
+  {
+   "id": "7z",
+   "bai": 2,
+   "tag": "viet",
+   "type": "order",
+   "q": "Sắp xếp dàn ý bài văn kể lại sự việc có thật liên quan đến nhân vật lịch sử.",
+   "items": [
+    "Mở bài: giới thiệu đôi nét về nhân vật và sự việc liên quan",
+    "Thân bài: kể diễn biến sự việc, có yếu tố miêu tả",
+    "Thân bài: nêu ý nghĩa của sự việc",
+    "Kết bài: nêu suy nghĩ, ấn tượng của người viết"
+   ],
+   "why": "Dàn ý theo SGK (tr.47)."
+  },
+  {
+   "id": "7za",
+   "bai": 2,
+   "tag": "viet",
+   "type": "mc",
+   "q": "Sự kiện nào được kể trong bài viết tham khảo về Ê-đi-xơn?",
+   "opts": [
+    "Buổi “trình diễn” bóng đèn điện ngoài trời ngày 31 tháng 12 năm 1879",
+    "Ông phát minh ra điện thoại",
+    "Ông sang Việt Nam giảng bài",
+    "Ông lập thư viện"
+   ],
+   "a": 0,
+   "why": "SGK (tr.45–47): Ê-đi-xơn tạo “sân khấu” ngoài trời, treo hàng trăm bóng đèn ở Men-lô Pác; hơn ba nghìn người đi tàu hoả đến xem.",
+   "wrong": [
+    null,
+    "Bài không nói tới điện thoại.",
+    "Bài không nói tới chuyến sang Việt Nam.",
+    "Bài không nói tới thư viện."
+   ]
+  },
+  {
+   "id": "7zb",
+   "bai": 2,
+   "tag": "viet",
+   "type": "mc",
+   "q": "Ý nghĩa của sự việc “trình diễn” ánh sáng được nêu trong bài tham khảo là gì?",
+   "opts": [
+    "Ghi dấu mốc quan trọng của phát minh đèn điện, mở ra kỉ nguyên ánh sáng mới",
+    "Chỉ là trò vui giải trí",
+    "Làm người ta sợ điện",
+    "Làm mất việc của thợ thắp đèn"
+   ],
+   "a": 0,
+   "why": "SGK (tr.46–47): màn trình diễn ghi dấu mốc quan trọng trong việc phát minh ra đèn điện và hệ thống phân phối điện; con đường được thắp sáng mở ra một kỉ nguyên ánh sáng mới.",
+   "wrong": [
+    null,
+    "Bài nhấn mạnh ý nghĩa lịch sử, không phải trò vui.",
+    "Bài nói công chúng hết nghi ngờ khi tận mắt chứng kiến.",
+    "Bài không nói tới chuyện mất việc."
+   ]
+  },
+  {
+   "id": "7zc",
+   "bai": 2,
+   "tag": "viet",
+   "type": "mc",
+   "q": "Câu nào có YẾU TỐ MIÊU TẢ khi kể?",
+   "opts": [
+    "Hàng trăm bóng đèn toả ánh sáng vàng dịu, sáng rực cả con đường tối.",
+    "Ông treo hàng trăm bóng đèn.",
+    "Sự kiện diễn ra vào cuối năm.",
+    "Có nhiều người đến xem."
+   ],
+   "a": 0,
+   "why": "Câu đầu có từ ngữ gợi hình ảnh (ánh sáng vàng dịu, sáng rực), tạo yếu tố miêu tả; các câu còn lại chỉ nêu sự việc.",
+   "wrong": [
+    null,
+    "Câu này chỉ kể sự việc.",
+    "Câu này chỉ nêu thời gian.",
+    "Câu này chỉ nêu số lượng chung."
+   ]
+  },
+  {
+   "id": "7zd",
+   "bai": 2,
+   "tag": "viet",
+   "type": "short",
+   "q": "Viết 2 câu Mở bài giới thiệu một nhân vật lịch sử (hoặc nhà khoa học) và sự việc em định kể.",
+   "goi": "Gợi ý: Câu 1 giới thiệu nhân vật. Câu 2 nêu sự việc em chọn kể.",
+   "mau": "Thô-mát Ê-đi-xơn (1847 – 1931) là nhà phát minh vĩ đại người Mỹ, nổi tiếng với bóng đèn dây tóc. Một trong những câu chuyện thú vị về ông là buổi “trình diễn” bóng đèn điện ngoài trời ngày 31 tháng 12 năm 1879.",
+   "y": [
+    "Giới thiệu đúng nhân vật",
+    "Nêu rõ sự việc có thật sẽ kể",
+    "Hai câu rõ ràng, đúng chính tả"
+   ]
+  },
+  {
+   "id": "7n1",
+   "bai": 2,
+   "tag": "noi",
+   "type": "mc",
+   "q": "Thảo luận về vai trò của công nghệ đối với đời sống con người, nên sắp xếp ý theo trật tự nào?",
+   "opts": [
+    "Nêu vấn đề – hai mặt tích cực và tiêu cực – nêu quan điểm cá nhân",
+    "Chỉ nêu mặt tích cực",
+    "Chỉ nêu mặt tiêu cực",
+    "Chỉ kể chuyện cá nhân"
+   ],
+   "a": 0,
+   "why": "SGK (tr.49): sắp xếp dàn ý theo trật tự nêu vấn đề – hai mặt tích cực và tiêu cực – nêu quan điểm cá nhân.",
+   "wrong": [
+    null,
+    "Cần trình bày cả hai mặt.",
+    "Cần trình bày cả hai mặt.",
+    "Cần nêu ý kiến, không chỉ kể chuyện."
+   ]
+  },
+  {
+   "id": "7n2",
+   "bai": 2,
+   "tag": "noi",
+   "type": "mc",
+   "q": "Khi nghe và trao đổi trong cuộc thảo luận, em nên:",
+   "opts": [
+    "Nhận xét hướng vào ý kiến được trình bày, không sa đà vào chuyện không liên quan",
+    "Cắt lời bạn bất cứ lúc nào",
+    "Chỉ khen mà không nêu ý kiến",
+    "Làm việc riêng"
+   ],
+   "a": 0,
+   "why": "SGK (tr.50): nhận xét hướng vào ý kiến trình bày; tranh luận bằng lí lẽ thuyết phục; tiếp thu góp ý xác đáng.",
+   "wrong": [
+    null,
+    "Cắt lời là thiếu tôn trọng.",
+    "Cần nêu ý kiến trao đổi.",
+    "Cần tập trung lắng nghe."
+   ]
+  },
+  {
+   "id": "8a",
+   "bai": 3,
+   "tag": "tg",
+   "type": "match",
+   "q": "Ghép văn bản với tác giả.",
+   "pairs": [
+    [
+     "Bản đồ dẫn đường",
+     "Đa-ni-en Gốt-li-ép"
+    ],
+    [
+     "Hãy cầm lấy và đọc",
+     "Huỳnh Như Phương"
+    ],
+    [
+     "Nói với con",
+     "Y Phương"
+    ],
+    [
+     "Câu chuyện về con đường (Thực hành đọc)",
+     "Đoàn Công Lê Huy"
+    ]
+   ],
+   "why": "Đây là các văn bản của Bài 8 – Trải nghiệm để trưởng thành (SGK tập hai, tr.56, 61, 65, 74)."
+  },
+  {
+   "id": "8b",
+   "bai": 3,
+   "tag": "tg",
+   "type": "mc",
+   "q": "“Bản đồ dẫn đường” được trích từ tác phẩm nào?",
+   "opts": [
+    "Những bức thư gửi cháu Sam",
+    "Nóng, Phẳng, Chật",
+    "Lan Trì kiến văn lục",
+    "Thiên Mã"
+   ],
+   "a": 0,
+   "why": "Văn bản là lá thư “ông ngoại” gửi “cháu Sam”, trích từ Những bức thư gửi cháu Sam (SGK tr.58).",
+   "wrong": [
+    null,
+    "Nóng, Phẳng, Chật là sách của Phrít-man (Bài 9).",
+    "Lan Trì kiến văn lục có truyện “Con hổ có nghĩa” (Bài 6).",
+    "Thiên Mã là tiểu thuyết khoa học viễn tưởng (Bài 7)."
+   ]
+  },
+  {
+   "id": "8c",
+   "bai": 3,
+   "tag": "tg",
+   "type": "mc",
+   "q": "Nhà thơ Y Phương quê ở đâu?",
+   "opts": [
+    "Cao Bằng",
+    "Hà Nội",
+    "Quảng Bình",
+    "Cà Mau"
+   ],
+   "a": 0,
+   "why": "Chú thích SGK (tr.65): Y Phương (1948 – 2022) quê ở Cao Bằng; Nói với con in trong tập thơ cùng tên (1980).",
+   "wrong": [
+    null,
+    "Chú thích nêu quê ở Cao Bằng.",
+    "Chú thích nêu quê ở Cao Bằng.",
+    "Chú thích nêu quê ở Cao Bằng."
+   ]
+  },
+  {
+   "id": "8d",
+   "bai": 3,
+   "tag": "tg",
+   "type": "mc",
+   "q": "Theo Tri thức ngữ văn, sức thuyết phục của văn bản nghị luận phụ thuộc chủ yếu vào điều gì?",
+   "opts": [
+    "Việc dùng lí lẽ và bằng chứng",
+    "Việc dùng nhiều từ khó",
+    "Độ dài của văn bản",
+    "Số lượng nhân vật"
+   ],
+   "a": 0,
+   "why": "SGK (tr.55): sức thuyết phục của ý kiến phụ thuộc vào việc dùng lí lẽ và bằng chứng.",
+   "wrong": [
+    null,
+    "Từ khó không làm bài thuyết phục hơn.",
+    "Dài không có nghĩa là thuyết phục.",
+    "Văn nghị luận không cần nhiều nhân vật."
+   ]
+  },
+  {
+   "id": "8e",
+   "bai": 3,
+   "tag": "tg",
+   "type": "mc",
+   "q": "Mối quan hệ giữa ý kiến, lí lẽ, bằng chứng trong văn bản nghị luận là:",
+   "opts": [
+    "Mỗi ý kiến được làm rõ bằng lí lẽ, mỗi lí lẽ được củng cố bằng bằng chứng",
+    "Chỉ cần có ý kiến, không cần lí lẽ",
+    "Bằng chứng nêu trước, ý kiến không cần thiết",
+    "Ba yếu tố tách rời nhau"
+   ],
+   "a": 0,
+   "why": "SGK (tr.55): mỗi ý kiến thường được làm rõ bằng một số lí lẽ, mỗi lí lẽ được củng cố bởi một số bằng chứng, tạo thành hệ thống chặt chẽ.",
+   "wrong": [
+    null,
+    "Không có lí lẽ thì ý kiến không thuyết phục.",
+    "Ý kiến là trung tâm của bài nghị luận.",
+    "Các yếu tố phải liên hệ chặt chẽ với nhau."
+   ]
+  },
+  {
+   "id": "8f",
+   "bai": 3,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Trong “Bản đồ dẫn đường”, tác giả mở đầu bằng cách nào?",
+   "opts": [
+    "Kể lại câu chuyện có tính chất ngụ ngôn về người đàn ông đi tìm chìa khoá",
+    "Tả cảnh thiên nhiên",
+    "Nêu số liệu thống kê",
+    "Đọc một bài thơ"
+   ],
+   "a": 0,
+   "why": "SGK (tr.58) hỏi về tác dụng của cách mở đầu bằng câu chuyện có tính chất ngụ ngôn; từ cách tìm chìa khoá kì khôi của người đàn ông, ông liên hệ tới vấn đề tìm “tấm bản đồ” cho đời mình.",
+   "wrong": [
+    null,
+    "Văn bản không bắt đầu bằng tả cảnh.",
+    "Văn bản không bắt đầu bằng số liệu.",
+    "Văn bản không bắt đầu bằng thơ."
+   ],
+   "pid": "s8a",
+   "muc": "biet"
+  },
+  {
+   "id": "8g",
+   "bai": 3,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Hình ảnh “tấm bản đồ” trong văn bản có nghĩa ẩn dụ là gì?",
+   "opts": [
+    "Định hướng, con đường và lẽ sống của mỗi người trong cuộc đời",
+    "Một tờ giấy vẽ đường đi thật",
+    "Tên một thành phố",
+    "Một món quà"
+   ],
+   "a": 0,
+   "why": "SGK (tr.58–59) hỏi về hai khía cạnh của hình ảnh ẩn dụ “tấm bản đồ”: đó là những chỉ dẫn, định hướng cho con đường đi tới tương lai của mỗi người.",
+   "wrong": [
+    null,
+    "Đây là ẩn dụ, không phải bản đồ thật.",
+    "Không phải tên thành phố.",
+    "Không phải món quà."
+   ],
+   "pid": "s8a",
+   "muc": "hieu"
+  },
+  {
+   "id": "8h",
+   "bai": 3,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Lời khuyên của “ông” dành cho “cháu” ở cuối văn bản “Bản đồ dẫn đường” là gì?",
+   "opts": [
+    "Hãy tự tìm và vẽ tấm bản đồ cho riêng mình bằng chính kinh nghiệm của mình",
+    "Hãy giống hệt bố mẹ",
+    "Hãy chỉ đi theo con đường có sẵn",
+    "Đừng bao giờ tìm kiếm"
+   ],
+   "a": 0,
+   "why": "SGK (tr.58): cháu cần tìm kiếm bản đồ cho chính mình; không nhất thiết là bản đồ được trao sẵn hay giống hệt bố mẹ, mà là bản đồ tự vẽ bằng kinh nghiệm của mình.",
+   "wrong": [
+    null,
+    "Ông khuyên không cần giống hệt bố mẹ.",
+    "Ông không khuyên đi theo con đường có sẵn.",
+    "Ông khuyên cháu sẵn sàng tìm kiếm."
+   ],
+   "pid": "s8a",
+   "muc": "hieu"
+  },
+  {
+   "id": "8i",
+   "bai": 3,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Văn bản “Hãy cầm lấy và đọc” tập trung bàn về vấn đề gì?",
+   "opts": [
+    "Ý nghĩa của việc đọc sách và văn hoá đọc",
+    "Cách trồng cây ăn quả",
+    "Luật lệ của một trò chơi",
+    "Công nghệ vũ trụ"
+   ],
+   "a": 0,
+   "why": "Văn bản bàn về đọc sách, văn hoá đọc: thông điệp “Hãy cầm lấy và đọc” (Tolle, lege) và tình trạng sa sút văn hoá đọc (SGK tr.61–63).",
+   "wrong": [
+    null,
+    "Văn bản không nói về trồng cây.",
+    "Luật chơi thuộc Bài 9.",
+    "Công nghệ vũ trụ thuộc Bài 7."
+   ],
+   "pid": "s8b",
+   "muc": "biet"
+  },
+  {
+   "id": "8j",
+   "bai": 3,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Theo tác giả, muốn giải quyết sự sa sút của văn hoá đọc cần tính đến những phương diện nào?",
+   "opts": [
+    "Cả chủ thể đọc và đối tượng đọc: có người ham đọc và có sách hay để đọc",
+    "Chỉ cần in thật nhiều sách",
+    "Chỉ cần cấm xem tivi",
+    "Chỉ cần mua sách đắt tiền"
+   ],
+   "a": 0,
+   "why": "SGK (tr.63): phải tính cả hai phương diện, chủ thể đọc và đối tượng đọc, hai điều này tác động qua lại với nhau.",
+   "wrong": [
+    null,
+    "Chưa đủ: nếu sách dở người đọc vẫn hờ hững.",
+    "Văn bản không đề nghị cấm xem tivi.",
+    "Văn bản không nói tới sách đắt tiền."
+   ],
+   "pid": "s8b",
+   "muc": "hieu"
+  },
+  {
+   "id": "8k",
+   "bai": 3,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Theo tác giả, sách sinh ra để làm gì?",
+   "opts": [
+    "Để được đọc, “lần giở trước đèn”, không phải để trưng bày, khoe của hay làm dáng",
+    "Để trưng bày trong tủ kính",
+    "Để khoe với bạn bè",
+    "Để làm đồ cổ"
+   ],
+   "a": 0,
+   "why": "SGK (tr.63): Sách sinh ra không phải để được trưng bày, khoe của hay làm dáng, cũng không nên trở thành cổ vật rêu phong; sách là để “lần giở trước đèn”.",
+   "wrong": [
+    null,
+    "Tác giả phê phán việc chỉ trưng bày sách.",
+    "Tác giả phê phán việc khoe của.",
+    "Tác giả không muốn sách thành cổ vật."
+   ],
+   "pid": "s8b",
+   "muc": "biet"
+  },
+  {
+   "id": "8l",
+   "bai": 3,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Trong bài thơ “Nói với con”, “người đồng mình” có nghĩa là gì?",
+   "opts": [
+    "Người cùng vùng, cùng quê hương mình",
+    "Người cùng tuổi",
+    "Người cùng lớp",
+    "Người nước ngoài"
+   ],
+   "a": 0,
+   "why": "Chú thích SGK (tr.65): người đồng mình là người vùng mình, người quê mình.",
+   "wrong": [
+    null,
+    "Chú thích không nói là cùng tuổi.",
+    "Không phải là cùng lớp.",
+    "Không phải người nước ngoài."
+   ],
+   "pid": "s8c",
+   "muc": "biet"
+  },
+  {
+   "id": "8m",
+   "bai": 3,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Hai câu “Sống trên đá không chê đá gập ghềnh / Sống trong thung không chê thung nghèo đói” gửi gắm điều gì?",
+   "opts": [
+    "Hãy gắn bó, yêu quê hương dù còn gian khó, không chê bai",
+    "Hãy bỏ quê hương mà đi",
+    "Hãy than phiền về cuộc sống",
+    "Hãy sống xa người thân"
+   ],
+   "a": 0,
+   "why": "Người cha dặn con sống gắn bó, yêu thương quê hương dù còn gập ghềnh, nghèo đói; sống mạnh mẽ như sông như suối (tr.66).",
+   "wrong": [
+    null,
+    "Bài thơ khuyên gắn bó với quê hương.",
+    "Bài thơ không khuyên than phiền.",
+    "Bài thơ ca ngợi tình cảm gia đình, quê hương."
+   ],
+   "pid": "s8c",
+   "muc": "hieu"
+  },
+  {
+   "id": "8n",
+   "bai": 3,
+   "tag": "doc",
+   "type": "short",
+   "q": "Em hiểu thế nào về câu thơ “Người đồng mình thô sơ da thịt / Chẳng mấy ai nhỏ bé đâu con”? (1–2 câu)",
+   "goi": "Gợi ý: Câu thơ cho thấy người đồng mình bề ngoài … nhưng …",
+   "mau": "Câu thơ cho thấy người đồng mình bề ngoài giản dị, mộc mạc nhưng có ý chí và nghị lực lớn lao, không hề nhỏ bé. Người cha muốn con tự hào về quê hương và sống mạnh mẽ.",
+   "y": [
+    "Nêu được vẻ ngoài mộc mạc, giản dị",
+    "Nêu được sức sống, ý chí, tầm vóc tinh thần",
+    "Câu văn rõ ràng, đủ ý"
+   ],
+   "pid": "s8c",
+   "muc": "vd"
+  },
+  {
+   "id": "8o",
+   "bai": 3,
+   "tag": "doc",
+   "type": "evid",
+   "pid": "d8",
+   "muc": "biet",
+   "q": "Gạch chân (chạm vào) câu nêu rõ Ý KIẾN CỦA NGƯỜI VIẾT (phản đối quan niệm).",
+   "ans": [
+    1
+   ],
+   "why": "Câu 2: “Tôi không đồng tình với ý kiến đó.” Đây là câu bày tỏ thái độ phản đối của người viết."
+  },
+  {
+   "id": "8p",
+   "bai": 3,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Trong đoạn trên, câu “Chẳng hạn, Lan từng chép bài toán của bạn, nhưng khi cô giáo gọi lên bảng, Lan không giải được.” là:",
+   "opts": [
+    "Bằng chứng cụ thể cho lí lẽ ở câu trước",
+    "Lí lẽ chính của cả đoạn",
+    "Ý kiến cần phản đối",
+    "Câu kết bài"
+   ],
+   "a": 0,
+   "why": "Câu này nêu một ví dụ cụ thể (Lan chép bài rồi không giải được) để làm rõ lí lẽ: chép bài khiến ta không hiểu bài.",
+   "wrong": [
+    null,
+    "Lí lẽ chính là câu 3.",
+    "Ý kiến cần phản đối là câu 1.",
+    "Câu kết bài là câu cuối."
+   ],
+   "pid": "d8",
+   "muc": "hieu"
+  },
+  {
+   "id": "8q",
+   "bai": 3,
+   "tag": "doc",
+   "type": "evid",
+   "pid": "d8",
+   "muc": "hieu",
+   "q": "Gạch chân (chạm vào) những câu nêu LÍ LẼ để phản đối việc chép bài.",
+   "ans": [
+    2,
+    4
+   ],
+   "why": "Câu 3: chép bài khiến ta không hiểu bài. Câu 5: chép bài là thiếu trung thực, làm mất lòng tin. Hai câu đều giải thích vì sao không nên chép bài."
+  },
+  {
+   "id": "8r",
+   "bai": 3,
+   "tag": "doc",
+   "type": "short",
+   "q": "Em hãy nêu thêm MỘT lí lẽ khác để phản đối việc chép bài của bạn. (1–2 câu)",
+   "goi": "Gợi ý: Ngoài ra, chép bài còn … vì …",
+   "mau": "Ngoài ra, chép bài còn làm ta mất thói quen tự suy nghĩ vì cứ dựa vào người khác, lâu dần sẽ càng khó tự học và khó tiến bộ.",
+   "y": [
+    "Nêu một lí lẽ mới, khác các lí lẽ đã có",
+    "Giải thích được vì sao",
+    "Câu văn rõ ràng, đủ ý"
+   ],
+   "pid": "d8",
+   "muc": "vd"
+  },
+  {
+   "id": "8s",
+   "bai": 3,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Thuật ngữ là gì?",
+   "opts": [
+    "Từ ngữ dùng để chỉ các khái niệm của một số lĩnh vực chuyên môn hoặc ngành khoa học",
+    "Câu đúc kết kinh nghiệm dân gian",
+    "Cụm từ có nghĩa bóng bẩy",
+    "Từ chỉ cảm xúc"
+   ],
+   "a": 0,
+   "why": "SGK (tr.55): thuật ngữ là từ ngữ dùng để chỉ các khái niệm của một số lĩnh vực chuyên môn hoặc ngành khoa học.",
+   "wrong": [
+    null,
+    "Đó là tục ngữ.",
+    "Đó là thành ngữ.",
+    "Đó là thán từ."
+   ]
+  },
+  {
+   "id": "8t",
+   "bai": 3,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Nghĩa của thuật ngữ có đặc điểm gì?",
+   "opts": [
+    "Là nghĩa quy ước trong phạm vi hẹp của lĩnh vực chuyên môn hoặc khoa học",
+    "Là nghĩa thay đổi tuỳ người nói",
+    "Là nghĩa bóng bẩy",
+    "Là nghĩa dùng để gây cười"
+   ],
+   "a": 0,
+   "why": "SGK (tr.55): nghĩa của thuật ngữ là nghĩa quy ước trong phạm vi hẹp của lĩnh vực chuyên môn hoặc khoa học chuyên ngành.",
+   "wrong": [
+    null,
+    "Thuật ngữ cần chính xác, không thay đổi tuỳ người.",
+    "Nghĩa bóng bẩy là của thành ngữ.",
+    "Gây cười là tác dụng của nói quá."
+   ]
+  },
+  {
+   "id": "8u",
+   "bai": 3,
+   "tag": "tv",
+   "type": "sort",
+   "q": "Từ in đậm là THUẬT NGỮ hay từ ngữ THÔNG THƯỜNG?",
+   "bins": [
+    "Thuật ngữ",
+    "Từ ngữ thông thường"
+   ],
+   "items": [
+    [
+     "Muối là hợp chất mà phân tử gồm nguyên tử kim loại liên kết với gốc acid.",
+     0
+    ],
+    [
+     "Canh còn hơi nhạt, con thêm tí muối nữa đi.",
+     1
+    ],
+    [
+     "Ẩn số của phương trình này là một số thập phân.",
+     0
+    ],
+    [
+     "Liệu con vi-rút này có biến thể khác hay không vẫn còn là một ẩn số.",
+     1
+    ]
+   ],
+   "why": "SGK (tr.64–65): muốn biết một từ có phải thuật ngữ hay không phải dựa vào ngữ cảnh. Trong hoá học, “muối” là thuật ngữ; trong nấu ăn, “muối” là từ thông thường. Tương tự với “ẩn số”."
+  },
+  {
+   "id": "8v",
+   "bai": 3,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Muốn hiểu nghĩa của một thuật ngữ, cách làm nào đáng tin cậy nhất?",
+   "opts": [
+    "Tra Bảng thuật ngữ sau sách hoặc từ điển chuyên ngành",
+    "Đoán nghĩa theo cảm giác",
+    "Ghép nghĩa từng yếu tố tạo thành",
+    "Hỏi bất kì người nào"
+   ],
+   "a": 0,
+   "why": "SGK (tr.64): suy đoán nghĩa dựa vào ngữ cảnh hay ghép nghĩa từng yếu tố rất dễ sai; nên tìm đến Bảng tra cứu thuật ngữ hoặc từ điển chuyên ngành.",
+   "wrong": [
+    null,
+    "Đoán theo cảm giác dễ sai.",
+    "Ghép nghĩa từng yếu tố dễ dẫn tới hiểu sai.",
+    "Cần nguồn đáng tin cậy."
+   ]
+  },
+  {
+   "id": "8w",
+   "bai": 3,
+   "tag": "tv",
+   "type": "match",
+   "q": "Ghép phép liên kết với cách thực hiện.",
+   "pairs": [
+    [
+     "Phép nối",
+     "Dùng từ ngữ nối như nhưng, vì vậy, tuy nhiên"
+    ],
+    [
+     "Phép thế",
+     "Dùng đại từ hoặc từ ngữ đồng nghĩa thay cho từ ngữ ở câu trước"
+    ],
+    [
+     "Phép lặp",
+     "Lặp lại từ ngữ đã có ở câu trước hoặc đoạn trước"
+    ]
+   ],
+   "why": "SGK (tr.55): các biện pháp liên kết gồm phép nối, phép thế, phép lặp,… gắn với những phương tiện (từ ngữ) liên kết cụ thể."
+  },
+  {
+   "id": "8x",
+   "bai": 3,
+   "tag": "viet",
+   "type": "mc",
+   "q": "Bài văn nghị luận trình bày ý kiến phản đối cần có yêu cầu nào?",
+   "opts": [
+    "Nêu vấn đề, làm rõ thực chất, trình bày rõ ý kiến phản đối, có lí lẽ và bằng chứng",
+    "Chỉ chê bai người khác",
+    "Chỉ kể một câu chuyện",
+    "Chỉ liệt kê tên các bạn"
+   ],
+   "a": 0,
+   "why": "SGK (tr.67): nêu được vấn đề và làm rõ thực chất; trình bày rõ ý kiến phản đối; đưa lí lẽ và bằng chứng để chứng tỏ sự phản đối có cơ sở.",
+   "wrong": [
+    null,
+    "Phản đối phải có lí lẽ, không phải chê bai.",
+    "Bài nghị luận không chỉ kể chuyện.",
+    "Không có yêu cầu này."
+   ]
+  },
+  {
+   "id": "8y",
+   "bai": 3,
+   "tag": "viet",
+   "type": "order",
+   "q": "Sắp xếp dàn ý bài văn nghị luận phản đối cho đúng trật tự.",
+   "items": [
+    "Mở bài: nêu vấn đề nghị luận và bày tỏ ý kiến phản đối",
+    "Thân bài: trình bày thực chất của ý kiến, quan niệm cần bàn",
+    "Thân bài: phản đối các khía cạnh của quan niệm (lí lẽ, bằng chứng)",
+    "Thân bài: nhận xét tác động tiêu cực của quan niệm đối với đời sống",
+    "Kết bài: nêu ý nghĩa của việc thể hiện ý kiến phản đối"
+   ],
+   "why": "Dàn ý theo SGK (tr.70)."
+  },
+  {
+   "id": "8z",
+   "bai": 3,
+   "tag": "viet",
+   "type": "mc",
+   "q": "Trong bài “Việc lớn, việc nhỏ”, quan niệm nào bị phản đối?",
+   "opts": [
+    "“Tôi chỉ làm việc lớn, việc nhỏ là việc vô nghĩa, tôi không thích làm.”",
+    "“Mọi việc, dù nhỏ, đều đáng làm.”",
+    "“Học tập là việc lớn nhất của học sinh.”",
+    "“Phải biết quý trọng thời gian.”"
+   ],
+   "a": 0,
+   "why": "SGK (tr.67–69): người viết phản đối quan niệm chỉ làm việc lớn, coi việc nhỏ là vô nghĩa.",
+   "wrong": [
+    null,
+    "Đây là quan điểm của người viết, không bị phản đối.",
+    "Đây là ý trong bài nhưng không phải quan niệm bị phản đối.",
+    "Bài không bàn về vấn đề này."
+   ]
+  },
+  {
+   "id": "8za",
+   "bai": 3,
+   "tag": "viet",
+   "type": "mc",
+   "q": "Trong bài “Việc lớn, việc nhỏ”, người viết dùng chuyện nào làm bằng chứng cho việc nhỏ cũng có ý nghĩa lớn?",
+   "opts": [
+    "Chuyện ông Ni-nô-mi-gia, doanh nhân Nhật Bản, sáng Chủ nhật nhặt rác làm sạch Hồ Gươm",
+    "Chuyện Sơn Tinh, Thuỷ Tinh",
+    "Chuyện Ê-đi-xơn phát minh bóng đèn",
+    "Chuyện người thợ mộc đẽo cày"
+   ],
+   "a": 0,
+   "why": "SGK (tr.68): việc làm của ông Ni-nô-mi-gia có sức lan toả; từ một người, sau có thêm hơn chục người nước ngoài cùng nhặt rác.",
+   "wrong": [
+    null,
+    "Đó là truyền thuyết, không có trong bài này.",
+    "Đó là bằng chứng của bài Bài 7.",
+    "Đó là truyện ngụ ngôn ở Bài 6."
+   ]
+  },
+  {
+   "id": "8zb",
+   "bai": 3,
+   "tag": "viet",
+   "type": "mc",
+   "q": "Ở phần Thân bài, người viết cần TRÁNH điều gì?",
+   "opts": [
+    "Viết kể lể, rườm rà",
+    "Triển khai mỗi ý thành một đoạn riêng",
+    "Dùng bằng chứng cụ thể",
+    "Liên kết chặt chẽ các câu, các đoạn"
+   ],
+   "a": 0,
+   "why": "SGK (tr.71): các ý chính trình bày rành mạch, mỗi ý một đoạn; chú ý mạch văn trôi chảy, liên kết chặt chẽ; tránh cách viết kể lể, rườm rà.",
+   "wrong": [
+    null,
+    "Nên làm như vậy.",
+    "Nên làm như vậy.",
+    "Nên làm như vậy."
+   ]
+  },
+  {
+   "id": "8zc",
+   "bai": 3,
+   "tag": "viet",
+   "type": "short",
+   "q": "Viết 2 câu Mở bài nêu vấn đề và bày tỏ ý kiến PHẢN ĐỐI với quan niệm: “Có thể bỏ qua một số môn, chỉ nên học những môn mình yêu thích.”",
+   "goi": "Gợi ý: Câu 1 nêu quan niệm cần bàn. Câu 2 cho biết em không đồng tình và nói ngắn gọn lí do.",
+   "mau": "Có bạn cho rằng chỉ nên học những môn mình yêu thích, còn môn khác có thể bỏ qua. Em hoàn toàn không đồng tình với quan niệm này vì mỗi môn học đều góp phần làm nên hiểu biết toàn diện của chúng ta.",
+   "y": [
+    "Nêu đúng vấn đề, quan niệm cần bàn",
+    "Nói rõ thái độ phản đối",
+    "Hai câu rõ ràng, đúng chính tả"
+   ]
+  },
+  {
+   "id": "8n1",
+   "bai": 3,
+   "tag": "noi",
+   "type": "mc",
+   "q": "Khi người nghe phản bác ý kiến của em, em nên làm gì?",
+   "opts": [
+    "Tóm tắt ý kiến phản bác, giải thích lại chỗ chưa hiểu và dùng lí lẽ, bằng chứng để bảo vệ ý kiến",
+    "Im lặng bỏ đi",
+    "Tranh cãi to tiếng",
+    "Đổi ý kiến ngay không cần suy nghĩ"
+   ],
+   "a": 0,
+   "why": "SGK (tr.72): người nói tóm tắt ý kiến trao đổi, giải thích lại chỗ người nghe chưa hiểu, dùng lí lẽ và bằng chứng làm rõ tính đúng đắn của ý kiến.",
+   "wrong": [
+    null,
+    "Cần trả lời ý kiến của người nghe.",
+    "Tranh cãi to tiếng không giúp thuyết phục.",
+    "Cần xem lại, bảo vệ nếu thấy xác đáng."
+   ]
+  },
+  {
+   "id": "8n2",
+   "bai": 3,
+   "tag": "noi",
+   "type": "mc",
+   "q": "Người nghe nên nêu ý kiến trao đổi như thế nào?",
+   "opts": [
+    "Ngắn gọn, rõ ràng, bằng câu khẳng định hoặc câu hỏi",
+    "Dài dòng, vòng vo",
+    "Chỉ cười, không nói",
+    "Nói về chuyện khác"
+   ],
+   "a": 0,
+   "why": "SGK (tr.72): ý kiến cần trình bày ngắn gọn, rõ ràng, bằng câu khẳng định hoặc câu hỏi.",
+   "wrong": [
+    null,
+    "Dài dòng làm loãng vấn đề.",
+    "Cần nêu ý kiến rõ.",
+    "Cần bám sát vấn đề đang bàn."
+   ]
+  },
+  {
+   "id": "9a",
+   "bai": 4,
+   "tag": "tg",
+   "type": "match",
+   "q": "Ghép văn bản với tác giả.",
+   "pairs": [
+    [
+     "Thuỷ tiên tháng Một",
+     "Thô-mát L. Phrít-man"
+    ],
+    [
+     "Lễ rửa làng của người Lô Lô",
+     "Phạm Thuỳ Dung"
+    ],
+    [
+     "Bản tin về hoa anh đào",
+     "Nguyễn Vĩnh Nguyên"
+    ],
+    [
+     "“Thân thiện với môi trường” (Thực hành đọc)",
+     "Nguyễn Hữu Quỳnh Hương"
+    ]
+   ],
+   "why": "Đây là các văn bản của Bài 9 – Hoà điệu với tự nhiên (SGK tập hai, tr.78, 84, 87, 98)."
+  },
+  {
+   "id": "9b",
+   "bai": 4,
+   "tag": "tg",
+   "type": "mc",
+   "q": "“Thuỷ tiên tháng Một” là một bài trong cuốn sách nào của Thô-mát L. Phrít-man?",
+   "opts": [
+    "Nóng, Phẳng, Chật",
+    "Chiếc Lếch-xót và cây ô-liu",
+    "Những bức thư gửi cháu Sam",
+    "Hai vạn dặm dưới biển"
+   ],
+   "a": 0,
+   "why": "Chú thích SGK (tr.82): Thuỷ tiên tháng Một nằm trong mục 5 (Sự bất thường của Trái Đất) của cuốn Nóng, Phẳng, Chật.",
+   "wrong": [
+    null,
+    "Đây là sách khác của cùng tác giả, không chứa văn bản này.",
+    "Đây là sách của Đa-ni-en Gốt-li-ép (Bài 8).",
+    "Đây là tiểu thuyết của Giuyn Véc-nơ (Bài 7)."
+   ]
+  },
+  {
+   "id": "9c",
+   "bai": 4,
+   "tag": "tg",
+   "type": "mc",
+   "q": "Thô-mát L. Phrít-man là ai?",
+   "opts": [
+    "Nhà báo người Mỹ, ba lần được trao giải Pu-lít-dơ",
+    "Nhà thơ Việt Nam",
+    "Nhà khoa học vũ trụ người Nga",
+    "Nhà thám hiểm hang động"
+   ],
+   "a": 0,
+   "why": "Theo chú thích SGK (tr.82): Thô-mát L. Phrít-man sinh năm 1953, nhà báo người Mỹ, ba lần được trao giải Pu-lít-dơ.",
+   "wrong": [
+    null,
+    "Ông là người Mỹ.",
+    "Ông là nhà báo, không phải nhà khoa học vũ trụ.",
+    "Nhà thám hiểm hang động trong Bài 7 là Hồ Khanh."
+   ]
+  },
+  {
+   "id": "9d",
+   "bai": 4,
+   "tag": "tg",
+   "type": "mc",
+   "q": "Văn bản “Bản tin về hoa anh đào” thuộc thể loại nào?",
+   "opts": [
+    "Tản văn",
+    "Truyện ngụ ngôn",
+    "Thơ năm chữ",
+    "Bản tường trình"
+   ],
+   "a": 0,
+   "why": "SGK (tr.89) gọi văn bản là “bài tản văn”; tác phẩm trích từ cuốn Với Đà Lạt ai cũng là lữ khách.",
+   "wrong": [
+    null,
+    "Truyện ngụ ngôn học ở Bài 6.",
+    "Văn bản viết văn xuôi, không phải thơ.",
+    "Tường trình là văn bản hành chính."
+   ]
+  },
+  {
+   "id": "9e",
+   "bai": 4,
+   "tag": "tg",
+   "type": "mc",
+   "q": "Theo Tri thức ngữ văn, văn bản giới thiệu quy tắc hoặc luật lệ trong trò chơi, hoạt động thuộc loại nào?",
+   "opts": [
+    "Văn bản thuyết minh, giúp người đọc tham gia hoặc đánh giá trò chơi, hoạt động ấy",
+    "Văn bản tự sự",
+    "Văn bản biểu cảm",
+    "Văn bản nghị luận"
+   ],
+   "a": 0,
+   "why": "SGK (tr.77): đây là loại văn bản thuyết minh nói về đặc điểm của một trò chơi hay hoạt động, giúp người đọc tham gia, thưởng thức hay đánh giá trò chơi, hoạt động ấy một cách thuận lợi.",
+   "wrong": [
+    null,
+    "Văn bản này không chủ yếu kể chuyện.",
+    "Văn bản này không chủ yếu bộc lộ cảm xúc.",
+    "Văn bản này không chủ yếu bàn luận ý kiến."
+   ]
+  },
+  {
+   "id": "9f",
+   "bai": 4,
+   "tag": "tg",
+   "type": "mc",
+   "q": "Văn bản giới thiệu quy tắc, luật lệ của trò chơi thường trình bày như thế nào?",
+   "opts": [
+    "Chi tiết về cách chơi, cách tổ chức, bằng câu ngắn gọn, dễ hiểu, có thể kèm hình minh hoạ",
+    "Bằng thơ lục bát",
+    "Bằng lời kể dài dòng",
+    "Chỉ bằng ảnh, không có chữ"
+   ],
+   "a": 0,
+   "why": "SGK (tr.77): văn bản trình bày chi tiết cách chơi, cách tổ chức (thời gian, địa điểm, số lượng người, điều kiện…) bằng câu ngắn gọn, dễ hiểu, có thể kèm hình vẽ hoặc ảnh minh hoạ.",
+   "wrong": [
+    null,
+    "Loại văn bản này không dùng thơ lục bát.",
+    "Câu cần ngắn gọn, dễ hiểu.",
+    "Có chữ là phương tiện chính."
+   ]
+  },
+  {
+   "id": "9g",
+   "bai": 4,
+   "tag": "tg",
+   "type": "mc",
+   "q": "Có những cách triển khai ý tưởng và thông tin nào trong văn bản thông tin?",
+   "opts": [
+    "Theo trật tự thời gian, theo quan hệ nhân quả, nêu nhiều góc nhìn, trình bày từng bộ phận",
+    "Chỉ một cách duy nhất",
+    "Chỉ kể ngẫu nhiên",
+    "Chỉ liệt kê tên riêng"
+   ],
+   "a": 0,
+   "why": "SGK (tr.77): có nhiều cách triển khai, như theo thời gian, nhân quả, đưa nhiều góc nhìn, hoặc lần lượt từng bộ phận rồi nêu nhận định bao trùm.",
+   "wrong": [
+    null,
+    "SGK nêu nhiều cách.",
+    "Triển khai cần có trật tự.",
+    "Không chỉ liệt kê tên riêng."
+   ]
+  },
+  {
+   "id": "9h",
+   "bai": 4,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Nhan đề “Thuỷ tiên tháng Một” gợi điều gì về nội dung văn bản?",
+   "opts": [
+    "Hoa thuỷ tiên nở vào tháng Một là biểu hiện của sự bất thường của thời tiết, khí hậu",
+    "Một loài hoa đẹp ở Tết",
+    "Công thức trồng hoa",
+    "Một lễ hội mùa xuân"
+   ],
+   "a": 0,
+   "why": "Văn bản thuộc mục “Sự bất thường của Trái Đất”; hoa nở sớm giữa mùa đông là chi tiết gợi sự biến đổi của thời tiết (SGK tr.82, câu hỏi 2–3).",
+   "wrong": [
+    null,
+    "Văn bản không nói về Tết.",
+    "Văn bản không hướng dẫn trồng hoa.",
+    "Văn bản không nói về lễ hội."
+   ],
+   "pid": "s9a",
+   "muc": "hieu"
+  },
+  {
+   "id": "9i",
+   "bai": 4,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Việc tác giả đưa nhiều số liệu và ghi tài liệu tham khảo trong “Thuỷ tiên tháng Một” có tác dụng gì?",
+   "opts": [
+    "Tăng độ tin cậy, tính xác thực và sức thuyết phục của thông tin",
+    "Làm văn bản khó đọc hơn",
+    "Chỉ để trang trí",
+    "Để người đọc sao chép"
+   ],
+   "a": 0,
+   "why": "SGK (tr.77, 82): tài liệu tham khảo giúp người đọc nhận định bước đầu về độ tin cậy của thông tin; số liệu làm vấn đề thêm rõ ràng, thuyết phục.",
+   "wrong": [
+    null,
+    "Mục đích là làm rõ, không phải gây khó.",
+    "Số liệu có vai trò chứng minh.",
+    "Mục đích không phải để sao chép."
+   ],
+   "pid": "s9a",
+   "muc": "vd"
+  },
+  {
+   "id": "9j",
+   "bai": 4,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Lễ rửa làng của người Lô Lô thường được tổ chức vào lúc nào?",
+   "opts": [
+    "Khi xong xuôi mùa vụ, vào một ngày đẹp trời",
+    "Giữa mùa lũ",
+    "Vào đêm giao thừa",
+    "Chỉ vào ngày mưa"
+   ],
+   "a": 0,
+   "why": "Đoạn đầu văn bản (tr.84): khi xong xuôi mùa vụ, người Lô Lô nghĩ tới việc tổ chức lễ rửa làng vào một ngày đẹp trời, với ước vọng tốt lành cho cuộc sống ấm no.",
+   "wrong": [
+    null,
+    "Văn bản không nói giữa mùa lũ.",
+    "Văn bản không nói tới đêm giao thừa.",
+    "Văn bản nói ngày đẹp trời."
+   ],
+   "pid": "s9b",
+   "muc": "biet"
+  },
+  {
+   "id": "9k",
+   "bai": 4,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Văn bản “Lễ rửa làng của người Lô Lô” có mục đích gì?",
+   "opts": [
+    "Giới thiệu thông tin về lễ hội và những quy tắc, hoạt động trong ngày lễ",
+    "Kể một truyện cổ tích",
+    "Bàn luận ý kiến phản đối",
+    "Quảng cáo một sản phẩm"
+   ],
+   "a": 0,
+   "why": "SGK (tr.87) hỏi về mục đích của tác giả: văn bản giới thiệu lễ rửa làng, nêu các hoạt động, luật lệ và ý nghĩa của lễ hội.",
+   "wrong": [
+    null,
+    "Văn bản không phải truyện cổ tích.",
+    "Văn bản không phản đối ý kiến nào.",
+    "Văn bản không quảng cáo."
+   ],
+   "pid": "s9b",
+   "muc": "hieu"
+  },
+  {
+   "id": "9l",
+   "bai": 4,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Qua “Lễ rửa làng”, em thấy giá trị sống nào của người Lô Lô được thể hiện?",
+   "opts": [
+    "Gắn bó cộng đồng, ước vọng bình yên, ấm no và sống hài hoà với thiên nhiên",
+    "Đề cao sự giàu có",
+    "Tránh gặp gỡ người khác",
+    "Chỉ làm việc một mình"
+   ],
+   "a": 0,
+   "why": "Lễ hội diễn ra khi xong mùa vụ với ước vọng tốt lành, no ấm; các hoạt động nhấn mạnh tính cộng đồng (SGK tr.87, câu hỏi 4).",
+   "wrong": [
+    null,
+    "Văn bản không nhấn mạnh sự giàu có.",
+    "Lễ hội là dịp tụ họp cộng đồng.",
+    "Hoạt động mang tính cộng đồng."
+   ],
+   "pid": "s9b",
+   "muc": "vd"
+  },
+  {
+   "id": "9m",
+   "bai": 4,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Trong “Bản tin về hoa anh đào”, người bạn nhà báo của tác giả đã viết điều gì đều đặn hằng năm?",
+   "opts": [
+    "Những bản tin nhỏ về hoa anh đào khi Đà Lạt giao mùa đông – xuân",
+    "Phóng sự điều tra về giá cả",
+    "Bài thơ về mùa thu",
+    "Tin thể thao"
+   ],
+   "a": 0,
+   "why": "Đoạn đầu văn bản (tr.87): bên cạnh phóng sự, kí sự, anh còn viết những bản tin nhỏ về hoa anh đào đều đặn mỗi năm khi Đà Lạt giao mùa đông – xuân.",
+   "wrong": [
+    null,
+    "Văn bản nhắc phóng sự nhưng điều đáng nể phục là bản tin hoa.",
+    "Văn bản không nhắc tới thơ mùa thu.",
+    "Văn bản không nhắc tới tin thể thao."
+   ],
+   "pid": "s9c",
+   "muc": "biet"
+  },
+  {
+   "id": "9n",
+   "bai": 4,
+   "tag": "doc",
+   "type": "short",
+   "q": "Theo em, tác giả muốn gửi gắm thông điệp gì qua “Bản tin về hoa anh đào”? (1–2 câu)",
+   "goi": "Gợi ý: Tác giả muốn nhắc chúng ta … vì …",
+   "mau": "Tác giả muốn nhắc mỗi người biết trân trọng, nâng niu thiên nhiên, hoa cỏ như những “nhân vật” lặng lẽ làm nên vẻ đẹp cuộc sống; việc đưa tin về hoa cũng là cách làm cho con người sống hài hoà hơn với thiên nhiên.",
+   "y": [
+    "Nêu được thông điệp về trân trọng, nâng niu thiên nhiên",
+    "Gắn với chi tiết bản tin về hoa anh đào",
+    "Câu văn rõ ràng, đủ ý"
+   ],
+   "pid": "s9c",
+   "muc": "vd"
+  },
+  {
+   "id": "9o",
+   "bai": 4,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Mỗi đội chơi “Ném vòng” gồm bao nhiêu bạn?",
+   "opts": [
+    "Từ năm đến sáu bạn",
+    "Hai bạn",
+    "Mười bạn",
+    "Cả lớp"
+   ],
+   "a": 0,
+   "why": "Câu 1: “mỗi đội gồm từ năm đến sáu bạn”.",
+   "wrong": [
+    null,
+    "Không phải hai bạn.",
+    "Không phải mười bạn.",
+    "Không phải cả lớp."
+   ],
+   "pid": "d9",
+   "muc": "biet"
+  },
+  {
+   "id": "9p",
+   "bai": 4,
+   "tag": "doc",
+   "type": "evid",
+   "pid": "d9",
+   "muc": "hieu",
+   "q": "Gạch chân (chạm vào) những câu nêu LUẬT PHẠT và cách TÍNH THẮNG THUA.",
+   "ans": [
+    3,
+    4
+   ],
+   "why": "Câu 4: đứng chạm hoặc vượt vạch khi ném sẽ bị mất lượt (luật phạt). Câu 5: đội có tổng điểm cao nhất thắng (cách tính thắng thua)."
+  },
+  {
+   "id": "9q",
+   "bai": 4,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Câu cuối của đoạn có vai trò gì?",
+   "opts": [
+    "Nêu tác dụng của trò chơi",
+    "Nêu luật phạt",
+    "Giới thiệu dụng cụ",
+    "Nêu số người chơi"
+   ],
+   "a": 0,
+   "why": "Câu cuối nói trò chơi rèn sự khéo léo, tính chính xác và tinh thần đồng đội: đó là tác dụng của trò chơi.",
+   "wrong": [
+    null,
+    "Luật phạt ở câu 4.",
+    "Dụng cụ ở câu 2.",
+    "Số người ở câu 1."
+   ],
+   "pid": "d9",
+   "muc": "hieu"
+  },
+  {
+   "id": "9r",
+   "bai": 4,
+   "tag": "doc",
+   "type": "short",
+   "q": "Em hãy đề xuất thêm MỘT quy tắc cho trò chơi “Ném vòng” (1–2 câu).",
+   "goi": "Gợi ý: Ngoài ra, … (nêu điều mà người chơi phải làm hoặc không được làm).",
+   "mau": "Ngoài ra, các bạn trong đội phải ném theo thứ tự đã thống nhất từ đầu; bạn nào ném sai thứ tự thì lượt ném đó không được tính điểm.",
+   "y": [
+    "Quy tắc rõ ràng, hợp lí, không mâu thuẫn với luật đã có",
+    "Có điều kiện hoặc hệ quả cụ thể",
+    "Câu văn rõ ràng, đủ ý"
+   ],
+   "pid": "d9",
+   "muc": "vd"
+  },
+  {
+   "id": "9s",
+   "bai": 4,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Cước chú là gì?",
+   "opts": [
+    "Chú thích đặt ở chân trang hoặc cuối văn bản về từ ngữ khó hiểu hoặc nguồn của nội dung",
+    "Phần tóm tắt đặt ở đầu văn bản",
+    "Tên tác giả",
+    "Nhan đề của văn bản"
+   ],
+   "a": 0,
+   "why": "SGK (tr.77): cước chú là chú thích đặt ở chân trang hoặc cuối văn bản về một từ ngữ khó hiểu hay nội dung chưa quen, hoặc cho biết nguồn của văn bản, của yếu tố trong văn bản.",
+   "wrong": [
+    null,
+    "Cước chú không phải phần tóm tắt.",
+    "Tên tác giả không phải cước chú.",
+    "Nhan đề không phải cước chú."
+   ]
+  },
+  {
+   "id": "9t",
+   "bai": 4,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Một cước chú hoàn chỉnh gồm các thành phần nào?",
+   "opts": [
+    "Kí hiệu đánh dấu đối tượng; tên đối tượng; dấu hai chấm; nội dung giải thích",
+    "Chỉ có nội dung giải thích",
+    "Chỉ có số thứ tự",
+    "Tên người viết và ngày viết"
+   ],
+   "a": 0,
+   "why": "SGK (tr.83): cước chú gồm kí hiệu đánh dấu đối tượng, tên đối tượng được chú thích, dấu hai chấm, nội dung giải thích; thường đặt ở chân trang, ngắn gọn.",
+   "wrong": [
+    null,
+    "Thiếu kí hiệu và tên đối tượng.",
+    "Chỉ số thứ tự chưa đủ.",
+    "Đó không phải thành phần của cước chú."
+   ]
+  },
+  {
+   "id": "9u",
+   "bai": 4,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Danh mục tài liệu tham khảo thường được ghi ở đâu và giúp ích gì?",
+   "opts": [
+    "Ghi sau phần kết thúc văn bản; giúp người đọc đánh giá độ tin cậy của thông tin",
+    "Ghi ở đầu văn bản; để trang trí",
+    "Ghi giữa các câu; để ngắt ý",
+    "Không bao giờ ghi"
+   ],
+   "a": 0,
+   "why": "SGK (tr.77): tài liệu tham khảo thường ghi sau phần kết thúc văn bản, được đánh số, sắp xếp thống nhất; giúp người đọc nhận định bước đầu về độ tin cậy và giá trị chuyên môn của văn bản.",
+   "wrong": [
+    null,
+    "Thường ghi ở cuối, không phải đầu.",
+    "Không ghi xen giữa các câu.",
+    "Văn bản khoa học thường có danh mục tài liệu tham khảo."
+   ]
+  },
+  {
+   "id": "9v",
+   "bai": 4,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Từ “thuyết minh” gồm hai yếu tố Hán Việt nào, nghĩa của cả từ là gì?",
+   "opts": [
+    "thuyết (nói) + minh (rõ ràng, sáng sủa) → nói rõ ràng ra",
+    "thuyết (viết) + minh (đêm)",
+    "thuyết (nghe) + minh (tối)",
+    "thuyết (đi) + minh (xa)"
+   ],
+   "a": 0,
+   "why": "SGK (tr.90): thuyết liên quan tới hành động nói; minh liên quan tới sự rõ ràng, sáng sủa; thuyết minh là nói rõ ràng ra về một vấn đề nào đó.",
+   "wrong": [
+    null,
+    "“Thuyết” liên quan đến nói, không phải viết.",
+    "“Minh” liên quan đến sáng, rõ, không phải tối.",
+    "“Thuyết” không có nghĩa đi."
+   ]
+  },
+  {
+   "id": "9w",
+   "bai": 4,
+   "tag": "tv",
+   "type": "match",
+   "q": "Ghép yếu tố Hán Việt với nghĩa thường gặp.",
+   "pairs": [
+    [
+     "bản (trong bản sắc)",
+     "gốc, vốn có"
+    ],
+    [
+     "ưu (trong ưu tư)",
+     "lo lắng, buồn lo"
+    ],
+    [
+     "tư (trong ưu tư)",
+     "suy nghĩ"
+    ],
+    [
+     "thông (trong truyền thông)",
+     "suốt, thông suốt"
+    ]
+   ],
+   "why": "Gợi ý cách làm của SGK (tr.90): tập hợp các từ có cùng yếu tố để suy ra nghĩa của từng yếu tố. Ví dụ: bản chất, bản lĩnh, bản quán… cho thấy “bản” là gốc."
+  },
+  {
+   "id": "9x",
+   "bai": 4,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Cách suy đoán nhanh nghĩa của từ có yếu tố Hán Việt theo SGK là:",
+   "opts": [
+    "Tách từ thành các yếu tố, gom các từ đã biết có cùng yếu tố rồi suy ra nghĩa từng yếu tố",
+    "Chỉ đoán theo âm đọc",
+    "Bỏ qua yếu tố thứ hai",
+    "Luôn tra từ điển nước ngoài"
+   ],
+   "a": 0,
+   "why": "SGK (tr.90): tách từ thành các yếu tố; tập hợp những từ đã biết có chứa yếu tố đó và xếp nhóm; dựa vào nghĩa chung của từng nhóm để suy ra nghĩa yếu tố rồi nghĩa cả từ.",
+   "wrong": [
+    null,
+    "Đoán theo âm dễ sai.",
+    "Cần xét cả hai yếu tố.",
+    "SGK không yêu cầu như vậy."
+   ]
+  },
+  {
+   "id": "9y",
+   "bai": 4,
+   "tag": "viet",
+   "type": "mc",
+   "q": "Yêu cầu của bài văn thuyết minh về quy tắc hoặc luật lệ trong trò chơi, hoạt động là gì?",
+   "opts": [
+    "Giới thiệu thông tin cần thiết, miêu tả quy tắc hoặc luật lệ, nêu vai trò, tác dụng và ý nghĩa",
+    "Kể chuyện cá nhân",
+    "Phản đối một ý kiến",
+    "Phân tích nhân vật"
+   ],
+   "a": 0,
+   "why": "SGK (tr.91): giới thiệu thông tin cần thiết (hoàn cảnh diễn ra, đối tượng tham gia); miêu tả quy tắc, luật lệ; nêu vai trò, tác dụng; nêu ý nghĩa.",
+   "wrong": [
+    null,
+    "Đây không phải mục đích bài thuyết minh.",
+    "Đó là bài nghị luận phản đối.",
+    "Đó là bài phân tích nhân vật."
+   ]
+  },
+  {
+   "id": "9z",
+   "bai": 4,
+   "tag": "viet",
+   "type": "order",
+   "q": "Sắp xếp dàn ý bài văn thuyết minh quy tắc, luật lệ trò chơi.",
+   "items": [
+    "Mở bài: giới thiệu trò chơi (tên gọi, hoàn cảnh diễn ra, đối tượng tham gia)",
+    "Thân bài: miêu tả quy tắc hoặc luật lệ của trò chơi",
+    "Thân bài: nêu tác dụng của trò chơi",
+    "Kết bài: nêu ý nghĩa của trò chơi đối với cuộc sống"
+   ],
+   "why": "Dàn ý theo SGK (tr.94)."
+  },
+  {
+   "id": "9za",
+   "bai": 4,
+   "tag": "viet",
+   "type": "mc",
+   "q": "Trong bài tham khảo “Chơi chuyền”, bộ đồ chơi gồm những gì và số người tham gia thường là bao nhiêu?",
+   "opts": [
+    "10 que chuyền và một quả; thường từ 2 đến 6 người",
+    "20 quân cờ; 2 người",
+    "1 sợi dây; cả lớp",
+    "5 viên bi; 10 người"
+   ],
+   "a": 0,
+   "why": "SGK (tr.91): đồ chơi gồm 10 que nhỏ gọi là que chuyền và một quả tròn nặng; tham gia thường từ 2 đến 6 người.",
+   "wrong": [
+    null,
+    "Không phải bộ đồ chơi của chơi chuyền.",
+    "Không phải bộ đồ chơi của chơi chuyền.",
+    "Không phải bộ đồ chơi của chơi chuyền."
+   ]
+  },
+  {
+   "id": "9zb",
+   "bai": 4,
+   "tag": "viet",
+   "type": "mc",
+   "q": "Theo bài “Chơi chuyền”, trò chơi này có tác dụng gì?",
+   "opts": [
+    "Luyện sự khéo léo, nhanh tay nhanh mắt, tính toán trong phạm vi 10 và gắn kết người chơi",
+    "Rèn sức mạnh chạy đua",
+    "Chỉ để thắng thua",
+    "Chỉ để giải trí một mình"
+   ],
+   "a": 0,
+   "why": "SGK (tr.93): chơi chuyền luyện sự khéo léo, nhanh tay, nhanh mắt, khả năng tính toán trong phạm vi 10; gắn kết người chơi, củng cố tinh thần đồng đội.",
+   "wrong": [
+    null,
+    "Bài không nói đến chạy đua.",
+    "Bài nhấn mạnh sự gắn kết và hoà đồng.",
+    "Đây là trò chơi cùng nhau."
+   ]
+  },
+  {
+   "id": "9zc",
+   "bai": 4,
+   "tag": "viet",
+   "type": "mc",
+   "q": "Khi viết bài thuyết minh luật chơi, mỗi ý thuyết minh nên được trình bày thế nào?",
+   "opts": [
+    "Thành một đoạn văn riêng, miêu tả chi tiết, rõ ràng",
+    "Gộp tất cả vào một câu",
+    "Chỉ ghi tên trò chơi",
+    "Bỏ qua các bước chơi"
+   ],
+   "a": 0,
+   "why": "SGK (tr.94): miêu tả quy tắc, luật lệ của trò chơi, hoạt động một cách chi tiết, rõ ràng; mỗi ý thuyết minh trình bày thành một đoạn văn.",
+   "wrong": [
+    null,
+    "Gộp vào một câu sẽ khó hiểu.",
+    "Cần miêu tả quy tắc cụ thể.",
+    "Các bước chơi là nội dung chính."
+   ]
+  },
+  {
+   "id": "9zd",
+   "bai": 4,
+   "tag": "viet",
+   "type": "short",
+   "q": "Viết 3–4 câu miêu tả luật chơi của MỘT trò chơi em biết (ví dụ: bịt mắt bắt dê, nhảy bao bố, kéo co).",
+   "goi": "Gợi ý: Nêu số người chơi → cách chơi chính → khi nào thắng hoặc bị phạt.",
+   "mau": "Trò chơi nhảy bao bố thường có từ năm đến sáu bạn tham gia. Mỗi bạn đứng trong một chiếc bao bố, hai tay giữ mép bao rồi nhảy về đích. Bạn nào ngã hoặc bước ra khỏi bao phải quay lại vạch xuất phát. Người về đích đầu tiên là người thắng cuộc.",
+   "y": [
+    "Nêu số người hoặc dụng cụ",
+    "Miêu tả đúng trình tự cách chơi",
+    "Có luật phạt hoặc cách tính thắng thua"
+   ]
+  },
+  {
+   "id": "9n1",
+   "bai": 4,
+   "tag": "noi",
+   "type": "mc",
+   "q": "Khi giải thích quy tắc của trò chơi, em nên mở đầu bài nói thế nào?",
+   "opts": [
+    "Thu hút người nghe bằng thái độ hào hứng, có thể đặt câu hỏi như “Các bạn đã bao giờ chơi trò… chưa?”",
+    "Đọc to nguyên văn bài viết",
+    "Xin lỗi vì nói chưa hay",
+    "Nói rất nhỏ để không ai nghe"
+   ],
+   "a": 0,
+   "why": "SGK (tr.96): mở đầu nên thu hút người nghe bằng thái độ hào hứng với trò chơi, có thể đặt câu hỏi cho người nghe.",
+   "wrong": [
+    null,
+    "Không nên chỉ đọc nguyên văn.",
+    "Không cần xin lỗi.",
+    "Nói quá nhỏ khiến người nghe không hiểu."
+   ]
+  },
+  {
+   "id": "9n2",
+   "bai": 4,
+   "tag": "noi",
+   "type": "mc",
+   "q": "Khi trình bày quy tắc trò chơi, em có thể làm gì để người nghe dễ hiểu hơn?",
+   "opts": [
+    "Dùng cử chỉ, điệu bộ mô phỏng động tác, kèm tranh ảnh, sơ đồ hoặc dụng cụ",
+    "Nói thật nhanh",
+    "Chỉ đứng im",
+    "Tránh nhìn người nghe"
+   ],
+   "a": 0,
+   "why": "SGK (tr.96): có thể dùng cử chỉ, điệu bộ để mô phỏng động tác; chuẩn bị tranh ảnh, hình vẽ, sơ đồ, dụng cụ hoặc bản trình chiếu.",
+   "wrong": [
+    null,
+    "Nói nhanh khiến người nghe khó theo dõi.",
+    "Đứng im làm bài nói kém sinh động.",
+    "Cần tương tác với người nghe."
+   ]
+  },
+  {
+   "id": "10a",
+   "bai": 5,
+   "tag": "tg",
+   "type": "mc",
+   "q": "“Quê nội” và “Tảng sáng” là hai phần của bộ truyện nào, của nhà văn nào?",
+   "opts": [
+    "Quê nội, của Võ Quảng",
+    "Quê hương, của Tế Hanh",
+    "Đất rừng phương Nam, của Đoàn Giỏi",
+    "Hoàng tử bé, của Ê-xu-pe-ri"
+   ],
+   "a": 0,
+   "why": "SGK (tr.104): Võ Quảng, tác giả bài thơ Ngàn sao làm việc ở Bài 1, còn là tác giả bộ truyện Quê nội (gồm hai phần: Quê nội và Tảng sáng).",
+   "wrong": [
+    null,
+    "Tế Hanh là tác giả bài thơ Quê hương ở Bài 3 (tập một).",
+    "Đất rừng phương Nam là tác phẩm của Đoàn Giỏi ở Bài 1 (tập một).",
+    "Hoàng tử bé là tác phẩm của Ê-xu-pe-ri, dùng làm bài viết tham khảo."
+   ]
+  },
+  {
+   "id": "10b",
+   "bai": 5,
+   "tag": "tg",
+   "type": "match",
+   "q": "Ghép cuốn sách với tác giả (các sách có đoạn trích đã học, SGK gợi ý đọc trọn vẹn).",
+   "pairs": [
+    [
+     "Đất rừng phương Nam",
+     "Đoàn Giỏi"
+    ],
+    [
+     "Vừa nhắm mắt vừa mở cửa sổ",
+     "Nguyễn Ngọc Thuần"
+    ],
+    [
+     "Người thầy đầu tiên",
+     "Ai-tơ-ma-tốp"
+    ],
+    [
+     "Nóng, Phẳng, Chật",
+     "Thô-mát L. Phrít-man"
+    ]
+   ],
+   "why": "SGK (tr.103) gợi ý đọc trọn vẹn một số cuốn sách có đoạn trích đã học trong chương trình."
+  },
+  {
+   "id": "10c",
+   "bai": 5,
+   "tag": "tg",
+   "type": "mc",
+   "q": "Văn bản “Vẻ đẹp giản dị và chân thật của Quê nội” thuộc loại nào?",
+   "opts": [
+    "Văn bản nghị luận phân tích một tác phẩm văn học (phê bình)",
+    "Truyện ngụ ngôn",
+    "Bản tường trình",
+    "Thơ bốn chữ"
+   ],
+   "a": 0,
+   "why": "Bài của Trần Thanh Địch bàn luận, đánh giá giá trị nội dung và nghệ thuật của bộ truyện Quê nội: đó là nghị luận phân tích một tác phẩm văn học (SGK tr.104–106).",
+   "wrong": [
+    null,
+    "Đây không phải truyện ngụ ngôn.",
+    "Đây không phải văn bản hành chính.",
+    "Đây là văn xuôi nghị luận."
+   ]
+  },
+  {
+   "id": "10d",
+   "bai": 5,
+   "tag": "tg",
+   "type": "mc",
+   "q": "Theo Tri thức ngữ văn, văn bản nghị luận phân tích một tác phẩm văn học làm gì?",
+   "opts": [
+    "Làm rõ và bàn luận về đặc điểm nội dung, hình thức của tác phẩm, khái quát giá trị chung",
+    "Kể lại toàn bộ cốt truyện không nhận xét",
+    "Giới thiệu luật chơi của trò chơi",
+    "Ghi lại một sự việc đã xảy ra"
+   ],
+   "a": 0,
+   "why": "SGK (tr.102): người viết làm rõ và bàn luận về đặc điểm của tác phẩm trên các phương diện nội dung, hình thức trong mối quan hệ với tác giả, hoàn cảnh sáng tác, thời đại…, và khái quát giá trị chung của tác phẩm.",
+   "wrong": [
+    null,
+    "Chỉ kể lại cốt truyện thì chưa phải nghị luận phân tích.",
+    "Đó là văn bản thuyết minh.",
+    "Đó là văn bản tường trình."
+   ]
+  },
+  {
+   "id": "10e",
+   "bai": 5,
+   "tag": "tg",
+   "type": "mc",
+   "q": "Trong văn bản nghị luận phân tích tác phẩm văn học, LÍ LẼ và BẰNG CHỨNG là gì?",
+   "opts": [
+    "Lí lẽ là ý kiến về đặc điểm nội dung, hình thức; bằng chứng là câu, đoạn, chi tiết dẫn từ tác phẩm",
+    "Lí lẽ là chi tiết trích; bằng chứng là ý kiến",
+    "Cả hai đều là tên tác giả",
+    "Cả hai đều là số liệu"
+   ],
+   "a": 0,
+   "why": "SGK (tr.102): lí lẽ là ý kiến của người viết về đặc điểm nội dung, hình thức; bằng chứng là câu, đoạn, chi tiết dẫn từ văn bản (trích nguyên văn hoặc lược thuật, tóm tắt).",
+   "wrong": [
+    null,
+    "Hai khái niệm bị đảo ngược.",
+    "Không phải tên tác giả.",
+    "Không phải số liệu."
+   ]
+  },
+  {
+   "id": "10f",
+   "bai": 5,
+   "tag": "tg",
+   "type": "mc",
+   "q": "Nhân vật văn học có đồng nhất với con người có thật ngoài đời không?",
+   "opts": [
+    "Không: nhân vật là sản phẩm sáng tạo, hư cấu của nhà văn, dù gợi từ con người thật",
+    "Có: luôn giống hệt người thật",
+    "Có: chỉ là bản sao",
+    "Không có liên hệ gì với đời thực"
+   ],
+   "a": 0,
+   "why": "SGK (tr.102): nhân vật văn học là sản phẩm của sự sáng tạo, hư cấu; không đồng nhất với con người thực, nhưng con người trong đời thực là chất liệu cho nhà văn sáng tạo.",
+   "wrong": [
+    null,
+    "Nhân vật có hư cấu, không phải bản sao.",
+    "Không chỉ là bản sao.",
+    "Nhân vật vẫn có mối liên hệ với đời thực."
+   ]
+  },
+  {
+   "id": "10g",
+   "bai": 5,
+   "tag": "tg",
+   "type": "mc",
+   "q": "Văn bản đa phương thức khác văn bản chỉ dùng ngôn ngữ ở điểm nào?",
+   "opts": [
+    "Kết hợp ngôn ngữ với phương tiện phi ngôn ngữ như hình ảnh, sơ đồ, màu sắc, hình khối",
+    "Chỉ dùng chữ",
+    "Chỉ dùng âm thanh",
+    "Chỉ có tiêu đề"
+   ],
+   "a": 0,
+   "why": "SGK (tr.102): văn bản đa phương thức kết hợp phương tiện ngôn ngữ và phương tiện phi ngôn ngữ (hình vẽ, sơ đồ, mảng màu, hình khối…) để tăng lượng thông tin và hiệu quả tiếp nhận.",
+   "wrong": [
+    null,
+    "Chỉ dùng chữ là văn bản thuần ngôn ngữ.",
+    "Không chỉ có âm thanh.",
+    "Không chỉ có tiêu đề."
+   ]
+  },
+  {
+   "id": "10h",
+   "bai": 5,
+   "tag": "tv",
+   "type": "sort",
+   "q": "Văn bản nào dưới đây là văn bản ĐA PHƯƠNG THỨC?",
+   "bins": [
+    "Đa phương thức (ngôn ngữ + phi ngôn ngữ)",
+    "Chỉ dùng ngôn ngữ"
+   ],
+   "items": [
+    [
+     "Truyện tranh có tranh vẽ và lời thoại",
+     0
+    ],
+    [
+     "Áp phích giới thiệu sách có hình minh hoạ và dòng chữ",
+     0
+    ],
+    [
+     "Sơ đồ tư duy tóm tắt bài đọc",
+     0
+    ],
+    [
+     "Bài văn nghị luận chỉ có chữ",
+     1
+    ],
+    [
+     "Bức thư tay chỉ gồm chữ",
+     1
+    ]
+   ],
+   "why": "Văn bản đa phương thức kết hợp chữ với hình ảnh, sơ đồ, màu sắc… (SGK tr.102)."
+  },
+  {
+   "id": "10i",
+   "bai": 5,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Phương tiện nào sau đây là phương tiện PHI ngôn ngữ trong văn bản?",
+   "opts": [
+    "Hình vẽ, sơ đồ, màu sắc",
+    "Từ ngữ",
+    "Câu văn",
+    "Đoạn văn"
+   ],
+   "a": 0,
+   "why": "SGK (tr.102): phương tiện phi ngôn ngữ gồm hình vẽ, sơ đồ, các mảng màu sắc, hình khối…",
+   "wrong": [
+    null,
+    "Từ ngữ là phương tiện ngôn ngữ.",
+    "Câu văn là phương tiện ngôn ngữ.",
+    "Đoạn văn là phương tiện ngôn ngữ."
+   ]
+  },
+  {
+   "id": "10j",
+   "bai": 5,
+   "tag": "tv",
+   "type": "mc",
+   "q": "Trong văn bản đa phương thức, vai trò của hình ảnh và ngôn ngữ thường là:",
+   "opts": [
+    "Hình ảnh là phần trọng tâm truyền đạt thông tin; ngôn ngữ hỗ trợ thêm bằng ghi chú, dẫn giải",
+    "Ngôn ngữ luôn là phần chính",
+    "Hình ảnh chỉ để trang trí",
+    "Hai phương tiện không liên quan"
+   ],
+   "a": 0,
+   "why": "SGK (tr.102): phần trọng tâm là các kiểu hình ảnh sắp xếp để truyền đạt thông tin; ngôn ngữ là phương tiện hỗ trợ thêm như ghi chú, dẫn giải.",
+   "wrong": [
+    null,
+    "SGK nêu hình ảnh là trọng tâm.",
+    "Hình ảnh có vai trò truyền thông tin.",
+    "Hai phương tiện phối hợp với nhau."
+   ]
+  },
+  {
+   "id": "10k",
+   "bai": 5,
+   "tag": "tg",
+   "type": "mc",
+   "q": "Khi đọc một cuốn sách để trao đổi với bạn, em cần chú ý ghi lại những vấn đề nào?",
+   "opts": [
+    "Đề tài, bố cục và nội dung chính, nhân vật – sự kiện – bối cảnh nổi bật, chi tiết quan trọng, chủ đề và bài học",
+    "Chỉ ghi giá tiền",
+    "Chỉ ghi màu bìa",
+    "Không cần ghi gì"
+   ],
+   "a": 0,
+   "why": "SGK (tr.104): ngoài tên sách, tác giả, nhà xuất bản, năm xuất bản, cần xác định đề tài; bố cục và nội dung chính; nhân vật, sự kiện, bối cảnh; chi tiết quan trọng; chủ đề, ý nghĩa, bài học.",
+   "wrong": [
+    null,
+    "Giá tiền không phải nội dung chính.",
+    "Màu bìa không phải nội dung chính.",
+    "Ghi chép giúp trao đổi hiệu quả."
+   ]
+  },
+  {
+   "id": "10l",
+   "bai": 5,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Bối cảnh của bộ truyện “Quê nội” – “Tảng sáng” theo bài phê bình của Trần Thanh Địch là gì?",
+   "opts": [
+    "Một nông thôn miền Trung, thôn Hoà Phước bên sông Thu Bồn, những ngày mới sau Cách mạng tháng Tám",
+    "Một thành phố lớn ngày nay",
+    "Một ngôi trường ở nước ngoài",
+    "Một con tàu ngoài vũ trụ"
+   ],
+   "a": 0,
+   "why": "SGK (tr.105): nội dung xảy ra ở một nông thôn miền Trung, thôn Hoà Phước, bên con sông Thu Bồn, vào những ngày mới sau Cách mạng tháng Tám thành công.",
+   "wrong": [
+    null,
+    "Truyện nói về làng quê, không phải thành phố.",
+    "Truyện không diễn ra ở nước ngoài.",
+    "Đó là bối cảnh viễn tưởng, không phải của Quê nội."
+   ],
+   "pid": "s10a",
+   "muc": "biet"
+  },
+  {
+   "id": "10m",
+   "bai": 5,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Trong bài phê bình, nhân vật nào được nhắc là “nổi đình nổi đám” vì thuộc ca dao, tục ngữ dù đang học chữ?",
+   "opts": [
+    "Bà Kiến",
+    "Anh Trâu Bĩnh",
+    "Thầy Lê Tảo",
+    "Ông Hai Dĩ"
+   ],
+   "a": 0,
+   "why": "SGK (tr.105): Cục và Cù Lao được phân công dạy chữ cho bà Kiến, hoá ra bà thạo tiếng Tây, tiếng Tàu, ca dao tục ngữ, đọc vanh vách.",
+   "wrong": [
+    null,
+    "Trâu Bĩnh là nhân vật thuộc tuyến nhân vật thứ ba (con vật).",
+    "Thầy Lê Tảo là một nhân vật khác trong truyện.",
+    "Ông Hai Dĩ bị chó rượt trong một chi tiết."
+   ],
+   "pid": "s10a",
+   "muc": "biet"
+  },
+  {
+   "id": "10n",
+   "bai": 5,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Theo Trần Thanh Địch, truyện kể ở ngôi “tôi” có nhược điểm lớn nhất là gì?",
+   "opts": [
+    "Không nhìn được xa, không nói được nội tâm, suy nghĩ của các nhân vật khác một cách trực diện",
+    "Không có nhân vật chính",
+    "Quá nhiều nhân vật con vật",
+    "Không có cảnh vật"
+   ],
+   "a": 0,
+   "why": "SGK (tr.105–106): vai “tôi” có thế mạnh là dẫn dắt vào suy nghĩ thầm kín, nhưng nhược điểm lớn nhất là không nhìn được xa, không nói được nội tâm, suy nghĩ của các nhân vật trực diện khác.",
+   "wrong": [
+    null,
+    "Nhân vật “tôi” vẫn là nhân vật chính.",
+    "Nhược điểm không phải là con vật.",
+    "Truyện có nhiều cảnh vật."
+   ],
+   "pid": "s10a",
+   "muc": "hieu"
+  },
+  {
+   "id": "10o",
+   "bai": 5,
+   "tag": "doc",
+   "type": "short",
+   "q": "Nêu MỘT chi tiết hoặc hình ảnh trong bài phê bình khiến em hiểu vì sao “Quê nội” hấp dẫn. (1–2 câu)",
+   "goi": "Gợi ý: Em ấn tượng với … vì nó cho thấy …",
+   "mau": "Em ấn tượng với cảnh đồng bào gọi nhau đi học ban đêm qua những ngọn đèn bồng bềnh từ nhà này trôi sang nhà khác, vì nó cho thấy không khí sôi động, ấm áp của làng quê những ngày mới.",
+   "y": [
+    "Nêu đúng một chi tiết có trong bài phê bình",
+    "Giải thích vì sao chi tiết đó hấp dẫn",
+    "Câu văn rõ ràng, đủ ý"
+   ],
+   "pid": "s10a",
+   "muc": "vd"
+  },
+  {
+   "id": "10p",
+   "bai": 5,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Trong bài tham khảo về Hoàng tử bé, người phi công gặp cậu bé ở đâu và cậu nói câu đầu tiên là gì?",
+   "opts": [
+    "Giữa sa mạc; cậu nhờ “vẽ hộ tôi một con cừu”",
+    "Trong thành phố; cậu hỏi đường",
+    "Trên biển; cậu xin nước",
+    "Ở trường; cậu mượn sách"
+   ],
+   "a": 0,
+   "why": "SGK (tr.113): người phi công ngủ trên cát giữa sa mạc, rồi nghe giọng nói “Xin vui lòng… vẽ hộ tôi một con cừu”.",
+   "wrong": [
+    null,
+    "Không phải ở thành phố.",
+    "Không phải trên biển.",
+    "Không phải ở trường."
+   ],
+   "pid": "s10b",
+   "muc": "biet"
+  },
+  {
+   "id": "10q",
+   "bai": 5,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Đặc điểm nổi bật của hoàng tử bé mà người viết phân tích là gì?",
+   "opts": [
+    "Luôn cố gắng trò chuyện với tất cả để lắng nghe, thấu hiểu, chia sẻ và yêu thương",
+    "Chỉ thích ở một mình",
+    "Luôn tức giận",
+    "Sợ mọi thứ"
+   ],
+   "a": 0,
+   "why": "SGK (tr.113–114): nhan đề bài viết là “trò chuyện để thấu hiểu và yêu thương”; hoàng tử bé không ngừng tìm những cuộc trò chuyện để lắng nghe, thì thầm, chia sẻ.",
+   "wrong": [
+    null,
+    "Bài viết nói cậu luôn trò chuyện.",
+    "Cậu không tức giận.",
+    "Cậu không sợ hãi."
+   ],
+   "pid": "s10b",
+   "muc": "hieu"
+  },
+  {
+   "id": "10r",
+   "bai": 5,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Thái độ của hoàng tử bé với con rắn cho thấy phẩm chất gì?",
+   "opts": [
+    "Bao dung, vị tha: vẫn nói đỡ cho con rắn dù bị nọc độc",
+    "Hung hăng",
+    "Sợ hãi",
+    "Thờ ơ"
+   ],
+   "a": 0,
+   "why": "SGK (tr.114): hoàng tử bé không chống lại nọc độc của con rắn nhưng vẫn dành cho nó những lời bào chữa bao dung nhất.",
+   "wrong": [
+    null,
+    "Cậu không hung hăng.",
+    "Cậu không sợ hãi.",
+    "Cậu vẫn quan tâm tới người khác."
+   ],
+   "pid": "s10b",
+   "muc": "hieu"
+  },
+  {
+   "id": "10s",
+   "bai": 5,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Ý nghĩa hình tượng hoàng tử bé theo bài viết tham khảo là gì?",
+   "opts": [
+    "Nhắn nhủ về tình yêu thương, lòng vị tha và khao khát được sẻ chia, thấu hiểu",
+    "Ca ngợi sự giàu có",
+    "Khuyên con người sống một mình",
+    "Nói về cách làm phi công"
+   ],
+   "a": 0,
+   "why": "SGK (tr.114): giọng nói của hoàng tử bé như vẫn ngân lên, thì thầm với chúng ta về tình yêu thương, lòng vị tha và niềm khao khát được sẻ chia, thấu hiểu.",
+   "wrong": [
+    null,
+    "Bài viết không ca ngợi của cải.",
+    "Bài viết ca ngợi sự sẻ chia.",
+    "Bài viết không bàn về nghề phi công."
+   ],
+   "pid": "s10b",
+   "muc": "vd"
+  },
+  {
+   "id": "10t",
+   "bai": 5,
+   "tag": "doc",
+   "type": "mc",
+   "q": "Đoạn văn trên phân tích đặc điểm gì của nhân vật Mi?",
+   "opts": [
+    "Giàu lòng nhân ái",
+    "Hay giận dỗi",
+    "Lười biếng",
+    "Rất giàu có"
+   ],
+   "a": 0,
+   "why": "Câu 1 nêu nhận định: Mi là một cô bé giàu lòng nhân ái; các câu sau dẫn hành động, lời nói làm bằng chứng.",
+   "wrong": [
+    null,
+    "Đoạn không nhắc tới giận dỗi.",
+    "Đoạn không nói Mi lười biếng.",
+    "Đoạn không nói Mi giàu có."
+   ],
+   "pid": "d10",
+   "muc": "biet"
+  },
+  {
+   "id": "10u",
+   "bai": 5,
+   "tag": "doc",
+   "type": "evid",
+   "pid": "d10",
+   "muc": "hieu",
+   "q": "Gạch chân (chạm vào) những câu dẫn BẰNG CHỨNG từ tác phẩm (hành động, lời nói của nhân vật).",
+   "ans": [
+    1,
+    2
+   ],
+   "why": "Câu 2 nêu hành động (nhường ô cho cụ già); câu 3 dẫn lời nói chân thành của Mi. Đây là bằng chứng làm rõ nhận định ở câu 1."
+  },
+  {
+   "id": "10v",
+   "bai": 5,
+   "tag": "doc",
+   "type": "evid",
+   "pid": "d10",
+   "muc": "vd",
+   "q": "Gạch chân (chạm vào) câu nhận xét về NGHỆ THUẬT xây dựng nhân vật của nhà văn.",
+   "ans": [
+    3
+   ],
+   "why": "Câu 4 nêu cách nhà văn khắc hoạ nhân vật: bằng hành động nhỏ và lời thoại giản dị, gần gũi."
+  },
+  {
+   "id": "10w",
+   "bai": 5,
+   "tag": "doc",
+   "type": "short",
+   "q": "Em hãy viết thêm MỘT câu nêu ý nghĩa của hình tượng nhân vật Mi.",
+   "goi": "Gợi ý: Qua nhân vật Mi, nhà văn muốn nhắn nhủ rằng …",
+   "mau": "Qua nhân vật Mi, nhà văn muốn nhắn nhủ rằng những việc làm nhỏ xuất phát từ tấm lòng nhân ái cũng có thể sưởi ấm cuộc sống.",
+   "y": [
+    "Nêu được ý nghĩa, thông điệp",
+    "Gắn với phẩm chất của nhân vật",
+    "Câu văn rõ ràng, đủ ý"
+   ],
+   "pid": "d10",
+   "muc": "vd"
+  },
+  {
+   "id": "10x",
+   "bai": 5,
+   "tag": "viet",
+   "type": "mc",
+   "q": "Yêu cầu của bài văn phân tích một nhân vật văn học trong cuốn sách đã đọc gồm những gì?",
+   "opts": [
+    "Giới thiệu nhân vật; chỉ ra đặc điểm qua bằng chứng; nhận xét nghệ thuật xây dựng nhân vật; nêu ý nghĩa hình tượng",
+    "Chỉ kể lại cốt truyện",
+    "Chỉ viết cảm nghĩ chung chung",
+    "Chỉ tả hình dáng bên ngoài"
+   ],
+   "a": 0,
+   "why": "SGK (tr.112): giới thiệu nhân vật; chỉ ra đặc điểm, tính cách qua bằng chứng (ngoại hình, hành động, ngôn ngữ, tâm trạng); nhận xét nghệ thuật xây dựng nhân vật; nêu ý nghĩa của hình tượng nhân vật.",
+   "wrong": [
+    null,
+    "Kể lại cốt truyện chưa phải phân tích.",
+    "Cần có bằng chứng cụ thể.",
+    "Không chỉ tả hình dáng."
+   ]
+  },
+  {
+   "id": "10y",
+   "bai": 5,
+   "tag": "viet",
+   "type": "order",
+   "q": "Sắp xếp dàn ý bài văn phân tích nhân vật yêu thích.",
+   "items": [
+    "Mở bài: giới thiệu nhân vật, nêu ấn tượng ban đầu",
+    "Thân bài: bối cảnh và các mối quan hệ làm nổi bật nhân vật",
+    "Thân bài: đặc điểm nổi bật qua bằng chứng (ngoại hình, ngôn ngữ, hành động, suy nghĩ)",
+    "Thân bài: nghệ thuật xây dựng nhân vật",
+    "Thân bài: ý nghĩa của hình tượng nhân vật",
+    "Kết bài: bài học, suy nghĩ, ấn tượng sâu sắc"
+   ],
+   "why": "Dàn ý theo SGK (tr.115)."
+  },
+  {
+   "id": "10z",
+   "bai": 5,
+   "tag": "viet",
+   "type": "sort",
+   "q": "Chi tiết sau thuộc phương diện nào của nhân vật Mi? (ví dụ tự đặt để luyện)",
+   "bins": [
+    "Ngoại hình",
+    "Hành động",
+    "Ngôn ngữ",
+    "Suy nghĩ, tâm trạng"
+   ],
+   "items": [
+    [
+     "Cô bé nhỏ nhắn, tóc buộc hai bên, đôi mắt sáng",
+     0
+    ],
+    [
+     "Mi chạy đến, đặt chiếc ô vào tay cụ già",
+     1
+    ],
+    [
+     "“Cụ cầm lấy đi ạ, cháu chạy về được mà.”",
+     2
+    ],
+    [
+     "Mi nghĩ thầm: “Cụ lớn tuổi, ướt mưa dễ ốm lắm.”",
+     3
+    ]
+   ],
+   "why": "Khi phân tích nhân vật, cần dựa vào bằng chứng thuộc nhiều phương diện: ngoại hình, hành động, ngôn ngữ, suy nghĩ (SGK tr.112)."
+  },
+  {
+   "id": "10za",
+   "bai": 5,
+   "tag": "viet",
+   "type": "mc",
+   "q": "Có hai cách đưa bằng chứng vào bài phân tích nhân vật. Đó là:",
+   "opts": [
+    "Tóm tắt hoặc trích nguyên văn",
+    "Chỉ vẽ tranh",
+    "Chỉ liệt kê tên",
+    "Chỉ kể chuyện khác"
+   ],
+   "a": 0,
+   "why": "SGK (tr.115): sử dụng các chi tiết, bằng chứng làm rõ đặc điểm nhân vật theo hai cách: tóm tắt hoặc trích nguyên văn.",
+   "wrong": [
+    null,
+    "Không phải cách đưa bằng chứng.",
+    "Không đủ để chứng minh.",
+    "Phải bám sát tác phẩm."
+   ]
+  },
+  {
+   "id": "10zb",
+   "bai": 5,
+   "tag": "viet",
+   "type": "mc",
+   "q": "Khi chỉnh sửa bài phân tích nhân vật, em cần kiểm tra điều gì đầu tiên về thông tin?",
+   "opts": [
+    "Tên nhân vật, tên sách, tác giả và các chi tiết liên quan có chính xác không",
+    "Màu mực viết",
+    "Kiểu chữ trang trí",
+    "Số trang giấy"
+   ],
+   "a": 0,
+   "why": "SGK (tr.115): tự kiểm tra tên nhân vật, tên sách, tác giả và các chi tiết liên quan; bằng chứng đã đủ, phù hợp chưa; lỗi chính tả, dùng từ, đặt câu, tổ chức đoạn.",
+   "wrong": [
+    null,
+    "Không phải trọng tâm.",
+    "Không phải trọng tâm.",
+    "Không phải trọng tâm."
+   ]
+  },
+  {
+   "id": "10zc",
+   "bai": 5,
+   "tag": "viet",
+   "type": "short",
+   "q": "Viết 2–3 câu Mở bài phân tích một nhân vật em yêu thích (trong sách em đã đọc).",
+   "goi": "Gợi ý: Giới thiệu tên nhân vật, cuốn sách, tác giả → nêu ấn tượng ban đầu.",
+   "mau": "Trong cuốn “Hoàng tử bé” của nhà văn Ăng-toan đơ Xanh-tơ Ê-xu-pe-ri, nhân vật hoàng tử bé để lại trong em ấn tượng sâu sắc. Cậu bé nhỏ nhắn đến từ một tiểu hành tinh xa xôi ấy luôn trò chuyện chân thành với mọi người để thấu hiểu và yêu thương.",
+   "y": [
+    "Nêu đúng tên nhân vật, sách, tác giả",
+    "Có ấn tượng ban đầu về nhân vật",
+    "Câu văn rõ ràng, đúng chính tả"
+   ]
+  },
+  {
+   "id": "10n1",
+   "bai": 5,
+   "tag": "noi",
+   "type": "mc",
+   "q": "Trong hoạt động Nói và nghe của Bài 10 (Ngày hội với sách), em có thể chọn hoạt động nào?",
+   "opts": [
+    "Giới thiệu sản phẩm sáng tạo từ sách, hoặc trình bày ý kiến về tác dụng, ý nghĩa của việc đọc sách",
+    "Chỉ ngồi nghe",
+    "Chỉ làm bài kiểm tra",
+    "Chỉ vẽ tranh không nói"
+   ],
+   "a": 0,
+   "why": "SGK (tr.115–116): chọn một trong hai hoạt động: giới thiệu sản phẩm sáng tạo từ sách; trình bày ý kiến về tác dụng, ý nghĩa của việc đọc sách.",
+   "wrong": [
+    null,
+    "Cần tham gia trình bày.",
+    "Không phải hoạt động của bài.",
+    "Cần giới thiệu bằng lời."
+   ]
+  },
+  {
+   "id": "10n2",
+   "bai": 5,
+   "tag": "noi",
+   "type": "mc",
+   "q": "Khi giới thiệu sản phẩm sáng tạo từ sách (truyện tranh, pô-xtơ nhân vật…), em nên làm gì?",
+   "opts": [
+    "Dùng phương tiện phi ngôn ngữ kết hợp lời giới thiệu ngắn để giải thích sinh động, hấp dẫn",
+    "Chỉ đưa sản phẩm ra, không nói",
+    "Đọc nguyên văn một đoạn dài",
+    "Nói rất nhanh"
+   ],
+   "a": 0,
+   "why": "SGK (tr.116): có thể sử dụng phương tiện phi ngôn ngữ kết hợp lời giới thiệu, thuyết trình ngắn để giải thích về sản phẩm sao cho sinh động, hấp dẫn với người nghe.",
+   "wrong": [
+    null,
+    "Cần giới thiệu bằng lời.",
+    "Đọc quá dài làm nhàm chán.",
+    "Nói quá nhanh khó nghe."
+   ]
+  }
+ ]
+}
